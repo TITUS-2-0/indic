@@ -55,12 +55,12 @@ jobs:
           for ID in $CLOSED_IDS; do
             ISSUE_NUMBER=$(echo "$ISSUE_MAPPING" | grep "$ID:" | cut -d ":" -f 2 | xargs)
             if [ -n "$ISSUE_NUMBER" ]; then
-              curl -X PATCH \
+              RESPONSE=$(curl -s -S -X PATCH \
                    -H "Authorization: token $GITHUB_TOKEN" \
                    -H "Accept: application/vnd.github+json" \
                    "https://api.github.com/repos/$GITHUB_REPOSITORY/issues/$ISSUE_NUMBER" \
-                   -d '{"state": "closed"}'
-              echo "Closed issue #$ISSUE_NUMBER for dataset $ID."
+                   -d '{"state": "closed"}')
+              echo "Response for closing issue #$ISSUE_NUMBER for dataset $ID: $RESPONSE"
             else
               echo "No issue found for dataset $ID."
             fi
