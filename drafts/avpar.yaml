@@ -1,10 +1,10 @@
 - body:
   - parisista[n=0]:
-    - section[n=0]:
-      - ab[n=0,type=verse]: śrīgaṇeśāya namaḥ \\ oṃ namo 'tʰarvātmane vāmadevāya śivāya
-          \\ śrīsarasvatyai namaḥ \\
+    - head:
   - parisista[n=1]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: nakṣatrakalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 1.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: nakṣatrakalpaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa nakṣatrakalpaṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: kr̥ttikā rohiṇī mr̥gaśira ārdrā punarvasū puṣyāśleṣā magʰā(ḥ)
@@ -230,32 +230,64 @@
       - ab[n=1,type=verse]: uttare pʰalgunyau hasta{ś} citrā svāti{r} viśākʰe anūrādʰā
           jyeṣṭʰā mūlaṃ pūrvāṣāḍʰā tan navamam ādityo daśamaṃ [nāmarūpa] pūrvapakṣāparapakṣāv
           ekādaśadvādaśe
-      - ab[n=2,type=verse]: etāny evāsmai
-      - ab[n=3,type=verse]: atʰa yam
-      - ab[n=4,type=verse]: prāñcam idʰmam
-      - ab[n=5,type=verse]: evam
+      - ab[n=2,type=verse]:
+        - etāny evāsmai
+        - foreign[lg=deu-Latn]: = 1,12.2.
+      - ab[n=3,type=verse]:
+        - atʰa yam
+        - foreign[lg=deu-Latn]: = 1,12.3.
+      - ab[n=4,type=verse]:
+        - prāñcam idʰmam
+        - foreign[lg=deu-Latn]: = 1,12.4.
+      - ab[n=5,type=verse]:
+        - evam
+        - foreign[lg=deu-Latn]: = 1,12.5.
     - section[n=14]:
       - ab[n=1,type=verse]: uttarāṣāḍʰābʰijic cʰravaṇaḥ śraviṣṭʰā śatabʰiṣak proṣṭʰapadau
           revaty aśvayujau bʰaraṇyas tad daśamam ... paurṇamāsyamāvāsye dvādaśatrayodaśe
-      - ab[n=2,type=verse]: etāny evāsmai
-      - ab[n=3,type=verse]: atʰa yam
-      - ab[n=4,type=verse]: prāñcam idʰmam
-      - ab[n=5,type=verse]: evam
+      - ab[n=2,type=verse]:
+        - etāny evāsmai
+        - foreign[lg=deu-Latn]: = 1,12.2.
+      - ab[n=3,type=verse]:
+        - atʰa yam
+        - foreign[lg=deu-Latn]: = 1,12.3.
+      - ab[n=4,type=verse]:
+        - prāñcam idʰmam
+        - foreign[lg=deu-Latn]: = 1,12.4.
+      - ab[n=5,type=verse]:
+        - evam
+        - foreign[lg=deu-Latn]: = 1,12.5.
     - section[n=15]:
       - ab[n=1,type=verse]: r̥gvedo yajurvedaḥ sāmavedo brahmavedaḥ śikṣā kalpo vyākaraṇaṃ
           niruktaṃ cʰando jyotiṣam itihāsapurāṇaṃ vākovākya{m} idāvatsaraḥ parivatsaraḥ
           saṃvatsaro daśamaṃ śītoṣṇe ekādaśadvādaśe
-      - ab[n=2,type=verse]: etāny evāsmai
-      - ab[n=3,type=verse]: atʰa yam
-      - ab[n=4,type=verse]: prāñcam idʰmam
-      - ab[n=5,type=verse]: evam
+      - ab[n=2,type=verse]:
+        - etāny evāsmai
+        - foreign[lg=deu-Latn]: = 1,12.2.
+      - ab[n=3,type=verse]:
+        - atʰa yam
+        - foreign[lg=deu-Latn]: = 1,12.3.
+      - ab[n=4,type=verse]:
+        - prāñcam idʰmam
+        - foreign[lg=deu-Latn]: = 1,12.4.
+      - ab[n=5,type=verse]:
+        - evam
+        - foreign[lg=deu-Latn]: = 1,12.5.
     - section[n=16]:
       - ab[n=1,type=verse]: prāṇo apāno vyānaḥ samāna udānaś cakṣuḥ śrotraṃ vāṅ manas
           tan navamam ... daśamaṃ nāmarūpe ekādaśadvādaśe
-      - ab[n=2,type=verse]: etāny evāsmai
-      - ab[n=3,type=verse]: atʰa yam
-      - ab[n=4,type=verse]: prāñcam idʰmam
-      - ab[n=5,type=verse]: evam
+      - ab[n=2,type=verse]:
+        - etāny evāsmai
+        - foreign[lg=deu-Latn]: = 1,12.2.
+      - ab[n=3,type=verse]:
+        - atʰa yam
+        - foreign[lg=deu-Latn]: = 1,12.3.
+      - ab[n=4,type=verse]:
+        - prāñcam idʰmam
+        - foreign[lg=deu-Latn]: = 1,12.4.
+      - ab[n=5,type=verse]:
+        - evam
+        - foreign[lg=deu-Latn]: = 1,12.5.
     - section[n=17]:
       - ab[n=1,type=verse]: ajany ajanir yaśo ajanir varco ajanis tejo ajaniḥ saho
           ajanir maho ajanir brahmā ajanir brāhmaṇavarcasam ajaniḥ sarveṣāṃ lokānāṃ
@@ -264,7 +296,9 @@
       - ab[n=2,type=verse]: atʰa yaṃ kāmayeta sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ sarveṣāṃ
           vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajaniḥ syād
           iti tasmād etasmin nakṣatra evaṃvidvān kuryāt \\
-      - ab[n=3,type=verse]: prāñcam idʰmam
+      - ab[n=3,type=verse]:
+        - prāñcam idʰmam
+        - foreign[lg=deu-Latn]: = 1,12.4.
       - ab[n=4,type=verse]: evaṃ ced asmai karoti sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ
           sarveṣāṃ vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajanir
           bʰavati \\
@@ -772,8 +806,10 @@
           mahīyate \ yatʰā yaṣṭus tatʰādʰyetur eṣā brāhmī pratiśrutir eṣā brāhmī pratiśrutir
           iti \\
   - parisista[n=1b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: '[kr̥ttikārohiṇīmadʰye
-        paippalādā mantrāḥ]'
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 1b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: '[kr̥ttikārohiṇīmadʰye
+          paippalādā mantrāḥ]'
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           yad rājānaṃ śakadʰūmaṃ nakṣatrāṇy akr̥ṇvata \ bʰadrāham asmai prāyaccʰan
@@ -797,7 +833,9 @@
           śakunayo 'muṣyāmusyāyaṇasyāmuṣyāḥ putrasyādahane carantu \\
       - ab[n=col,type=verse]: kr̥ttikārohiṇīmadʰye paippalādā mantrāḥ \\
   - parisista[n=2]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rāṣṭrasaṃvargaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 2.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rāṣṭrasaṃvargaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om \ brahmaṇe brahmavedāya rudrāya parameṣṭʰine \ namaskr̥tya
           pravakṣyāmi śeṣam ātʰarvaṇaṃ vidʰim \\
@@ -876,7 +914,9 @@
           iti \\
       - ab[n=col,type=verse]: iti rāṣṭrasaṃvargaḥ samāptaḥ \\
   - parisista[n=3]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājapratʰamābʰiṣekaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 3.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājapratʰamābʰiṣekaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa rājapratʰamābʰiṣeke prakr̥tidravyāṇi parīkṣeta
           \\
@@ -947,7 +987,9 @@
           \\
       - ab[n=col,type=verse]: iti rājapratʰamābʰiṣekaḥ samāptaḥ \\
   - parisista[n=4]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: purohitakarmāṇi
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 4.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: purohitakarmāṇi
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa purohitakarmāṇi \\ rājñaḥ prātar uttʰitasya kr̥tasvastyayanasya
       - ab[n=2,type=verse]: atʰa purohitaḥ snātānuliptaḥ śuciḥ śuklavāsāḥ soṣṇīṣaḥ
@@ -1097,7 +1139,9 @@
           bʰuṅkte vasuṃdʰarām \\
       - ab[n=col,type=verse]: iti purohitakarmāṇi samāptāni \\
   - parisista[n=5]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: puṣyābʰiṣekaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 5.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: puṣyābʰiṣekaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰa puṣyābʰiṣekasya vidʰiṃ vakṣyāmi sāṃpadam \ dʰarmārtʰakāmasaṃyuktaṃ
           rājā kuryāt purohitam \\
@@ -1166,7 +1210,9 @@
           \\
       - ab[n=col,type=verse]: iti puṣyābʰiṣekaḥ \\
   - parisista[n=6]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: piṣṭarātryāḥ kalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 6.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: piṣṭarātryāḥ kalpaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰātaḥ piṣṭarātryāḥ kalpaṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: ahatavāsāḥ purastāt talpasya gomayena stʰaṇḍilam upalipya
@@ -1204,7 +1250,9 @@
       - ab[n=8,type=verse]: evamevam ahar ahaḥ kuryād iti \\ piṣṭarātryāḥ kalpaḥ samāptaḥ
           \\
   - parisista[n=7]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: ārātrikam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 7.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: ārātrikam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ na suṣvāpa purā śakro dānavānāṃ purodʰasā \ prayuktair
           auṣadʰair yogair mantrāṇāṃ japahomataḥ \\
@@ -1235,7 +1283,9 @@
           gaditaṃ nrpāṇām \ naivāpadaḥ samupayānti nr̥paṃ kadā cid ārātrikaṃ pratiniśaṃ
           kriyate tu yasya \\ ity ārātrikaṃ samāptam \\
   - parisista[n=8]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gʰr̥tāvekṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 8.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gʰr̥tāvekṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa gʰrtāvekṣaṇaṃ vakṣyāmaḥ \\
       - ab[n=2,type=verse]: prātaḥprātaḥ śaṅkʰadundubʰinādena brahmagʰoṣeṇa vā prabodʰito
@@ -1276,7 +1326,9 @@
           r̥caḥ 6, gʰr̥tasya jūtir iti r̥caḥ 4 gʰr̥tāvekṣaṇamadʰye paippalādā mantrāḥ
           \\
   - parisista[n=9]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: tiladʰenuvidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 9.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: tiladʰenuvidʰiḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰa tiladʰenuṃ pravakṣyāmi sarvapāpapraṇāśanīm \ tilāḥ
           śvetās tilāḥ kr̥ṣṇās tilā gomūtravarṇakāḥ \\
@@ -1335,7 +1387,9 @@
           atikramya sūryalokaṃ sa gaccʰati \\ sūryalokaṃ sa gaccʰatīti \\ iti tiladʰenuvidʰiḥ
           samāptaḥ \\
   - parisista[n=10]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰūmidānam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 10.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰūmidānam
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa rohiṇyāṃ sakalāyām upoṣito brahmā sarvabījarasaratnagandʰāvakīrṇaṃ
           tīrtʰodakapūrṇakalaśam ādāyātisr̥ṣṭo apām ity abʰiṣekamantrair yatʰoktair
@@ -1373,7 +1427,9 @@
           eva dānānāṃ yat pʰalaṃ samudāhr̥tam \ tattat prāpnoti viprebʰyo dattvā bʰūmiṃ
           yatʰāvidʰi \\ dattvā bʰūmiṃ yatʰāvidʰīti \\ iti bʰūmidānaṃ samāptam \\
   - parisista[n=11]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: tulāpuruṣavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 11.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: tulāpuruṣavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰātas tulāpuruṣavidʰiṃ vyākʰyāsyāmas
       - ab[n=2,type=verse]: tad udagayana āpūryamāṇapakṣe puṇye nakṣatre śraddʰāpreritau
@@ -1410,7 +1466,9 @@
           hiraṇmayaiḥ \ suvarṇatejāḥ pravimuktapāpo divīndravad rājati sūryaloke \\
           divīndravad rājati sūryaleketi \\ iti tulāpuruṣavidʰiḥ samāptaḥ \\
   - parisista[n=12]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: ādityamaṇḍakaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 12.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: ādityamaṇḍakaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa yaḥ kāmayeta sarveṣāṃ nr̥ṇām uttamaḥ syām iti
           sa bʰāskarāyāpūpaṃ dadyāt
@@ -1430,7 +1488,9 @@
           sāgraṃ nāśayaty avicārataḥ \ pradattaṃ sūryalokaṃ ca prāpayet paramaṃ padam
           \\ prāpayet paramaṃ padam iti \\ ity ādityamaṇḍakaḥ samāptaḥ \\
   - parisista[n=13]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: hiraṇyagarbʰavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 13.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: hiraṇyagarbʰavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa hiraṇyagarbʰavidʰim anukramiṣyāmaḥ sarvapāpāpanodanam
       - ab[n=2,type=verse]: udagayana āpūryamāṇapakṣe puṇye nakṣatre śraddʰāpreritau
@@ -1511,7 +1571,9 @@
       - ab[n=6,type=verse]: amuṣmin brahmaṇā sārdʰam ānandam anubʰūya vai \ jyotirmayaṃ
           satyalokaṃ nacaivāvartate punaḥ \\
   - parisista[n=14]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: hastiratʰadānavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 14.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: hastiratʰadānavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa hastiratʰadānānām anukramaṃ vakṣye
       - ab[n=2,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: jātarūpamayaṃ
@@ -1552,7 +1614,9 @@
           yuktaṃ hastena tu dadan naraḥ \ savituḥ stʰānam āpnoti divyāṃ kāmajavāṃ
           sabʰām \\
   - parisista[n=15]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: aśvaratʰadānavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 15.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: aśvaratʰadānavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰāśvaratʰadānavidʰiḥ.
       - ab[n=2,type=verse]: goṣṭʰa udakānte śucau vā deśe prāñcam idʰmam upasamādʰāyānvārabʰyātʰa
@@ -1570,7 +1634,9 @@
           lokānām ante jyotirlokam anāmayam \ gatvā sa paramānandaṃ bʰuṅkte yāvad
           vibʰāvasuḥ \\
   - parisista[n=16]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gosahasravidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 16.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gosahasravidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰāto gosahasravidʰiḥ \\
       - ab[n=2,type=verse]: goṣṭʰa udakānte śucau vā deśe prāñcam idʰmam upasamādʰāyānvālabʰyātʰa
@@ -1608,7 +1674,9 @@
       - ab[n=4,type=verse]: tasmād anena vidʰinā gosahasraṃ daden naraḥ \ sarvapāpaviśuddʰātmā
           yāti tat paramaṃ padam iti \\
   - parisista[n=17]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 17.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa pratisaṃvatsaraṃ rājakarmāṇi krameṇa vakṣyāmaḥ
           \\
@@ -1654,7 +1722,9 @@
       - ab[n=17,type=verse]: bahir niḥsr̥tyottareṇa gatvā bāhyenopaniṣkramya suhr̥de
           kuryāc cʰraddadʰate kuryād vāhanānām abʰayaṃ karma \\
   - parisista[n=18]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 18.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
     - section[n=1]:
       - ab[n=1,type=verse]: atʰāśvayuje māse paurṇamāsyām aparāhṇe hastinīrājanaṃ
           kuryāt \\
@@ -1721,7 +1791,9 @@
           ca bʰavanti \\
       - ab[n=12,type=verse]: gosahasraṃ kartre dakṣiṇā grāmavaraṃ ca \\
   - parisista[n=18b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 18b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rājakarmasāṃvatsarīyam
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa varṣaśataṃ pravardʰamāno rājānam abʰivardʰayiṣyan
           saṃvatsare janmadine kuryāt \\ tantram ity uktam \\
@@ -1818,7 +1890,9 @@
     - section[n=20]:
       - ab[n=1,type=verse]: rājakarma sāṃvatsarīyaṃ hastyaśvādidīkṣā samāptā \\
   - parisista[n=18c]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: vr̥ṣotsargaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 18c.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: vr̥ṣotsargaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa vr̥ṣotsargaḥ \\
       - ab[n=2,type=verse]: kārttikeyāṃ paurṇamāsyāṃ raivatyām āśvayujyāṃ vā gavāṃ
@@ -1845,7 +1919,9 @@
       - ab[n=12,type=verse]: atʰa brahmaṇe gāṃ payasvinīṃ dadyāt pāyasena brāhmaṇān
           bʰojayitvotsr̥jya sarvān kāmān āpnoti akṣayāṇ ca lokān āpnotīti
   - parisista[n=19]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: indramahotsavaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 19.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: indramahotsavaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa rājñam indramahotsavasya upacārakalpaṃ vyākʰyāsyāmaḥ
           \\
@@ -1895,7 +1971,9 @@
           rājā bʰavati na purā jarasaḥ pramīyate ya evaṃ veda yaś caivaṃvidvān indramaheṇa
           carati iti brāhmaṇam \\
   - parisista[n=19b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: brahmayāgaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 19b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: brahmayāgaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ bʰārgavaṃ praṇipatyātʰa bʰagavāñ śaunako 'vadat \ brahmayāgavidʰiṃ
           kr̥tsnaṃ vistareṇa vadasva me \\
@@ -1962,7 +2040,10 @@
       - ab[n=9,type=verse]: kr̥tābʰiṣekaḥ kr̥tayāga eṣa kr̥tāhhnikaḥ kr̥tarakṣaḥ sureśaḥ
           \ atʰarvaṇo 'nugraham āśu labdʰvā triviṣṭapaṃ virarājāsapatnam \\ iti \\
   - parisista[n=20]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: skandayāgaḥ or dʰūrtakalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 20.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: skandayāgaḥ or
+          dʰūrtakalpaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: atʰāto dʰūrtakalpaṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: caturṣucaturṣu māseṣu pʰālguṇāṣāḍʰakārttikapūrvapakṣeṣu
@@ -2097,7 +2178,9 @@
           dvijanmā pinākasenayajamānāt kāmam upabʰukto bʰuktvāmr̥tatvaṃ tadvad evābʰyupaiti
           \\
   - parisista[n=21]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: saṃbʰāralakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 21.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: saṃbʰāralakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           saṃbʰārān kīrtayiṣyāmo yatʰālakṣaṇasaṃyutān \ yaiḥ karma kriyamāṇaṃ hi pʰalavat
@@ -2194,7 +2277,9 @@
           mahāsiddʰir asamāpte vinirdiśet \\ asamāpte vinirdiśet \\ iti saṃbʰāralakṣaṇaṃ
           samāptam \\
   - parisista[n=22]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: araṇilakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 22.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: araṇilakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰātaḥ saṃpravakṣyāmi araṇyoś caiva lakṣaṇam \ rūpam
           atʰā pramāṇaṃ ca guṇadoṣān tatʰaiva ca \\
@@ -2308,7 +2393,9 @@
           mr̥tyur na jarā nidrā vyādʰir na caiva hi \ kṣutpipāsābʰayaṃ nāsti brahmabʰūtaḥ
           sa tiṣṭʰati \\
   - parisista[n=23]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: yajñapātralakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 23.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: yajñapātralakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰāto yajñapātrāṇāṃ lakṣaṇaṃ yonir eva ca \ rūpaṃ
           tatʰā pramāṇaṃ ca kramenaiva prakatʰyate \\
@@ -2476,7 +2563,10 @@
       - ab[n=6,type=verse]: na śokas tasya no vyādʰir na mr̥tyur na jarā tatʰā \ na
           kṣudʰā na pipāsā ca amr̥tātmā sa tiṣṭʰati \\
   - parisista[n=24]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: vedilakṣaṇam [+ agnivarṇalakṣaṇam]
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 24.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: vedilakṣaṇam [+
+          agnivarṇalakṣaṇam]
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰa rṣiputrikāyāṃ tu spʰutaṃ sarveṣu karmasu \ lakṣaṇaṃ
           hy agnivarṇānāṃ pravakṣyāmi yatʰākramam \\
@@ -2556,7 +2646,9 @@
           utpalakośagandʰaḥ \ āyāti tasya bʰavanaṃ hy alidīptimālā savrīḍasūryakiraṇā
           kṣitipālalakṣmīr iti \\
   - parisista[n=25]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: kuṇḍalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 25.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: kuṇḍalakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ śaunakaṃ tu sukʰāsīnaṃ bʰārgavaḥ paripr̥ccʰati \ kuṇḍaṃ
           kasmin bʰavet kīdr̥k kasyāṃ vā diśi kiṃ pʰalam \\
@@ -2594,7 +2686,9 @@
       - ab[n=5,type=verse]: hastakuṇḍaṃ sadāhome ayute dvikaraṃ smr̥tam \ lakṣahome
           catuṣpāṇi koṭyām aṣṭakaraṃ smr̥tam \\
   - parisista[n=26]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: samillakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 26.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: samillakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ samidʰāṃ saṃpravakṣyāmi pramāṇaṃ lakṣaṇaṃ śubʰam \
           tatʰāśubʰaṃ ca tattvena yatʰāpʰalavibʰāgataḥ \\
@@ -2681,7 +2775,9 @@
       - ab[n=10,type=verse]: yatʰoktam etad yaḥ kuryāt sa sarvapʰalam āpnuyād iti
           \\
   - parisista[n=27]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: sruvalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 27.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: sruvalakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ sauvarṇarājatais tāmraiḥ kāṃsyair draumais tatʰāyasaiḥ
           \ sruvaiḥ sarvaguṇopetaiḥ karma kuryād yatʰākramam \\
@@ -2706,7 +2802,9 @@
           yatʰāśāstram uddʰr̥taṃ śruticodanāt \ sruveṇa kurute karma hastenāpi tatʰā
           śr̥ṇu \\
   - parisista[n=28]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: hastalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 28.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: hastalakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ yadā juhoti hastena dakṣiṇenetareṇa vā \ tadā vakṣye
           vidʰiṃ tasya śreyasī syād yatʰāhutiḥ \\
@@ -2733,7 +2831,9 @@
           tat] \\
       - ab[n=5,type=verse]: abʰicāras tu tat proktaḥ....ṣarvaśāntiṃ gamiṣyati \\
   - parisista[n=29]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: jvālālakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 29.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: jvālālakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           br̥haspatiṃ sukʰāsīnam ātmavidyāparāyaṇam \ praṇipatya mahartvijaṃ nāradaḥ
@@ -2762,7 +2862,9 @@
       - ab[n=5,type=verse]: yadāgnau lakṣaṇaṃ kiṃ cid aśubʰaṃ tu pradr̥śyate \ hotā
           kleśam avāpnoti śāntiṃ tatra prayojayet \\
   - parisista[n=30]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: lagʰulakṣahomaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 30.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: lagʰulakṣahomaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ śaunakaṃ tu sukʰāsīnaṃ gautamaḥ paripr̥ccʰati \ lakṣahomasya
           yat puṇyam āhutīnāṃ ca devatāḥ \\
@@ -2795,7 +2897,9 @@
       - ab[n=5,type=verse]: yāvaj jīvati kartāsau tāvat putrān dʰanaṃ śriyam \ pūrṇe
           kāle vimānena nīyate paramaṃ padam \\
   - parisista[n=30b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: br̥hallakṣahomaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 30b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: br̥hallakṣahomaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa kāṅkāyano bʰagavantam atʰarvāṇaṃ papraccʰa \\
           bʰagavan kena vidʰānena koṭihomaṃ lakṣahomam ayutahomaṃ vā prārambʰamāṇaḥ
@@ -2878,7 +2982,9 @@
           sarveṣu kāryeṣu śāntikeṣu viśeṣataḥ \ yaḥ kuryāt prayato nityaṃ na so 'nartʰān
           samaśnute \\
   - parisista[n=31]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: koṭihomaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 31.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: koṭihomaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ devāś ca r̥ṣayaś caiva pīḍyamānā mahāsūraiḥ \ mr̥tyunā
           vyādʰibʰiś caiva brahmāṇam idam abruvan \\
@@ -2995,7 +3101,9 @@
       - ab[n=5,type=verse]: gopatʰāt pāṇineyāya madʰye nr̥̄ṇāṃ pramodinām \ hitārtʰam
           uddʰr̥to grantʰaḥ koṭihomas tu viśrutaḥ \\
   - parisista[n=32]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gaṇamālā
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 32.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gaṇamālā
     - section[n=1]:
       - p: oṃ bʰūs tat savituḥ śaṃ no devīḥ śāntā dyauḥ śaṃ na indrāgnī śaṃ no vāto
           vātu uṣā apa svasus tama iti śāntigaṇaḥ \\
@@ -3143,7 +3251,9 @@
           vanaspatīn iti muñcantu nā bʰavāśārvā yā devīr yan mātalī ratʰakrītam ity
           etāś catasro varjayitvā aṃholiṅgagaṇaḥ \\'
   - parisista[n=33]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gʰr̥takambalam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 33.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gʰr̥takambalam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           brahmaṇe brahmavedāya namaskr̥tvā svayaṃbʰuve \ gʰr̥takambalaṃ pravakṣyāmi
@@ -3278,7 +3388,9 @@
           tatra ṣaṭ prastaraiḥ saha \ niyatānyevadr̥cʰāyā kartavyā bʰūtim iccʰatā
           \\
   - parisista[n=34]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: anulomakalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 34.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: anulomakalpaḥ
     - section[n=1]:
       - ab[n=0,type=verse]: oṃ namo 'tʰarvavedāya \\
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: akṣarāni
@@ -3305,7 +3417,9 @@
       - ab[n=8,type=verse]: t yā da co pra naḥ yo yo dʰi \\ hi ma dʰī sya va de rgo
           bʰa yam ṇī re rva tu vi tsa ta t \\
   - parisista[n=35]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: āsurīkalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 35.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: āsurīkalpaḥ
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           kaṭuke kaṭukapattre subʰage āsuri rakte raktavāsase \ atʰarvaṇasya duhite
@@ -3379,7 +3493,9 @@
       - ab[n=11,type=verse]: na syāt tasyādbʰutaṃ kiṃ cin na kṣudropadravas tatʰā
           \ nānaiśvaryaṃ nāprajatvaṃ yasya devy āsurī gr̥he \\
   - parisista[n=36]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: uccʰuṣmakalpaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 36.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: uccʰuṣmakalpaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: oṃ nama uccʰuṣmebʰyaḥ
       - ab[n=2,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: '....śikʰāṃ
@@ -3605,7 +3721,10 @@
       - ab[n=col,type=verse]: ity uccʰuṣmakalpaḥ samāptaḥ \\ iti pariśiṣṭānāṃ pūrvārdʰaṃ
           samāptam iti \\
   - parisista[n=37]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: samuccayaprāyaścittāni)
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 37.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: samuccayaprāyaścittāni)
+      - foreign[lg=deu-Latn]: '[resembles in form the 13th adhyāya of the Kauśikasūtra'
     - section[n=1]:
       - ab[n=1,type=verse]: oṃ bʰr̥gvaṅgirorūpadʰāriṇe śivāya namaḥ \\ atʰa yatraitad
           apahanyamāne musalaṃ patati tad gʰoraṃ bʰavati tad apy etad r̥coktam \\
@@ -3764,7 +3883,9 @@
           āhr̥tya yady antarikṣe punar maitv indriyam ity anumantrya vaiśvānaro na
           ūtaya ud enaṃ vaiśvānaro raśmibʰir iti juhuyāt sā tatra prāyaścittiḥ \\
   - parisista[n=38]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: brahmakūrcavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 38.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: brahmakūrcavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           brahmakūrcavidʰiṃ puṇyaṃ saṃkṣepād vacmy asaṃśayam \ pāvanānāṃ paraṃ yo
@@ -3813,7 +3934,9 @@
       - ab[n=8,type=verse]: anena vidʰinaiveṣṭvā devatarpaṇapūrvakam \ brahmaṇā nirmitaṃ
           hy etat pavitraṃ paramaṃ hitam \\
   - parisista[n=39]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: taḍāgādividʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 39.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: taḍāgādividʰiḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ pippalādaṃ mahāprājñam idam ūcur maharṣayaḥ \ bʰūmikʰātasya
           śuddʰyartʰaṃ vidʰiṃ prabrūhi tattvataḥ \\
@@ -3841,7 +3964,9 @@
           vidʰānam etad dʰi kūpādeḥ saṃprakīrtitam \ puṇyaṃ karma dvijātīnāṃ svargasyākṣayyam
           iccʰatām \\
   - parisista[n=40]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: pāśupatavratam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 40.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: pāśupatavratam
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa pāśupatavratādeśo
       - ab[n=2,type=verse]: nāśrotriyāya nācaritavedavratāya nākr̥tavapanāya dadīta
@@ -3954,7 +4079,9 @@
       - ab[n=16,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: vilīnapāśapañjarāḥ
           samāptatattvagocarāḥ \ prayānti śaṃkaraṃ paraṃ patiṃ vibʰuṃ sadāśivam \\
   - parisista[n=41]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: saṃdʰyopāsanavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 41.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: saṃdʰyopāsanavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰātaḥ saṃdʰyopāsanavidʰiṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: prāṅ vodaṅ vā grāmān niṣkramya śuciḥ śucau deśe guptatīrtʰāyataneṣu
@@ -4066,7 +4193,9 @@
           śroṇī vāyuḥ stʰānaṃ bʰūṣaṇaṃ nakṣatrāṇi śrīsarasvatīrūpā padakramamantrabrāhmaṇakalpaśarīrā
           sāvitrī gotreṇa brahmadeyā bʰavati brahmadeyā bʰavatīti brāhmaṇam \\
   - parisista[n=42]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: snānavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 42.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: snānavidʰiḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: atʰa snānavidʰiṃ puṇyaṃ vakṣyamāṇaṃ nibodʰata \ yena snātā
           divaṃ lokaṃ prāpnuvanti dvijottamāḥ \\
@@ -4118,7 +4247,9 @@
           prāyāti \ paribʰraṣṭas tridivāt tapaḥkṣaye jātismaratvaṃ punar eva vindate
           \\
   - parisista[n=43]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: tarpaṇavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 43.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: tarpaṇavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa tarpaṇavidʰim anukramiṣyāmaḥ \\
       - ab[n=2,type=verse]: snātopasparśanakāle 'vagāhya devatās tarpayati \\
@@ -4371,7 +4502,9 @@
       - ab[n=5,type=verse]: etadd hi tarpaṇaṃ śreṣṭʰaṃ svayam uktaṃ svayaṃbʰuvā \
           śraddʰadʰānaḥ samācaṣṭe brahmalokaṃ sa gaccʰati \\
   - parisista[n=44]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: śrāddʰavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 44.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: śrāddʰavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰātaḥ śrāddʰavidʰiṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: catuṣprakāraṃ śrāddʰaṃ bʰavati \\
@@ -4462,7 +4595,9 @@
           hiraṇyam āyuś ca labʰate ya evaṃ vedeti ca brāhmaṇam \\
       - ab[n=15,type=verse]: māhakiḥ kauśikāc ca māhakiḥ kauśikāc ceti \\
   - parisista[n=45]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: agnihotrahomavidʰiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 45.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: agnihotrahomavidʰiḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om agnihotram \\
       - ab[n=2,type=verse]: sāyam ārambʰaḥ prātar apavargaḥ \\
@@ -4535,7 +4670,9 @@
           yasyāgnihotradʰenvādi vyāpadyeta \ tatra yatʰādevataṃ juhuyād apratibʰāve
           vyāhr̥tibʰiḥ \\
   - parisista[n=46]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: uttamapaṭalam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 46.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: uttamapaṭalam
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa vedavratasyādeśanavidʰiṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: sāṃvatsarikaṃ vedavratam \\
@@ -4709,7 +4846,9 @@
           saṃbʰr̥tā vīryāṇi brahmāgre jyeṣṭʰaṃ divam ā tatāna \ bʰūtānāṃ brahmā pratʰamo
           'tʰa jajñe tenārhati brahmanā spardʰituṃ ka iti \\
   - parisista[n=47]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: varṇapaṭalam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 47.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: varṇapaṭalam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           varṇān pūrvaṃ vyākʰyāsyāmaḥ prākr̥tā ye ca vaikr̥tāḥ \ śrutinirvacanāt sarve
@@ -4810,7 +4949,9 @@
           pañcaviṃśatiś catvāras tv antaḥstʰāḥ catvāro yamāś cāṣṭāv ūṣmāṇo 'yogavāhā
           daśāyogavāhā daśa \\
   - parisista[n=48]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: kautsavyaniruktanigʰaṇṭuḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 48.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: kautsavyaniruktanigʰaṇṭuḥ
     - section[n=1]:
       - p: om atʰarvaṇe namaḥ \\
     - section[n=2]:
@@ -5293,7 +5434,9 @@
       - p: devatādvandve ca pūrvasyāparaḥ saṃstavikaḥ \\ pūrvasyāparaḥ saṃstavikaḥ
           \\69 \\
   - parisista[n=49]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: caraṇavyūhaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 49.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: caraṇavyūhaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰātaś caraṇavyūhaṃ vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: tatra
@@ -5426,7 +5569,9 @@
       - ab[n=12,type=verse]: ya ekaikasmin vedānāṃ nāmavarṇagotrarūpapramāṇaṃ ca kīrtayed
           yo vidvān jātismaro bʰavati mr̥taḥ sa brahmalokaṃ gaccʰati \\
   - parisista[n=50]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: candraprātipadikam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 50.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: candraprātipadikam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ vr̥ttaṃ prātar amāvāsyāṃ paścād dr̥śyeta candramāḥ
           \ tasya varṇaṃ gatiṃ rūpaṃ stʰānaṃ caivoccanīcatām \\
@@ -5532,7 +5677,9 @@
       - ab[n=6,type=verse]: saptāhaṃ tu bʰaved goṣu saptāhaṃ mr̥gapakṣiṣu \ mānuṣeṣu
           ca saptāhaṃ tataḥ śreyas tu kalpayet \\
   - parisista[n=51]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: grahayuddʰam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 51.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: grahayuddʰam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           ke cid grahā nārarān āśrayante ke cid grahā [jyotiṣi] saṃgrahe ca \ graho
@@ -5610,7 +5757,9 @@
       - ab[n=6,type=verse]: āgneyā vāsavāś caiva vāyavyā vāruṇās tatʰā \ sarva eva
           śubʰā jñeyā gargasya vacanaṃ yatʰā \\
   - parisista[n=52]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: grahasaṃgrahaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 52.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: grahasaṃgrahaḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om atʰarvāṇaṃ namaskr̥tya uvāca bʰagavān r̥ṣiḥ \ kīdr̥śā
           grahaputrāś ca kiyanto vā vadasva me \\
@@ -5793,7 +5942,9 @@
       - ab[n=7,type=verse]: tat prayāti śamaṃ sarvaṃ prajānāṃ tu sukʰaṃ bʰavet \ rājāno
           muditās tatra pālayanti vasuṃdʰarām \\
   - parisista[n=53]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: rāhucāraḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 53.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: rāhucāraḥ
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           upetya yaś candramasaṃ raviṃ vā gr̥hṇāti sūnor asurasya putraḥ \ nibodʰataitasya
@@ -5867,7 +6018,9 @@
       - ab[n=7,type=verse]: tataḥ ṣaṭsu tataḥ ṣaṭsu triṣu varṣeṣu vā punaḥ \ etāvad
           eva rāhos tu cāram āhur manīṣiṇaḥ \\
   - parisista[n=54]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: ketucārāḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 54.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: ketucārāḥ
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           bʰārgavas tu purovāca maharṣīn bʰagavān r̥ṣiḥ \ ketusaṃcāraṃ śr̥ṇuta uttʰānaṃ
@@ -5904,7 +6057,9 @@
           mucyetā vā na vā \\
       - ab[n=7,type=verse]: dattvā vā pr̥tʰivīṃ sarvāṃ rājā śāntiṃ niyaccʰati \\
   - parisista[n=55]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: r̥tuketulakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 55.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: r̥tuketulakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           r̥tuketūn pravakṣyāmi yatʰāvad anupūrvaśaḥ \ yāvanto yasya putrāḥ syuḥ kuryur
@@ -5972,7 +6127,9 @@
       - ab[n=4,type=verse]: r̥tugatam udayanam eṣāṃ mahaujasāṃ vāruṇādiketūnām \ jānāti
           yaḥ pʰalaṃ ca protkr̥ṣṭāḥ saṃpadas tasya \\
   - parisista[n=56]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: kūrmavibʰāgaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 56.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: kūrmavibʰāgaḥ
     - section[n=1]:
       - ab[n=1,type=verse]: oṃ kr̥ttikārohiṇīsaumyaṃ madʰyaṃ kūrmasya nirdiśet \\
           śeṣān r̥kṣavibʰāge tu trikaṃ prati vinirdiśet \\
@@ -5997,7 +6154,9 @@
       - ab[n=10,type=verse]: nepālakāmarūpaṃ ca videhodumbaraṃ tatʰā \\ tatʰāvantyaḥ
           kaikayaś ca uttarapūrve hate 'bʰihanyāt \\
   - parisista[n=57]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: maṇḍalāni
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 57.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: maṇḍalāni
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: viśākʰe kr̥ttikāḥ puṣyaḥ pūrvau proṣṭʰapadau tatʰā \ bʰaraṇyaś
           ca magʰāś caiva pʰalgunyau pratʰame tatʰā \\
@@ -6062,7 +6221,9 @@
           tu pʰalaṃ sadyo vāyavyas tu trimāsikaḥ \\ māhendrasya pʰalaṃ vidyān māsam
           ardʰaṃ tatʰaiva ca \\
   - parisista[n=58]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: digdāhalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 58.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: digdāhalakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           ata ūrdʰvaṃ ca digdāhān kīrtyamānān nibodʰata \ yatʰā diśaḥ pradahyante
@@ -6100,7 +6261,9 @@
           tu mahāśāntir yatʰoktavidʰinā kr̥tā \ sarvaṃ digdāhajaṃ gʰoraṃ śamayet sā
           sadakṣiṇā \\
   - parisista[n=58b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: ulkālakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 58b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: ulkālakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om ulkādayo hi nirdiṣṭā nirgʰātās tu purātra ye \ teṣām
           idānīṃ vakṣyāmi viśeṣāṃs tu pr̥tʰakpr̥tʰak \\
@@ -6210,7 +6373,9 @@
       - ab[n=20,type=verse]: nimitteṣu mahāśāntim ulkāyāṃ ca viśeṣataḥ \ kr̥tvā siddʰim
           avāpnoti ulkādoṣāc ca mucyate \\
   - parisista[n=59]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: vidyullakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 59.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: vidyullakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: ata
           ūrdʰvaṃ pravakṣyāmi vidyullakṣaṇam uttamam \ varṇarūpavikārāṃś ca deśabʰāgāñ
@@ -6271,7 +6436,9 @@
           api mahāśāntir avigʰātāya vocyate \ aśubʰeṣu samargʰāya tasmāt sarveṣu śāntikam
           iti \\
   - parisista[n=60]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: nirgʰātalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 60.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: nirgʰātalakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: aṣṭau bʰavanti nirgʰātās teṣām indraḥ praśasyate \ pūrveṇa
           vr̥ṣṭiṃ sasyaṃ ca rājavr̥ddʰiṃ ca nirdiśet \\
@@ -6286,7 +6453,9 @@
       - ab[n=6,type=verse]: bʰaye raudrīṃ prakurvīta abʰayāṃ vābʰayapradām \ tayā
           śāmyanti cotpātāḥ sukʰaṃ cātyantikaṃ bʰavet \\
   - parisista[n=61]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: pariveṣalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 61.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: pariveṣalakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           atʰātaḥ pariveṣāṇāṃ lakṣaṇaṃ caiva vakṣyate \ vr̥ddʰagargo yatʰā pūrvam
@@ -6368,7 +6537,9 @@
           samāptāni śāyāṅgāni pramāṇataḥ \ aṅgāni tv āntarikṣāṇi vijñeyāni samāsataḥ
           \\
   - parisista[n=62]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰūmikampalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 62.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰūmikampalakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           catvāro bʰumikampās tu gargaḥ provāca buddʰimān \ agnir vāyus tatʰāpaś ca
@@ -6450,7 +6621,9 @@
           tu vidʰivad aindrair mantrair vidʰānavit \ tatohalasya pradʰānārtʰaṃ juhuyāc
           ca japet tatʰā \\
   - parisista[n=63]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: nakṣatragrahotpātalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 63.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: nakṣatragrahotpātalakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           atʰa paraṃ pravakṣyāmi vakṣatreṣu graheṣu ca \ pariveṣān bahuvidʰān nānāvidʰapʰalodayān
@@ -6553,7 +6726,9 @@
       - ab[n=6,type=verse]: atʰarvotpātahr̥dayaṃ jñātvā svayam anāturaḥ \ prayuñjīta
           mahāśāntiṃ sarvakalmaṣanāśinīm \\
   - parisista[n=64]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: utpātalakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 64.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: utpātalakṣaṇam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ yān provācāṅgirāḥ pūrvaṃ yāṃśca vedo 'śanāḥ kaviḥ \
           tān ahaṃ saṃpravakṣyāmi utpātāṃs trividʰān api \\
@@ -6765,7 +6940,9 @@
       - ab[n=10,type=verse]: sarvarogapraśamanīm utpātapʰalanāśinīm \ raudrīṃ kuryān
           mahāśāntiṃ śraddʰayā bahudakṣiṇāṃ śraddʰayā bahudakṣiṇām \\
   - parisista[n=65]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: sadyovr̥ṣṭilakṣaṇam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 65.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: sadyovr̥ṣṭilakṣaṇam
     - section[n=1]:
       - ab[n=1,type=verse]: om atʰa ato lakṣaṇopāṅge sadyovr̥ṣṭilakṣaṇaṃ vyākʰyāsyāmaḥ
           \\
@@ -6864,7 +7041,9 @@
           tu pattrāṇāṃ lakṣaṃ kṣīrasamāyutam \ vratānte bʰārgavo juhvad avarṣāsv api
           varṣayed iti \\
   - parisista[n=66]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gośāntiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 66.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gośāntiḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ bʰagavan devadeveśa surāsuranamaskr̥ta \ gavāṃ sarveṣu
           rogeṣu pratijñāteṣu vai prabʰo \\
@@ -6907,7 +7086,9 @@
           vipraḥ paṭʰatīmāṃ hi gokule cāpi hitāya vai \ gāvas tasya pravardʰante mahatīṃ
           cāśnute śriyam \\
   - parisista[n=67]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: adbʰutaśāntiḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 67.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: adbʰutaśāntiḥ
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ puruṣas putradāraṃ vā dʰanadʰānyam atʰa api vā \ nimittair
           yair vinaśyeta śāntiṃ tatra nibodʰata \\
@@ -7015,7 +7196,9 @@
       - ab[n=8,type=verse]: etat puṇyaṃ paritraṃ ca devatāyāgapūjanam \ sarvaśāntikaṃ
           ca eva pratipuruṣaṃ nibodʰata \\ pratipuruṣaṃ nibodʰata iti \\
   - parisista[n=68]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: svapnādʰyāyaḥ
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 68.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: svapnādʰyāyaḥ
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: om
           atʰātaḥ saṃpravakṣyāmi yad uktaṃ padmayoninā \ upāṅgaṃ śukracārasta śubʰāśubʰanivedakam
@@ -7453,7 +7636,9 @@
       - ab[n=31,type=verse]: mahat sukʰam avāpnoti kāryasiddʰiṃ ca vindati \ kāryasiddʰiṃ
           ca vindati \\
   - parisista[n=69]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: atʰarvahr̥dayam
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 69.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: atʰarvahr̥dayam
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om upasaṃgamya munayaḥ sarvajñaṃ śāntamānasam \ apr̥ccʰan
           gatamātsyaryaṃ bʰr̥guṃ brahmavidāṃ varam \\
@@ -7557,7 +7742,9 @@
       - ab[n=4,type=verse]: atʰarvā nādbʰutaṃ tasya śāntir eva sadā bʰavet \ śāntir
           eva sadā bʰavet \\
   - parisista[n=70]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰārgavīyāṇi
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 70.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: bʰārgavīyāṇi
     - section[n=1]:
       - ab[n=1,type=verse,lg=san-Latn-x-vedic-metric-unaccented-transliterated]: oṃ
           saṃpūjya vidʰivat prājñaṃ vidvāṃso munayaḥ purā \ apr̥ccʰan bʰr̥gum avyagraṃ
@@ -7732,7 +7919,9 @@
       - ab[n=6,type=verse]: brahmādistambaparyantaṃ yaṃ yaṃ kāmaṃ samīhate \ tat tat
           prāpnoty ayatnena satyam etad dvijottamāḥ \\
   - parisista[n=70b]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: gārgyāṇi
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 70b.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: gārgyāṇi
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: oṃ praṇamya viṣṭarāsīnāṃ brahmāṇaṃ kavisattamam \ praṇamya
           śirasā devaṃ gautamaḥ paryapr̥ccʰata \\
@@ -8083,7 +8272,9 @@
           buddʰivāk karoti budʰaḥ \\
       - ab[n=15,type=verse]: tatra kuryān mahāśāntim amr̥tāṃ viśvabʰeṣajīm \\
   - parisista[n=70c]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: bārhaspatyāni
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 70c.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: bārhaspatyāni
     - section[n=22,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: om āsīnaṃ tu himavati br̥haspatiṃ sukʰāvaham \ gautamaḥ
           paripr̥ccʰati vinayāt saṃśitavrataḥ \\
@@ -8317,7 +8508,9 @@
           kuryād br̥haspativaco yatʰā \ homaṃ lakṣamitaṃ kuryāj japed vā vedasaṃhitām
           \ dānāni tu hiraṇyāni śāntikarmaṇi yojayet \\
   - parisista[n=71]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: auśanasādbʰutāni
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 71.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: auśanasādbʰutāni
     - section[n=1,lg=san-Latn-x-vedic-metric-unaccented-transliterated]:
       - ab[n=1,type=verse]: papraccʰośanasaṃ kāvyaṃ nāradaḥ paryavastʰitaḥ \ divyāṃś
           caivāntarikṣāṃś ca utpātān pārtʰivāṃs tatʰā \\
@@ -8561,7 +8754,9 @@
       - ab[n=9,type=verse]: śāmyanti yena gʰorāṇi yogakṣemaṃ ca jāyate \ rājāno muditās
           tatra pālayanti vasuṃdʰarām \\
   - parisista[n=72]:
-    - head[lg=san-Latn-x-vedic-prose-accented-transliterated]: mahādbʰutāni
+    - head:
+      - foreign[lg=deu-Latn]: Pariśiṣṭa 72.
+      - foreign[lg=san-Latn-x-vedic-prose-accented-transliterated]: mahādbʰutāni
     - section[n=1]:
       - ab[n=1,type=verse]: atʰa mahādbʰutāni vyākʰyāsyāmaḥ \\
       - ab[n=2,type=verse]: kṣipravipākīny amogʰāni gʰorāṇi grahopahatam ulkābʰihataṃ
