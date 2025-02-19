@@ -2,8 +2,23 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Atharva-Veda: Parisista</title>
-				<author>Unknown</author>
+				<title>Atharva-Veda</title>
+				<title type="sub">Atharvaveda-Pariśiṣṭas</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Yuri Ishii</name>
+					<note>2003 (Tokai University)</note>
+				</respStmt>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Arlo Griffiths</name>
+					<note>2009</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 30.8.2009</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -14,7 +29,12 @@
 				<date>2024</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="avpar">
+					<author>
+						<name>authors, Various</name>
+					</author>. <date>1909</date>–<date>1910</date>. <title level="m">The Pariśiṣṭas of the Atharvaveda</title>. Edited by <editor>
+						<name>George Melville Bolling and Julius von Negelein</name>
+					</editor>. Vol. <biblScope unit="volume">1</biblScope>. <publisher>Harrassowitz</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -142,68 +162,68 @@
 				<div n="13" xml:id="parisista-2-section-13" type="section" data-level="2">
 					<ab n="1" type="verse" xml:id="parisista-2-section-13-ab-80">uttare pʰalgunyau hasta{ś} citrā svāti{r} viśākʰe anūrādʰā jyeṣṭʰā mūlaṃ pūrvāṣāḍʰā tan navamam ādityo daśamaṃ [nāmarūpa] pūrvapakṣāparapakṣāv ekādaśadvādaśe</ab>
 					<ab n="2" type="verse" xml:id="parisista-2-section-13-ab-81">
-						<lb n="1" />etāny evāsmai<foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
+						<lb n="1" />etāny evāsmai <foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
 					</ab>
 					<ab n="3" type="verse" xml:id="parisista-2-section-13-ab-82">
-						<lb n="2" />atʰa yam<foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
+						<lb n="2" />atʰa yam <foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
 					</ab>
 					<ab n="4" type="verse" xml:id="parisista-2-section-13-ab-83">
-						<lb n="3" />prāñcam idʰmam<foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
+						<lb n="3" />prāñcam idʰmam <foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
 					</ab>
 					<ab n="5" type="verse" xml:id="parisista-2-section-13-ab-84">
-						<lb n="4" />evam<foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
+						<lb n="4" />evam <foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
 					</ab>
 				</div>
 				<div n="14" xml:id="parisista-2-section-14" type="section" data-level="2">
 					<ab n="1" type="verse" xml:id="parisista-2-section-14-ab-85">uttarāṣāḍʰābʰijic cʰravaṇaḥ śraviṣṭʰā śatabʰiṣak proṣṭʰapadau revaty aśvayujau bʰaraṇyas tad daśamam ... paurṇamāsyamāvāsye dvādaśatrayodaśe</ab>
 					<ab n="2" type="verse" xml:id="parisista-2-section-14-ab-86">
-						<lb n="5" />etāny evāsmai<foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
+						<lb n="5" />etāny evāsmai <foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
 					</ab>
 					<ab n="3" type="verse" xml:id="parisista-2-section-14-ab-87">
-						<lb n="6" />atʰa yam<foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
+						<lb n="6" />atʰa yam <foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
 					</ab>
 					<ab n="4" type="verse" xml:id="parisista-2-section-14-ab-88">
-						<lb n="7" />prāñcam idʰmam<foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
+						<lb n="7" />prāñcam idʰmam <foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
 					</ab>
 					<ab n="5" type="verse" xml:id="parisista-2-section-14-ab-89">
-						<lb n="8" />evam<foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
+						<lb n="8" />evam <foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
 					</ab>
 				</div>
 				<div n="15" xml:id="parisista-2-section-15" type="section" data-level="2">
 					<ab n="1" type="verse" xml:id="parisista-2-section-15-ab-90">r̥gvedo yajurvedaḥ sāmavedo brahmavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ cʰando jyotiṣam itihāsapurāṇaṃ vākovākya{m} idāvatsaraḥ parivatsaraḥ saṃvatsaro daśamaṃ śītoṣṇe ekādaśadvādaśe</ab>
 					<ab n="2" type="verse" xml:id="parisista-2-section-15-ab-91">
-						<lb n="9" />etāny evāsmai<foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
+						<lb n="9" />etāny evāsmai <foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
 					</ab>
 					<ab n="3" type="verse" xml:id="parisista-2-section-15-ab-92">
-						<lb n="10" />atʰa yam<foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
+						<lb n="10" />atʰa yam <foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
 					</ab>
 					<ab n="4" type="verse" xml:id="parisista-2-section-15-ab-93">
-						<lb n="11" />prāñcam idʰmam<foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
+						<lb n="11" />prāñcam idʰmam <foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
 					</ab>
 					<ab n="5" type="verse" xml:id="parisista-2-section-15-ab-94">
-						<lb n="12" />evam<foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
+						<lb n="12" />evam <foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
 					</ab>
 				</div>
 				<div n="16" xml:id="parisista-2-section-16" type="section" data-level="2">
 					<ab n="1" type="verse" xml:id="parisista-2-section-16-ab-95">prāṇo apāno vyānaḥ samāna udānaś cakṣuḥ śrotraṃ vāṅ manas tan navamam ... daśamaṃ nāmarūpe ekādaśadvādaśe</ab>
 					<ab n="2" type="verse" xml:id="parisista-2-section-16-ab-96">
-						<lb n="13" />etāny evāsmai<foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
+						<lb n="13" />etāny evāsmai <foreign xml:lang="deu-Latn">= 1,12.2.</foreign>
 					</ab>
 					<ab n="3" type="verse" xml:id="parisista-2-section-16-ab-97">
-						<lb n="14" />atʰa yam<foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
+						<lb n="14" />atʰa yam <foreign xml:lang="deu-Latn">= 1,12.3.</foreign>
 					</ab>
 					<ab n="4" type="verse" xml:id="parisista-2-section-16-ab-98">
-						<lb n="15" />prāñcam idʰmam<foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
+						<lb n="15" />prāñcam idʰmam <foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
 					</ab>
 					<ab n="5" type="verse" xml:id="parisista-2-section-16-ab-99">
-						<lb n="16" />evam<foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
+						<lb n="16" />evam <foreign xml:lang="deu-Latn">= 1,12.5.</foreign>
 					</ab>
 				</div>
 				<div n="17" xml:id="parisista-2-section-17" type="section" data-level="2">
 					<ab n="1" type="verse" xml:id="parisista-2-section-17-ab-100">ajany ajanir yaśo ajanir varco ajanis tejo ajaniḥ saho ajanir maho ajanir brahmā ajanir brāhmaṇavarcasam ajaniḥ sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ sarveṣāṃ vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajanir bʰavatīti veda</ab>
 					<ab n="2" type="verse" xml:id="parisista-2-section-17-ab-101">atʰa yaṃ kāmayeta sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ sarveṣāṃ vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajaniḥ syād iti tasmād etasmin nakṣatra evaṃvidvān kuryāt \\</ab>
 					<ab n="3" type="verse" xml:id="parisista-2-section-17-ab-102">
-						<lb n="17" />prāñcam idʰmam<foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
+						<lb n="17" />prāñcam idʰmam <foreign xml:lang="deu-Latn">= 1,12.4.</foreign>
 					</ab>
 					<ab n="4" type="verse" xml:id="parisista-2-section-17-ab-103">evaṃ ced asmai karoti sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ sarveṣāṃ vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajanir bʰavati \\</ab>
 				</div>
