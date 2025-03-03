@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TESTING }}
         run: |
-          git clone https://$GITHUB_TOKEN@github.com/TITUS-2-0/datasets.git datasets
+          git clone https://$GITHUB_TOKEN@github.com/TITUS-2-0/workbench.git datasets
 
       - name: Copy Tests to Subrepo
         run: |
