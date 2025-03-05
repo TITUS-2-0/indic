@@ -1,6 +1,8 @@
 - body:
   - parisista[n=0]:
-    - head:
+    - section[n=0]:
+      - ab[n=0,type=verse]: śrīgaṇeśāya namaḥ \\ oṃ namo 'tʰarvātmane vāmadevāya śivāya
+          \\ śrīsarasvatyai namaḥ \\
   - parisista[n=1]:
     - head:
       - foreign[lg=deu-Latn]: Pariśiṣṭa 1.
