@@ -70,9 +70,3 @@ jobs:
               -o:"$svrl" >> validation_report.txt 2>&1 || exit 1
           done
           echo "result=success" >> $GITHUB_OUTPUT
-
-      - name: Post validation result as PR comment
-        if: always()
-        uses: marocchino/sticky-pull-request-comment@v2
-        with:
-          path: validation_report.txt
