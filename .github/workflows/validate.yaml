@@ -8,8 +8,6 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
 
     steps:
       - name: Checkout Subrepo
@@ -33,9 +31,7 @@ jobs:
           curl -L -o tools/Saxon-HE.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/11.4/Saxon-HE-11.4.jar
           curl -L -o tools/xmlresolver.jar https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/4.5.0/xmlresolver-4.5.0.jar
           curl -L -o tools/jing.jar https://repo1.maven.org/maven2/com/thaiopensource/jing/20091111/jing-20091111.jar
-
-      - name: Validate only changed output.xml files and collect results
-        id: validate
+      - name: Validate only changed output.xml files
         run: |
           SCHEMA=titus_tei.rng
           SCHXSL=tei_all-schematron.xsl
@@ -47,26 +43,17 @@ jobs:
           CHANGED=$(git diff --name-only origin/staging..HEAD | grep 'output.xml$' || true)
 
           if [ -z "$CHANGED" ]; then
-            echo "✅ No changed output.xml files to validate." > validation_report.txt
-            echo "result=success" >> $GITHUB_OUTPUT
+            echo "✅ No changed output.xml files to validate."
             exit 0
           fi
 
-          echo "🧪 Validation results:" > validation_report.txt
           for file in $CHANGED; do
-            echo "🔍 Validating $file" | tee -a validation_report.txt
-            if java -jar "$JING" "$SCHEMA" "$file" >> validation_report.txt 2>&1; then
-              echo "✅ $file valid" | tee -a validation_report.txt
-            else
-              echo "❌ $file INVALID" | tee -a validation_report.txt
-              echo "result=failure" >> $GITHUB_OUTPUT
-              exit 1
-            fi
+            echo "🔍 Validating $file"
+            java -jar "$JING" "$SCHEMA" "$file" || exit 1
 
             svrl="${file%.xml}.svrl"
             java -cp "$SAXON:$RESOLVER" net.sf.saxon.Transform \
               -s:"$file" \
               -xsl:"$SCHXSL" \
-              -o:"$svrl" >> validation_report.txt 2>&1 || exit 1
+              -o:"$svrl" || exit 1
           done
-          echo "result=success" >> $GITHUB_OUTPUT
