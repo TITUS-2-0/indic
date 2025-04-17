@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: 'White Yajur-Veda: Yajnavalkya-Smrti'
+version: unreleased
+contributors:
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-04-08
+message: 'Derived from: '
+preferred-citation: 'Digital version of White Yajur-Veda: Yajnavalkya-Smrti by Unknown
+  (unreleased). 2025-04-08. By: Florian Matter. In: Carling, Gerd & Jost Gippert (2025).
+  TITUS 2.0. Frankfurt: Goethe University.'
