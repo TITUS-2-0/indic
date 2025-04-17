@@ -1,0 +1,58 @@
+name: Validate data on main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  full-validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Subrepo
+        uses: actions/checkout@v3
+
+      - name: Checkout Workbench Repo
+        uses: actions/checkout@v3
+        with:
+          repository: TITUS-2-0/workbench
+          path: datasets
+          token: ${{ secrets.TESTING }}
+
+      - name: Copy Schemas to Subrepo
+        run: |
+          cp datasets/validation/titus_tei.rng ./
+
+      - name: Download validation jars
+        run: |
+          mkdir -p tools
+          curl -L -o tools/Saxon-HE.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/11.4/Saxon-HE-11.4.jar
+          curl -L -o tools/xmlresolver.jar https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/4.5.0/xmlresolver-4.5.0.jar
+          curl -L -o tools/jing.jar https://repo1.maven.org/maven2/com/thaiopensource/jing/20091111/jing-20091111.jar
+
+      - name: Validate all output.xml files
+        run: |
+          SCHEMA=titus_tei.rng
+          JING=tools/jing.jar
+
+          for file in ./*/output.xml; do
+            echo "🔍 Validating $file"
+            java -jar "$JING" "$SCHEMA" "$file" || exit 1
+          done
+
+      - name: Validate all CITATION.cff files
+        run: |
+          pip install cffconvert
+          for file in ./*/CITATION.cff; do
+            echo "🔎 Validating $file"
+            cffconvert --validate --infile "$file" || exit 1
+          done
+
+      - name: Validate all CHANGELOG.md files
+        run: |
+          pip install keepachangelog
+          for file in ./*/CHANGELOG.md; do
+            echo "📜 Validating $file"
+            python -c "import keepachangelog; keepachangelog.to_dict('$file')" || exit 1
+          done
