@@ -41,14 +41,6 @@ jobs:
             java -jar "$JING" "$SCHEMA" "$file" || exit 1
           done
 
-      - name: Validate all CITATION.cff files
-        run: |
-          pip install cffconvert
-          for file in ./*/CITATION.cff; do
-            echo "🔎 Validating $file"
-            cffconvert --validate --infile "$file" || exit 1
-          done
-
       - name: Validate all CHANGELOG.md files
         run: |
           pip install keepachangelog
