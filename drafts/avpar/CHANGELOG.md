@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- only 1 parisista (2025-04-22)
 - language update (2025-04-04)
 - replaced _daṇḍa_ placeholders with pipes (|) (2025-03-24)
 - german titles (2025-02-17)
