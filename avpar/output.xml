@@ -27,13 +27,13 @@
 			<publicationStmt>
 				<publisher>Goethe University</publisher>
 				<pubPlace>Frankfurt</pubPlace>
-				<date when="2025-01-08">2025-01-08</date>
+				<date when="2025-04-23">2025-04-23</date>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of Atharva-Veda: Atharvaveda-Pariśiṣṭas (unreleased). 2025-01-08. By: Jost Gippert, Arlo Griffiths, Yuri Ishii, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					<p>Preferred citation: <note type="citation">Digital version of Atharva-Veda: Atharvaveda-Pariśiṣṭas (v0.1.0). 2025-04-23. By: Jost Gippert, Arlo Griffiths, Yuri Ishii, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
 					</p>
 				</availability>
-				<idno type="version">unreleased</idno>
+				<idno type="version">0.1.0</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl xml:id="avpar">
