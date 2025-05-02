@@ -4,10 +4,6 @@
 			<titleStmt>
 				<title>White Yajur-Veda: Yajnavalkya-Smrti</title>
 				<author>Unknown</author>
-				<respStmt>
-					<resp>TEI version</resp>
-					<name>Florian Matter</name>
-				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Goethe University</publisher>
@@ -15,7 +11,7 @@
 				<date when="2025-04-08">2025-04-08</date>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of White Yajur-Veda: Yajnavalkya-Smrti by Unknown (draft version). 2025-04-08. By: Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					<p>Preferred citation: <note type="citation">Digital version of White Yajur-Veda: Yajnavalkya-Smrti by Unknown (draft version). 2025-04-08. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
 					</p>
 				</availability>
 				<idno type="version">unreleased</idno>
