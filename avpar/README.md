@@ -14,24 +14,39 @@ Digital version of Atharva-Veda: Atharvaveda-Pariśiṣṭas (v0.1.0). By: Jost 
 ```
 
 ## TEI encoding
-
+* initial pseudo-Pariśiṣṭa is moved to a ``<preface>``
+* Pariśiṣṭa titles are moved to ``<head>``
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Parisista | `div@parisista` | Automatically translated into named div |
+| Parisista | `pariśiṣṭa` | use accented spelling |
 | Section | `div@section` | Automatically translated into named div |
-| Verse | `ab@verse` |  |
+| Verse | `ab@verse` | anonymous block for verse |
 
 ### Structural overview
 ```text
 text (@xml:lang=san-Latn-x-vedic-prose-unacc-tld)
   body
-    div (@data-level=1, @n, @type=pariśiṣṭa, @xml:id) (multiple)
+    div (@data-level=1, @n, @type=pariśiṣṭa, @xml:id)
       div (@data-level=2, @n, @type=section, @xml:id)
         ab (@n, @type=verse, @xml:id)
+    div (@data-level=1, @n, @type=pariśiṣṭa, @xml:id) (multiple)
+      head (multiple)
+        [foreign (@xml:lang=san-Latn-x-vedic-prose-accented-tld) (multiple)]
+      div (@data-level=2, @n, @type=section, @xml:id) (multiple)
+        ab (@n, @type=verse, @xml:id) (multiple)
+          [lb (@n) (multiple)]
+          [foreign (@xml:lang=deu-Latn) (multiple)]
+        ab (@n, @type=verse, @xml:id, @xml:lang=san-Latn-x-vedic-metric-unacc-tld) (multiple)
+      div (@data-level=2, @n, @type=section, @xml:id, @xml:lang=san-Latn-x-vedic-metric-unacc-tld) (multiple)
+        ab (@n, @type=verse, @xml:id) (multiple)
+      div (@data-level=2, @n, @type=section, @xml:id) (multiple)
+        p (@xml:id) (multiple)
+      div (@data-level=2, @n, @type=section, @xml:id, @xml:lang=san-Latn-x-vedic-metric-unacc-tld) (multiple)
+        p (@xml:id) (multiple)
 ```
 
 ### Structure Example
