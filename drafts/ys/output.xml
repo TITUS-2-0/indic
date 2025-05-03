@@ -25,7 +25,7 @@
 				<language ident="san-Latn-x-vedic-prose-unacc-tld">Sanskrit</language>
 				<language ident="san-Latn-x-vedic-prose-unacc-txl">Sanskrit</language>
 				<language ident="san-Latn-x-vedic-metric-unacc-txl">Sanskrit</language>
-				<language ident="deu-Latn">German</language>
+				<language ident="eng-Latn">English</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
@@ -458,7 +458,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-2-lg-50-l-100">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">brahma-lokam \avāpnoti na ca_iha_\ājāyate punaḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -787,7 +787,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-3-lg-89-l-178">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\āhared vidʰivad dārān agnīmś caiva_\avilambayan //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -849,7 +849,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-4-lg-96-l-192">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vyatyaye karmaṇām sāmyam pūrvavac ca_adʰara-uttaram //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -1120,7 +1120,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-5-lg-128-l-256">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\jīved vā_api śila-uñcʰena śreyān eṣām paraḥ paraḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -1197,9 +1197,9 @@
 					<lg n="137" type="stanza" xml:id="chapter-1-paragraph-6-lg-137">
 						<l n="a" xml:id="chapter-1-paragraph-6-lg-137-l-273">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">ṣṭʰīvana-asr̥k-śakr̥n-mūtra-retāmsy apsu na \nikṣipet /</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">retas</foreign>
-							<foreign xml:lang="deu-Latn">]</foreign>
+							<foreign xml:lang="eng-Latn">]</foreign>
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-6-lg-137-l-274">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">pādau \pratāpayen na_agnau na ca_enam \abʰilaṅgʰayet //</foreign>
@@ -1444,7 +1444,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-6-lg-166-l-332">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">bʰojya-annāḥ nāpitaś caiva yaś ca_ātmānam \nivedayet //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -1574,7 +1574,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-7-lg-181-l-362">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">gr̥he_api \nivasan vipro munir māmsa-vivarjanāt //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -1713,7 +1713,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-8-lg-197-l-394">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">mārutena_eva \śudʰyanti pakva-iṣṭaka-citāni ca //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -1821,7 +1821,7 @@
 					<lg n="210" type="stanza" xml:id="chapter-1-paragraph-9-lg-210">
 						<l n="a" xml:id="chapter-1-paragraph-9-lg-210-l-419">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">bʰū-dīpāmś ca anna-vastra-ambʰas-tila-sarpiḥ-pratiśrayān /</foreign>
-							<foreign xml:lang="deu-Latn">(72)</foreign>
+							<foreign xml:lang="eng-Latn">(72)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-9-lg-210-l-420">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">naiveśikam svarṇa-dʰuryam \dattvā svarge \mahīyate //</foreign>
@@ -1874,7 +1874,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-9-lg-216-l-432">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">sarvataḥ \pratigr̥hṇīyād ātma-vr̥tty-artʰam eva ca //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -2116,7 +2116,7 @@
 					<lg n="245" type="stanza" xml:id="chapter-1-paragraph-10-lg-245">
 						<l n="a" xml:id="chapter-1-paragraph-10-lg-245-l-489">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\brūyur \astu svadʰā_ity ukte bʰūmau \siñcet tato jalam /</foreign>
-							<foreign xml:lang="deu-Latn">(84)</foreign>
+							<foreign xml:lang="eng-Latn">(84)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-10-lg-245-l-490">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">viśve devāś ca \prīyantām vipraiś ca_ukta idam \japet //</foreign>
@@ -2330,7 +2330,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-10-lg-270-l-540">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\prayaccʰanti tatʰā rājyam prītā nr̥̄ṇām pitāmahāḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -2532,7 +2532,7 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-11-lg-294-l-588">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">mahā-gaṇapateś caiva \kurvan siddʰim \avāpnuyāt //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -2850,7 +2850,7 @@
 					<lg n="331" type="stanza" xml:id="chapter-1-paragraph-13-lg-332">
 						<l n="a" xml:id="chapter-1-paragraph-13-lg-332-l-663">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\samviśet tūrya-gʰoṣeṇa \pratibudʰyet tatʰaiva ca /</foreign>
-							<foreign xml:lang="deu-Latn">[Txt:</foreign>
+							<foreign xml:lang="eng-Latn">[Txt:</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">pratibuddʰyat]</foreign>
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-13-lg-332-l-664">
@@ -3162,8 +3162,8 @@
 						</l>
 						<l n="c" xml:id="chapter-1-paragraph-13-lg-369-l-738">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vayaḥ karma ca vittam ca daṇḍam daṇḍyeṣu \pātayet //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
-							<foreign xml:lang="deu-Latn">End of the</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">End of the</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-prose-unacc-txl">ācāra-adʰyāya</foreign>
 						</l>
 					</lg>
@@ -3705,7 +3705,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-16-lg-433-l-866">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\mocya ādʰis tad-utpanne praviṣṭe dvi-guṇe dʰane //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4296,7 +4296,7 @@
 					<lg n="131" type="stanza" xml:id="chapter-2-paragraph-21-lg-500">
 						<l n="a" xml:id="chapter-2-paragraph-21-lg-500-l-999">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">krītaś ca tābʰyām vikrītaḥ kr̥trimaḥ \syāt svayam-kr̥taḥ /</foreign>
-							<foreign xml:lang="deu-Latn">(235)</foreign>
+							<foreign xml:lang="eng-Latn">(235)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-21-lg-500-l-1000">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\dattvā_ātmā tu svayam-datto garbʰe vinnaḥ saha-ūḍʰajaḥ //</foreign>
@@ -4374,7 +4374,7 @@
 					<lg n="140" type="stanza" xml:id="chapter-2-paragraph-21-lg-509">
 						<l n="a" xml:id="chapter-2-paragraph-21-lg-509-l-1017">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">klībo_atʰa patitas tajjaḥ paṅgur unmattako jaḍaḥ /</foreign>
-							<foreign xml:lang="deu-Latn">(249)</foreign>
+							<foreign xml:lang="eng-Latn">(249)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-21-lg-509-l-1018">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">andʰo_acikitsya-roga-ādyā \bʰartavyāḥ \syur niramśakāḥ //</foreign>
@@ -4454,7 +4454,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-21-lg-518-l-1036">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vibʰāga-bʰāvanā jñeyā gr̥ha-kṣetraiś ca yautakaiḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4535,7 +4535,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-22-lg-527-l-1054">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">sa \pradāpyaḥ kr̥ṣṭa-pʰalam kṣetram anyena \kārayet //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4615,7 +4615,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-23-lg-536-l-1072">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">dve śate kʰarvaṭasya \syān nagarasya catuḥ-śatam //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4678,7 +4678,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-24-lg-543-l-1086">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">mahiṣa-uṣṭra-gavām dvau dvau pādam pādam aja-avike //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4700,7 +4700,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-25-lg-545-l-1090">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\deyam pratiśrutam caiva \dattvā na_\apaharet punaḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4747,7 +4747,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-26-lg-550-l-1100">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">dravyāṇām kuśalā \brūyur yat tad \dāpyam asamśayam //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4778,7 +4778,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-27-lg-553-l-1106">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">antevāsī guru-prāpta-bʰojanas tat-pʰala-pradaḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4790,7 +4790,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-28-lg-554-l-1108">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">traividyam vr̥ttimad</foreign>
-							<foreign xml:lang="deu-Latn">[?]</foreign>
+							<foreign xml:lang="eng-Latn">[?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\brūyāt sva-dʰarmaḥ \pālyatām iti //</foreign>
 						</l>
 					</lg>
@@ -4822,7 +4822,7 @@
 					<lg n="189" type="stanza" xml:id="chapter-2-paragraph-28-lg-558">
 						<l n="a" xml:id="chapter-2-paragraph-28-lg-558-l-1115">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">samūha-kārya</foreign>
-							<foreign xml:lang="deu-Latn">[?]</foreign>
+							<foreign xml:lang="eng-Latn">[?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">āyātān kr̥ta-kāryān \visarjayet /</foreign>
 							<pb n="277" />
 						</l>
@@ -4852,7 +4852,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-28-lg-561-l-1122">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">bʰedam ca_eṣām nr̥po \rakṣet pūrva-vr̥ttim ca \pālayet //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4906,7 +4906,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-29-lg-567-l-1134">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">bʰr̥tim ardʰa-patʰe sarvām \pradāpyas tyājako_api ca //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4953,7 +4953,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-30-lg-572-l-1144">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">eṣa eva vidʰir \jñeyaḥ prāṇi-dyūte samāhvaye //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -4962,7 +4962,7 @@
 					<lg n="204" type="stanza" xml:id="chapter-2-paragraph-31-lg-573">
 						<l n="a" xml:id="chapter-2-paragraph-31-lg-573-l-1145">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">satya-asatya-anyatʰā-stotrair nyūna-aṅga-indriya-rogiṇām/</foreign>
-							<foreign xml:lang="deu-Latn">(283)</foreign>
+							<foreign xml:lang="eng-Latn">(283)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-31-lg-573-l-1146">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">kṣepam \karoti ced \daṇḍyaḥ paṇān ardʰa-trayodaśān //</foreign>
@@ -5024,7 +5024,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-31-lg-580-l-1160">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">madʰyamo jāti-pūgānām pratʰamo grāma-deśayoḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5178,7 +5178,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-32-lg-598-l-1196">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">pūrva-smr̥tād ardʰa-daṇḍaḥ stʰāneṣu_ukteṣu kartane //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5380,7 +5380,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-33-lg-622-l-1244">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">argʰo_anugraha-kr̥t \kāryaḥ kretur vikretur eva ca //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5426,7 +5426,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-34-lg-627-l-1254">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\krītvā na_anuśayaḥ \kāryaḥ \kurvan ṣaḍ-bʰāga-daṇḍa-bʰāk //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5489,7 +5489,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-35-lg-634-l-1268">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">anena vidʰir \ākʰyāta r̥tvik-karṣaka-karmiṇām //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5637,7 +5637,7 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-36-lg-651-l-1302">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">rāja-patny-abʰigāmī ca \dagdʰavyās tu kaṭa-agninā //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5739,14 +5739,14 @@
 					<lg n="294" type="stanza" xml:id="chapter-2-paragraph-37-lg-663">
 						<l n="a" xml:id="chapter-2-paragraph-37-lg-663-l-1325">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">antyā-abʰigamane tv \aṅkyah</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">aṅkya</foreign>
-							<foreign xml:lang="deu-Latn">?]</foreign>
+							<foreign xml:lang="eng-Latn">?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">kubandʰena \pravāsayet /</foreign>
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-37-lg-663-l-1326">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">śūdras tatʰā_antya eva \syād antyasya_āryā-game vadʰaḥ //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -5764,9 +5764,9 @@
 					<lg n="296" type="stanza" xml:id="chapter-2-paragraph-38-lg-665">
 						<l n="a" xml:id="chapter-2-paragraph-38-lg-665-l-1329">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">abʰakṣyeṇa dvijam \dūṣyo</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">dūṣya</foreign>
-							<foreign xml:lang="deu-Latn">?]</foreign>
+							<foreign xml:lang="eng-Latn">?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\daṇḍya uttama-sāhasam /</foreign>
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-38-lg-665-l-1330">
@@ -5863,8 +5863,8 @@
 						</l>
 						<l n="c" xml:id="chapter-2-paragraph-38-lg-676-l-1352">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\nivedya \dadyād viprebʰyaḥ svayam trimśad-guṇī-kr̥tam //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
-							<foreign xml:lang="deu-Latn">End of the</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">End of the</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-prose-unacc-txl">vyavahāra-adʰyāya</foreign>
 						</l>
 					</lg>
@@ -6168,7 +6168,7 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-39-lg-710-l-1420">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">kṣetrajñasya_īśvara-jñānād viśuddʰiḥ paramā matā //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -6352,7 +6352,7 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-41-lg-731-l-1462">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vāyu-bʰakṣaḥ prāg-udīcīm \gaccʰed vā_ā-varṣma-samkṣayāt //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -6779,9 +6779,9 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-42-lg-782-l-1564">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vasā trayo dvau tu medo majjā_ekā_ūrdʰvam</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">ardʰam</foreign>
-							<foreign xml:lang="deu-Latn">?]</foreign>
+							<foreign xml:lang="eng-Latn">?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">tu mastake//</foreign>
 						</l>
 					</lg>
@@ -6944,9 +6944,9 @@
 					<lg n="126" type="stanza" xml:id="chapter-3-paragraph-42-lg-802">
 						<l n="a" xml:id="chapter-3-paragraph-42-lg-802-l-1603">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">sahasra-ātmā mayā yo va</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vā</foreign>
-							<foreign xml:lang="deu-Latn">?]</foreign>
+							<foreign xml:lang="eng-Latn">?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">ādi-deva udāhr̥taḥ /</foreign>
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-42-lg-802-l-1604">
@@ -7219,7 +7219,7 @@
 					<lg n="159" type="stanza" xml:id="chapter-3-paragraph-42-lg-835">
 						<l n="a" xml:id="chapter-3-paragraph-42-lg-835-l-1669">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">nīrajas-tamasā</foreign>
-							<foreign xml:lang="deu-Latn">[?]</foreign>
+							<foreign xml:lang="eng-Latn">[?]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">sattva-śuddʰir nihspr̥hatā śamaḥ /</foreign>
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-42-lg-835-l-1670">
@@ -7602,7 +7602,7 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-42-lg-881-l-1762">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">śrādʰa-kr̥t satya-vādī ca gr̥hastʰo_api hi \mucyate //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 						</l>
 					</lg>
 				</div>
@@ -8061,9 +8061,9 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-43-lg-935-l-1870">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">\gr̥hītvā_\utkr̥tya</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">utkr̥ttya</foreign>
-							<foreign xml:lang="deu-Latn">]</foreign>
+							<foreign xml:lang="eng-Latn">]</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vr̥ṣaṇau nairr̥tyām ca_\utsr̥jet tanum //</foreign>
 						</l>
 					</lg>
@@ -8217,9 +8217,9 @@
 					<lg n="277" type="stanza" xml:id="chapter-3-paragraph-43-lg-953">
 						<l n="a" xml:id="chapter-3-paragraph-43-lg-953-l-1905">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">pumścalī-vānara-kʰarair daṣṭa-śva-uṣṭra-ādi-vāyasaiḥ /</foreign>
-							<foreign xml:lang="deu-Latn">[</foreign>
+							<foreign xml:lang="eng-Latn">[</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">daṣṭaḥ-</foreign>
-							<foreign xml:lang="deu-Latn">?] (p.472)</foreign>
+							<foreign xml:lang="eng-Latn">?] (p.472)</foreign>
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-43-lg-953-l-1906">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">prāṇa-āyāmam jale \kr̥tvā gʰr̥tam \prāśya \viśudʰyati //</foreign>
@@ -8424,7 +8424,7 @@
 					<lg n="300" type="stanza" xml:id="chapter-3-paragraph-43-lg-976">
 						<l n="a" xml:id="chapter-3-paragraph-43-lg-976-l-1953">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">vikʰyāta-doṣaḥ \kurvīta parṣado_anumatam vratam /</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-prose-unacc-txl">rahasya-prāyaścittam</foreign>
 							<pb n="505" />
 						</l>
@@ -8721,8 +8721,8 @@
 						</l>
 						<l n="c" xml:id="chapter-3-paragraph-43-lg-1010-l-2022">
 							<foreign xml:lang="san-Latn-x-vedic-metric-unacc-txl">evam \astv iti ha_\uvāca namas-\kr̥tya svayambʰuve //</foreign>
-							<foreign xml:lang="deu-Latn">E</foreign>
-							<foreign xml:lang="deu-Latn">End of the</foreign>
+							<foreign xml:lang="eng-Latn">E</foreign>
+							<foreign xml:lang="eng-Latn">End of the</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-prose-unacc-txl">prāyaścitta-adʰyāya</foreign>
 							<foreign xml:lang="san-Latn-x-vedic-prose-unacc-txl">Yājñavalkya-smr̥tiḥ samāptā</foreign>
 						</l>

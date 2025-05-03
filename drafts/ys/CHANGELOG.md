@@ -9,5 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- metalanguage=eng (2025-05-03)
 - valid version (2025-04-08)
 - initial creation (2025-04-08)
