@@ -22,8 +22,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="san-Latn-x-classic-unacced-tld">Sanskrit</language>
-				<language ident="eng-Latn">English</language>
+				<language ident="san-Latn-x-classic-unacced-tld" ana="primary">Sanskrit</language>
+				<language ident="eng-Latn" ana="meta">English</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
