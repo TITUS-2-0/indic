@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- added front (2025-05-15)
+- und-Latn-x-general (2025-05-02)
+- added front (2025-05-01)
 
 ## [0.1.0] - 2025-04-23
 
