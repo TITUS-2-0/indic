@@ -1,510 +1,510 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Umasvati, Tattvarthasutra</title>
-				<author>Unknown</author>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Goethe University</publisher>
-				<pubPlace>Frankfurt</pubPlace>
-				<date when="2025-04-08">2025-04-08</date>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of Umasvati, Tattvarthasutra by Unknown (draft version). 2025-04-08. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
-					</p>
-				</availability>
-				<idno type="version">unreleased</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Missing metadata</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="san-Latn-x-classic-unacced-tld" ana="primary">Sanskrit</language>
-				<language ident="eng-Latn" ana="meta">English</language>
-			</langUsage>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="san-Latn-x-classic-unacced-tld">
-		<body>
-			<div n="1" xml:id="adhyaya-1" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-1-p-1">
-					<s n="1" xml:id="adhyaya-1-p-1-s-1">samyagdarśana jñāna cāritrāṇi mokṣamārgaḥ</s>
-					<s n="2" xml:id="adhyaya-1-p-1-s-2">tattvārthaśraddhānaṃ samyagdarśanam</s>
-					<s n="3" xml:id="adhyaya-1-p-1-s-3">tan nisargād adhigamād vā</s>
-					<s n="4" xml:id="adhyaya-1-p-1-s-4">jīvājīvāsrava bandha saṃvara nirjarā mokṣāstattvaṃ</s>
-					<s n="5" xml:id="adhyaya-1-p-1-s-5">nāma sthāpanā dravya bhāvatastannyāsaḥ</s>
-					<s n="6" xml:id="adhyaya-1-p-1-s-6">pramāṇanayair adhigamaḥ</s>
-					<s n="7" xml:id="adhyaya-1-p-1-s-7">nirdeśa svāmitva sādhana adhikaraṇa sthiti vidhānataḥ</s>
-					<s n="8" xml:id="adhyaya-1-p-1-s-8">sat saṃkhyā kṣetra sparśana kālāntara bhāvālpa bahuttvaiśca</s>
-					<s n="9" xml:id="adhyaya-1-p-1-s-9">matiśrutāvadhimanaḥ paryaya kevalāni jñānam</s>
-					<s n="10" xml:id="adhyaya-1-p-1-s-10">tat pramāṇe</s>
-					<s n="11" xml:id="adhyaya-1-p-1-s-11">adye parokṣam</s>
-					<s n="12" xml:id="adhyaya-1-p-1-s-12">pratyakṣamanyat</s>
-					<s n="13" xml:id="adhyaya-1-p-1-s-13">matiḥ smr̥ti saṃjñā cintābhinibodha ity ānarthāntaram</s>
-					<s n="14" xml:id="adhyaya-1-p-1-s-14">tad indriyānindriya nimittam</s>
-					<s n="15" xml:id="adhyaya-1-p-1-s-15">avagrahehāvāya dhāraṇāḥ</s>
-					<s n="16" xml:id="adhyaya-1-p-1-s-16">bahu bahuvidha kṣipra niśrita sandigdha dhruvāṇāṃ setarāṇām<note xml:id="adhyaya-1-p-1-s-16-note-1" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="16a" xml:id="adhyaya-1-p-1-s-17">bahu bahuvidha kṣiprā niḥsr̥tānukta dhruvāṇāṃ setarāṇām<note xml:id="adhyaya-1-p-1-s-17-note-2" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
-					</s>
-					<s n="17" xml:id="adhyaya-1-p-1-s-18">arthasya</s>
-					<s n="18" xml:id="adhyaya-1-p-1-s-19">vyañjanasyāvagrahaḥ</s>
-					<s n="19" xml:id="adhyaya-1-p-1-s-20">na cakṣuranindriyābhyām</s>
-					<s n="20" xml:id="adhyaya-1-p-1-s-21">śrutaṃ matipūrvaṃ dvyaneka dvādaśabhedam</s>
-					<s n="21" xml:id="adhyaya-1-p-1-s-22">dvividho'vadhiḥ<note xml:id="adhyaya-1-p-1-s-22-note-3" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="22" xml:id="adhyaya-1-p-1-s-23">bhavapratyayo nārakadevāṇāṃ</s>
-					<s n="23" xml:id="adhyaya-1-p-1-s-24">yathoktanimittaḥ ṣaḍvikalpaḥ śeṣāṇāṃ</s>
-					<s n="24" xml:id="adhyaya-1-p-1-s-25">r̥juvipulamatī manaḥ paryayaḥ</s>
-					<s n="25" xml:id="adhyaya-1-p-1-s-26">viśuddhy apratipātābhyāṃ tadviśeṣaḥ</s>
-					<s n="26" xml:id="adhyaya-1-p-1-s-27">viśuddhi-kṣetra-svāmi-viṣayebhyo'vadhimanaḥ paryayayoḥ</s>
-					<s n="27" xml:id="adhyaya-1-p-1-s-28">matiśrutayor nibandhaḥ sarvadravyeṣv asarvapāryāyeṣu</s>
-					<s n="28" xml:id="adhyaya-1-p-1-s-29">rūpiṣv-avadheḥ</s>
-					<s n="29" xml:id="adhyaya-1-p-1-s-30">tadanantabhāge manaḥ paryasya</s>
-					<s n="30" xml:id="adhyaya-1-p-1-s-31">sarvadravya-paryāyeṣu kevalasya</s>
-					<s n="31" xml:id="adhyaya-1-p-1-s-32">ekādīni bhājyāni yugapad ekasminn ācaturbhyaḥ</s>
-					<s n="32" xml:id="adhyaya-1-p-1-s-33">matiśrutāvadhayo viparyayaśca</s>
-					<s n="33" xml:id="adhyaya-1-p-1-s-34">sadasator aviśeṣād yadr̥cchopalabdher unmattavat</s>
-					<s n="34" xml:id="adhyaya-1-p-1-s-35">naigama saṃgraha vyavahāra rjusūtra śabda samabhirūḍa evaṃbhūtā nayāḥ<note xml:id="adhyaya-1-p-1-s-35-note-4" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="34a" xml:id="adhyaya-1-p-1-s-36">naigama saṃgraha vyavahāra rjusūtra śabda samabhirūḍa evaṃbhūtā nayāḥ<note xml:id="adhyaya-1-p-1-s-36-note-5" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
-					</s>
-					<s n="35" xml:id="adhyaya-1-p-1-s-37">ādya-śabdau dvi tri bhedau<note xml:id="adhyaya-1-p-1-s-37-note-6" xml:lang="eng-Latn">not in sarvārthasiddhi</note> .</s>
-				</p>
-			</div>
-			<div n="2" xml:id="adhyaya-2" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-2-p-2">
-					<s n="1" xml:id="adhyaya-2-p-2-s-38">aupaśamikakṣāyikau bhāvau miśraśca jīvasya svatattvam audayika pāriṇāmiko ca</s>
-					<s n="2" xml:id="adhyaya-2-p-2-s-39">dvi-navāṣṭādaśaikaviṃśātitribhedā yathākramam</s>
-					<s n="3" xml:id="adhyaya-2-p-2-s-40">samyaktva cāritre</s>
-					<s n="4" xml:id="adhyaya-2-p-2-s-41">jñānadarśana dānalābhabhogopabhogavīryāṇi ca</s>
-					<s n="5" xml:id="adhyaya-2-p-2-s-42">jñānājñāna darśana labdhyaścatustritri pañcabhedāḥ samyaktva cāritra saṃyamāsaṃyamāśca</s>
-					<s n="6" xml:id="adhyaya-2-p-2-s-43">gati kaṣāya liṅgaṃ mithyādarśaṇājñānāsaṃyatāsiddha leśyāścatuścatustryekaikaikaikaṣaḍbhedāḥ</s>
-					<s n="7" xml:id="adhyaya-2-p-2-s-44">jīvabhavyābhavyatvāni ca</s>
-					<s n="8" xml:id="adhyaya-2-p-2-s-45">upayogo lakṣaṇam</s>
-					<s n="9" xml:id="adhyaya-2-p-2-s-46">sa dvividho'ṣṭacaturbheda</s>
-					<s n="10" xml:id="adhyaya-2-p-2-s-47">saṃsāriṇo muktāśca</s>
-					<s n="11" xml:id="adhyaya-2-p-2-s-48">samanaskāmanaskāḥ</s>
-					<s n="12" xml:id="adhyaya-2-p-2-s-49">saṃsāriṇastrasasthāvarāḥ</s>
-					<s n="13" xml:id="adhyaya-2-p-2-s-50">pr̥thivyambuvanaspatayaḥ sthāvarāḥ<note xml:id="adhyaya-2-p-2-s-50-note-7" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="13a" xml:id="adhyaya-2-p-2-s-51">pr̥thivyaptejovāyuvanaspatayaḥ sthāvarāḥ</s>
-					<s n="14" xml:id="adhyaya-2-p-2-s-52">tejovāyūdvīndriyādayaś ca trasāḥ<note xml:id="adhyaya-2-p-2-s-52-note-8" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="14a" xml:id="adhyaya-2-p-2-s-53">dvīndriyādayastrasāḥ</s>
-					<s n="15" xml:id="adhyaya-2-p-2-s-54">paṃcedriyāṇi</s>
-					<s n="16" xml:id="adhyaya-2-p-2-s-55">dvididhāni</s>
-					<s n="17" xml:id="adhyaya-2-p-2-s-56">nirvr̥tyupakaraṇe dravyendriyam</s>
-					<s n="18" xml:id="adhyaya-2-p-2-s-57">labdhyupayogau bhāvendriyam</s>
-					<s n="19" xml:id="adhyaya-2-p-2-s-58">upayogaḥ sparśādiṣu 19<note xml:id="adhyaya-2-p-2-s-58-note-9" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="20" xml:id="adhyaya-2-p-2-s-59">sparśanarasana ghrāṇacakṣuḥ śrotrāṇi</s>
-					<s n="21" xml:id="adhyaya-2-p-2-s-60">sparśanarasagāndhavarṇaśabdāstadarthāḥ</s>
-					<s n="22" xml:id="adhyaya-2-p-2-s-61">śrutamanindriyasya</s>
-					<s n="23" xml:id="adhyaya-2-p-2-s-62">vāyvantānām ekam<note xml:id="adhyaya-2-p-2-s-62-note-10" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="23a" xml:id="adhyaya-2-p-2-s-63">vanaspatyantānāmekam</s>
-					<s n="24" xml:id="adhyaya-2-p-2-s-64">kr̥mipipīlikā bhramara manuṣyādīnāmekaika vr̥ddhāni</s>
-					<s n="25" xml:id="adhyaya-2-p-2-s-65">saṃjñinaḥ samanaskāḥ</s>
-					<s n="26" xml:id="adhyaya-2-p-2-s-66">vigrahagatau karmayogaḥ</s>
-					<s n="27" xml:id="adhyaya-2-p-2-s-67">anuśreṇi gatiḥ</s>
-					<s n="28" xml:id="adhyaya-2-p-2-s-68">avigrahā jīvasya</s>
-					<s n="29" xml:id="adhyaya-2-p-2-s-69">vigrahavatī ca saṃsāriṇaḥ prāk caturbhyaḥ</s>
-					<s n="30" xml:id="adhyaya-2-p-2-s-70">eka samayāvigrahā</s>
-					<s n="31" xml:id="adhyaya-2-p-2-s-71">ekaṃ dvau vā nāhārakaḥ 31<note xml:id="adhyaya-2-p-2-s-71-note-11" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="31a" xml:id="adhyaya-2-p-2-s-72">ekaṃ dvai trīnvānāhārakaḥ</s>
-					<s n="32" xml:id="adhyaya-2-p-2-s-73">sammūrcchanagarbhaupapātā janma</s>
-					<s n="33" xml:id="adhyaya-2-p-2-s-74">sacittaśītasaṃvr̥tāḥsetarā miśrāś caikaśas tad yonayaḥ</s>
-					<s n="34" xml:id="adhyaya-2-p-2-s-75">jarāyujāṇḍajapotānāṃ garbhaḥ</s>
-					<s n="35" xml:id="adhyaya-2-p-2-s-76">devanārakāṇāmupapādaḥ</s>
-					<s n="36" xml:id="adhyaya-2-p-2-s-77">śeṣāṇāṃ saṃmabarcchanam</s>
-					<s n="37" xml:id="adhyaya-2-p-2-s-78">audārikavaikriyikāhārakadaijasakārmaṇāni śarīrāṇi</s>
-					<s n="38" xml:id="adhyaya-2-p-2-s-79">paraṃ paraṃ sūkṣman</s>
-					<s n="39" xml:id="adhyaya-2-p-2-s-80">pradeśato'saṃkhyeyaguṇaṃprāk taijasāt</s>
-					<s n="40" xml:id="adhyaya-2-p-2-s-81">anantaguṇe pare</s>
-					<s n="41" xml:id="adhyaya-2-p-2-s-82">apratīghāte</s>
-					<s n="42" xml:id="adhyaya-2-p-2-s-83">anādisaṃbandhe ca</s>
-					<s n="43" xml:id="adhyaya-2-p-2-s-84">sarvasya</s>
-					<s n="44" xml:id="adhyaya-2-p-2-s-85">tadādīni bhājyāni yugapad ekasminnā caturbhyaḥ</s>
-					<s n="45" xml:id="adhyaya-2-p-2-s-86">nirūpabhogamantyam</s>
-					<s n="46" xml:id="adhyaya-2-p-2-s-87">garbhasamabarcchanajamādyam</s>
-					<s n="47" xml:id="adhyaya-2-p-2-s-88">aupapādikaṃ vaigriyikam</s>
-					<s n="48" xml:id="adhyaya-2-p-2-s-89">labdhipratyayaṃ</s>
-					<s n="49" xml:id="adhyaya-2-p-2-s-90">
-						<note xml:id="adhyaya-2-p-2-s-90-note-12" xml:lang="eng-Latn">only in sarvārthasiddhi</note> taijasamapi</s>
-					<s n="50" xml:id="adhyaya-2-p-2-s-91">śubhaṃ viśuddham avyāghāti cāhārakaṃ caturdaśa pūrvadhara eva<note xml:id="adhyaya-2-p-2-s-91-note-13" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="50." xml:id="adhyaya-2-p-2-s-92">1 śubhaṃ viśuddhamavyāghāti cāhārakaṃ pramattasaṃyatasyaiva<note xml:id="adhyaya-2-p-2-s-92-note-14" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
-					</s>
-					<s n="51" xml:id="adhyaya-2-p-2-s-93">nāraka-saṃmūrcchano napuṃsakāni</s>
-					<s n="52" xml:id="adhyaya-2-p-2-s-94">na devāḥ</s>
-					<s n="53" xml:id="adhyaya-2-p-2-s-95">śeṣastrivedāḥ<note xml:id="adhyaya-2-p-2-s-95-note-15" xml:lang="eng-Latn">only in sarvārthasiddhi</note>
-					</s>
-					<s n="54" xml:id="adhyaya-2-p-2-s-96">aupapātika caramadeha uttamapuruṣā'saṅkhyeyavarṣāyurṣo'napavartyāyuṣaḥ<note xml:id="adhyaya-2-p-2-s-96-note-16" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="54a" xml:id="adhyaya-2-p-2-s-97">aupapādika caramottamadehā'saṃkhyeya varṣāyuṣonavartyayuṣaḥ</s>
-				</p>
-			</div>
-			<div n="3" xml:id="adhyaya-3" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-3-p-3">
-					<s n="1" xml:id="adhyaya-3-p-3-s-98">ratnaśarkarābālukāpaṃka dhūmatamomahātamaḥ prabhā bhūmayo ghanāmbuvātākāśa pratiṣṭhāḥ saptādho'dhaḥ</s>
-					<s n="2" xml:id="adhyaya-3-p-3-s-99">tāsu narakāḥ</s>
-					<s n="3" xml:id="adhyaya-3-p-3-s-100">nityāśubhataraleśyāpariṇāma dehavedanāvikriyāḥ</s>
-					<s n="4" xml:id="adhyaya-3-p-3-s-101">parasparodīritaduḥkhāḥ</s>
-					<s n="5" xml:id="adhyaya-3-p-3-s-102">saṃkliṣṭāsurodīritaduḥkhāśca prāk caturthyāḥ</s>
-					<s n="6" xml:id="adhyaya-3-p-3-s-103">teśvekatri sapta daśasaptadaśatdvā viṃśati trayastriṃśat sāgaropamāsattvānāṃ parā sthitaḥ</s>
-					<s n="7" xml:id="adhyaya-3-p-3-s-104">jambudvīpa lavaṇodādayaḥ śubhanāmāno dvīpasamudrā</s>
-					<s n="8" xml:id="adhyaya-3-p-3-s-105">dvirdvirviṣkambhāḥ pūrvapūrvaparikṣepiṇo valayākr̥tayaḥ</s>
-					<s n="9" xml:id="adhyaya-3-p-3-s-106">tanmadhye merunābhirvr̥tto yojanaśatasahasraviṣakambho jambūdvīpaḥ</s>
-					<s n="10" xml:id="adhyaya-3-p-3-s-107">bharatahemavataharivideha ramyaka hairaṇyavatairāvatavarṣāḥ kṣetrāṇi</s>
-					<s n="11" xml:id="adhyaya-3-p-3-s-108">tadvibhājinaḥ pūrvāparāyatā himavanmahāhimavanniṣadhanīlarūkmi śikhariṇo varṣadharaparvatāḥ</s>
-					<s n="12" xml:id="adhyaya-3-p-3-s-109">hemārjunatapanīya vaiḍūrya rajata hemamayāḥ<note xml:id="adhyaya-3-p-3-s-109-note-17" xml:lang="eng-Latn">only in sarvārthasiddhi from 12 to 39</note>
-					</s>
-					<s n="13" xml:id="adhyaya-3-p-3-s-110">maṇivicitraparśvā upari mūle ca tulyavistārāḥ</s>
-					<s n="14" xml:id="adhyaya-3-p-3-s-111">padmamahāpadmatigiñchakesari mahāpuṇḍarīkapuṇjarīkā hr̥dās teṣāmupari</s>
-					<s n="15" xml:id="adhyaya-3-p-3-s-112">prathamo yojanasahasrāyāmas tad ardha viṣakambho hr̥daḥ</s>
-					<s n="16" xml:id="adhyaya-3-p-3-s-113">deśayojanāvagāhaḥ</s>
-					<s n="17" xml:id="adhyaya-3-p-3-s-114">tanmadhye yojanaṃ puṣkaram</s>
-					<s n="18" xml:id="adhyaya-3-p-3-s-115">taddviguṇadviguṇāhradaḥ puṣkarāṇi ca</s>
-					<s n="19" xml:id="adhyaya-3-p-3-s-116">tannivāsinyo devyaḥ śrī hrīdhr̥tikīrtibuddhilakṣmyaḥ palyopamasthitayaḥ sasāmānika pariṣatkāḥ</s>
-					<s n="20" xml:id="adhyaya-3-p-3-s-117">gaṇgāsindhu rohidrohitāsyāhariddharikāntai sītāsītodānārīnarakāntā suvarṇa rūpyakūlā raktāraktodāḥ saritastanmadhyagāḥ</s>
-					<s n="21" xml:id="adhyaya-3-p-3-s-118">dvayordvayoḥ pūrvāḥ pūrvagāḥ</s>
-					<s n="22" xml:id="adhyaya-3-p-3-s-119">śeṣāstvaparagāḥ</s>
-					<s n="23" xml:id="adhyaya-3-p-3-s-120">caturdaśanadīsahasraparivr̥tā gaṃgāsindhvādayo nadyaḥ</s>
-					<s n="24" xml:id="adhyaya-3-p-3-s-121">bharataḥ ṣaḍviṃśatipaṃcayojanaśatavistāraḥ ṣaṭcaikonaviṃśatibhāgāyojanasya</s>
-					<s n="25" xml:id="adhyaya-3-p-3-s-122">taddviguṇadviguṇavistārā varṣadharavarṣā videhāntāḥ</s>
-					<s n="26" xml:id="adhyaya-3-p-3-s-123">uttara dakṣiṇatulyāḥ</s>
-					<s n="27" xml:id="adhyaya-3-p-3-s-124">bharatairāvatayorvr̥ddhihrāsau ṣaṭsamayābhyāmutsarpiṇyavasarpiṇībhyāṃ</s>
-					<s n="28" xml:id="adhyaya-3-p-3-s-125">tābhyāmāpārā bhumayoḍavasthitaḥ</s>
-					<s n="29" xml:id="adhyaya-3-p-3-s-126">eka-dvi-tripalyopāmasthitaya haimavataka-harivārśaka daivākurāvākāha</s>
-					<s n="30" xml:id="adhyaya-3-p-3-s-127">tathottaraḥ</s>
-					<s n="31" xml:id="adhyaya-3-p-3-s-128">videheṣu saṃkhyeyakālāḥ</s>
-					<s n="32" xml:id="adhyaya-3-p-3-s-129">bharatasya viṣkambho jambūdvīpasya navatiśatabhāgaḥ</s>
-					<s n="33" xml:id="adhyaya-3-p-3-s-130">dvirdhātakīkhaṇḍe</s>
-					<s n="34" xml:id="adhyaya-3-p-3-s-131">puṣkārardhe ca</s>
-					<s n="35" xml:id="adhyaya-3-p-3-s-132">prāṅmānuṣottarānmanuṣyāḥ</s>
-					<s n="36" xml:id="adhyaya-3-p-3-s-133">āryā mlecchāśca</s>
-					<s n="37" xml:id="adhyaya-3-p-3-s-134">bharatairāvatavidehāḥ karmabhūmayo'nyatra devakurūttarakurubhyaḥ</s>
-					<s n="38" xml:id="adhyaya-3-p-3-s-135">nr̥sthitīparāvare tripalyopamāntarmuhūrta</s>
-					<s n="39" xml:id="adhyaya-3-p-3-s-136">tiryagyojivānāṃ ca</s>
-				</p>
-			</div>
-			<div n="4" xml:id="adhyaya-4" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-4-p-4">
-					<s n="1" xml:id="adhyaya-4-p-4-s-137">devāścaturṇikāyāḥ</s>
-					<s n="2" xml:id="adhyaya-4-p-4-s-138">tr̥tīyaḥ pītaleśyaḥ<note xml:id="adhyaya-4-p-4-s-138-note-18" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="2a" xml:id="adhyaya-4-p-4-s-139">āditas triṣu pītānalleśyāḥ<note xml:id="adhyaya-4-p-4-s-139-note-19" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
-					</s>
-					<s n="3" xml:id="adhyaya-4-p-4-s-140">daśāṣṭapañcaddvādaśavikalpāḥ kalpopapannaparyantāḥ</s>
-					<s n="4" xml:id="adhyaya-4-p-4-s-141">indrasāmānika trāyastriśapāriṣadātmaraśca lokapālīnāka prakīrṇa kābhiyogya kilbiṣi kaścaikaśāḥ</s>
-					<s n="5" xml:id="adhyaya-4-p-4-s-142">trāyastriṃśalokapālavarjyā vyantarajyotiṣkāḥ</s>
-					<s n="6" xml:id="adhyaya-4-p-4-s-143">pūrvayordvīndrā</s>
-					<s n="7" xml:id="adhyaya-4-p-4-s-144">pītāntaleśyāḥ 7<note xml:id="adhyaya-4-p-4-s-144-note-20" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="8" xml:id="adhyaya-4-p-4-s-145">kāyapravīcārāḥ ā aiśānāt</s>
-					<s n="9" xml:id="adhyaya-4-p-4-s-146">śeṣāḥ sparśa-rūpa-śabda-manaḥ pravīcārā dvayor dvayoḥ</s>
-					<s n="10" xml:id="adhyaya-4-p-4-s-147">pare'pravacīrāḥ</s>
-					<s n="11" xml:id="adhyaya-4-p-4-s-148">bhavanavāsino'suranāgavidyutsuparṇāgnivātastanitoda dhidvīpadikkumārāḥ</s>
-					<s n="12" xml:id="adhyaya-4-p-4-s-149">vyantarāḥ kinnarakiṃpuruṣa mahoraga gandharvayakṣarakṣasabhūtapiśācāḥ</s>
-					<s n="13" xml:id="adhyaya-4-p-4-s-150">jyotiṣkāḥ sūryācandramasau grahanakṣatraprakīrṇakatārakāśca</s>
-					<s n="14" xml:id="adhyaya-4-p-4-s-151">merupradakṣiṇā nityagatayo nr̥loke</s>
-					<s n="15" xml:id="adhyaya-4-p-4-s-152">tatkr̥taḥ kālvibhāgaḥ</s>
-					<s n="16" xml:id="adhyaya-4-p-4-s-153">bahiravasthitāḥ</s>
-					<s n="17" xml:id="adhyaya-4-p-4-s-154">vaimānikāḥ</s>
-					<s n="18" xml:id="adhyaya-4-p-4-s-155">kalpopapannāḥ kalpātātāśca</s>
-					<s n="19" xml:id="adhyaya-4-p-4-s-156">uparyupari</s>
-					<s n="20" xml:id="adhyaya-4-p-4-s-157">saudharmaiśānasānatkumāra māhendra brahmabrahmottara lāntavakāpiṣṭha śukramahāśukraśatārasahasrāreṣv ānataprāṇayor āraṇācyutayor navasugraiveyakeṣu vijaya vaijayanta yayantāparājiteṣu sarvārthasiddhau ca</s>
-					<s n="21" xml:id="adhyaya-4-p-4-s-158">sthiti prabhāvasukhadyutaleśyāviśuddhīndriyā vadhiviṣayato'dhikāḥ</s>
-					<s n="22" xml:id="adhyaya-4-p-4-s-159">gatiśarīraparigrahābhimānato hīnāḥ</s>
-					<s n="23" xml:id="adhyaya-4-p-4-s-160">pītapadmaśuklaleśyā dvitriśeṣeṣu</s>
-					<s n="24" xml:id="adhyaya-4-p-4-s-161">prāggraiveyakebhyaḥ kalpāḥ</s>
-					<s n="25" xml:id="adhyaya-4-p-4-s-162">brahmalokālayā laukāntikāḥ</s>
-					<s n="26" xml:id="adhyaya-4-p-4-s-163">sārasvatāditya vahnyarūṇagardatoyaṣituṣitāvyabādhāriṣṭāśca</s>
-					<s n="27" xml:id="adhyaya-4-p-4-s-164">vijayādiṣu dvicaramāḥ</s>
-					<s n="28" xml:id="adhyaya-4-p-4-s-165">aupapātika-manuṣyebhyaḥ śeṣās tiryag-yonayaḥ</s>
-					<s n="29" xml:id="adhyaya-4-p-4-s-166">sthitiḥ<note xml:id="adhyaya-4-p-4-s-166-note-21" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="30" xml:id="adhyaya-4-p-4-s-167">bhavaneṣu dakṣiṇārdhādhipatīnāṃ palyopamam adhyardham<note xml:id="adhyaya-4-p-4-s-167-note-22" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="31" xml:id="adhyaya-4-p-4-s-168">śeṣāṇāṃ pādone<note xml:id="adhyaya-4-p-4-s-168-note-23" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="32" xml:id="adhyaya-4-p-4-s-169">asurendrayoh sāgaropamam adhikaṃ ca<note xml:id="adhyaya-4-p-4-s-169-note-24" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="32a" xml:id="adhyaya-4-p-4-s-170">sthitir asura nāga suparṇa dvīpa śeṣāṇāṃ sāgaropama tripalyopamārdhahīnamitā<note xml:id="adhyaya-4-p-4-s-170-note-25" xml:lang="eng-Latn">variant for 4.29-4.32</note>
-					</s>
-					<s n="33" xml:id="adhyaya-4-p-4-s-171">saudharmādiṣu yathākramam<note xml:id="adhyaya-4-p-4-s-171-note-26" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="34" xml:id="adhyaya-4-p-4-s-172">sāgaropame<note xml:id="adhyaya-4-p-4-s-172-note-27" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="35" xml:id="adhyaya-4-p-4-s-173">adhike ca<note xml:id="adhyaya-4-p-4-s-173-note-28" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="36" xml:id="adhyaya-4-p-4-s-174">saudharmai-śānayoḥ sāgaropame adhike 37<note xml:id="adhyaya-4-p-4-s-174-note-29" xml:lang="eng-Latn">variant for 4.33-4-35</note>
-					</s>
-					<s n="37" xml:id="adhyaya-4-p-4-s-175">sapta sānatkumāre<note xml:id="adhyaya-4-p-4-s-175-note-30" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="38" xml:id="adhyaya-4-p-4-s-176">viśeṣa tri sapta daśai kādaśa trayodaśa pañcadaśabhir adhikāni ca<note xml:id="adhyaya-4-p-4-s-176-note-31" xml:lang="eng-Latn">idem</note>
-					</s>
-					<s n="38a" xml:id="adhyaya-4-p-4-s-177">sānatkumāra māhendrayoḥ sapta</s>
-					<s n="38a" xml:id="adhyaya-4-p-4-s-178">tri sapta navai kādaśa trayodaśa pañcadaśabhir adhikāni</s>
-					<s n="39" xml:id="adhyaya-4-p-4-s-179">āraṇācyutād ūrdhvam ekaikena navasu graiveyakeṣu vijayādiṣu sarvārthasiddhe ca</s>
-					<s n="40" xml:id="adhyaya-4-p-4-s-180">aparā palyopamaṃ adhikam ca<note xml:id="adhyaya-4-p-4-s-180-note-32" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="41" xml:id="adhyaya-4-p-4-s-181">sagaropame<note xml:id="adhyaya-4-p-4-s-181-note-33" xml:lang="eng-Latn">idem </note>
-					</s>
-					<s n="42" xml:id="adhyaya-4-p-4-s-182">adhike ca</s>
-					<s n="43" xml:id="adhyaya-4-p-4-s-183">parataḥ parataḥ pūrvā pūrvānantarā</s>
-					<s n="43a" xml:id="adhyaya-4-p-4-s-184">aparā palyopamam adhikam</s>
-					<s n="44" xml:id="adhyaya-4-p-4-s-185">nārakāṇāṃ ca dvitīyādiṣu</s>
-					<s n="45" xml:id="adhyaya-4-p-4-s-186">daśavarṣasahasrāṇi prathamāyām</s>
-					<s n="46" xml:id="adhyaya-4-p-4-s-187">bhavaneṣu ca</s>
-					<s n="47" xml:id="adhyaya-4-p-4-s-188">vyantarāṇāṃ ca</s>
-					<s n="48" xml:id="adhyaya-4-p-4-s-189">parā palyopamam</s>
-					<s n="49" xml:id="adhyaya-4-p-4-s-190">jyotiṣkāṇām adhikam</s>
-					<s n="49a" xml:id="adhyaya-4-p-4-s-191">parāpalyopamam adhikam</s>
-					<s n="49a" xml:id="adhyaya-4-p-4-s-192">jyotiṣkāṇāṃ ca</s>
-					<s n="50" xml:id="adhyaya-4-p-4-s-193">grahāṇām ekam</s>
-					<s n="51" xml:id="adhyaya-4-p-4-s-194">nakṣatrāṇām ardham</s>
-					<s n="52" xml:id="adhyaya-4-p-4-s-195">tārakāṇāṃ caturbhāgaḥ</s>
-					<s n="53" xml:id="adhyaya-4-p-4-s-196">jaghanyā tv aṣṭabhāgaḥ</s>
-					<s n="54" xml:id="adhyaya-4-p-4-s-197">caturbhāgaḥ śeṣāṇām</s>
-					<s n="54a" xml:id="adhyaya-4-p-4-s-198">tadaṣṭabhāgo'parā</s>
-					<s n="55" xml:id="adhyaya-4-p-4-s-199">laukāntikānām aṣṭau sāgaropamāṇi sarveṣām</s>
-				</p>
-			</div>
-			<div n="5" xml:id="adhyaya-5" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-5-p-5">
-					<s n="1" xml:id="adhyaya-5-p-5-s-200">ajīvakāyā dharmādharmākāśapudgalāḥ</s>
-					<s n="2" xml:id="adhyaya-5-p-5-s-201">dravyāṇi jīvaś ca<note xml:id="adhyaya-5-p-5-s-201-note-34" xml:lang="eng-Latn">sarvārthasiddhi 2 and 3</note>
-					</s>
-					<s n="3" xml:id="adhyaya-5-p-5-s-202">nityāvai sthitāny arūpāṇi ca</s>
-					<s n="4" xml:id="adhyaya-5-p-5-s-203">rūpiṇaḥ pudgalāḥ</s>
-					<s n="5" xml:id="adhyaya-5-p-5-s-204">ā ākāśād ekadravyāṇi</s>
-					<s n="6" xml:id="adhyaya-5-p-5-s-205">niṣkriyāṇi ca</s>
-					<s n="7" xml:id="adhyaya-5-p-5-s-206">asaṅkhyeyāḥ pradeśā dharmādharmayoḥ</s>
-					<s n="8" xml:id="adhyaya-5-p-5-s-207">jīvasya</s>
-					<s n="9" xml:id="adhyaya-5-p-5-s-208">ākāśasyānantāḥ</s>
-					<s n="10" xml:id="adhyaya-5-p-5-s-209">saṅkhyeyāsaṅkhyeyāś ca pudgalānām</s>
-					<s n="11" xml:id="adhyaya-5-p-5-s-210">nānoḥ</s>
-					<s n="12" xml:id="adhyaya-5-p-5-s-211">lokākāśe'vagāhaḥ</s>
-					<s n="13" xml:id="adhyaya-5-p-5-s-212">dharmādharmayoḥ kr̥tsne</s>
-					<s n="14" xml:id="adhyaya-5-p-5-s-213">ekapradeśādiṣu bhājyaḥ pudgalānām</s>
-					<s n="15" xml:id="adhyaya-5-p-5-s-214">asaṅkhyeyabhāgādiṣu jīvānām</s>
-					<s n="16" xml:id="adhyaya-5-p-5-s-215">pradeśasaṃhāravisargābhyāṃ pradīpavat</s>
-					<s n="17" xml:id="adhyaya-5-p-5-s-216">gatisthityupagraho dharmādharmayor upakāraḥ</s>
-					<s n="18" xml:id="adhyaya-5-p-5-s-217">ākāśasyāvagāhaḥ</s>
-					<s n="19" xml:id="adhyaya-5-p-5-s-218">śarīravāṅmanaḥprāṇāpānāḥ pudgalānām</s>
-					<s n="20" xml:id="adhyaya-5-p-5-s-219">sukhaduḥkhajīvitamaraṇopagrahaś ca</s>
-					<s n="21" xml:id="adhyaya-5-p-5-s-220">parasparopagraho jīvānām</s>
-					<s n="22" xml:id="adhyaya-5-p-5-s-221">vartanā pariṇāmaḥ kriyā paratvāparatve ca kālasya</s>
-					<s n="23" xml:id="adhyaya-5-p-5-s-222">sparśarasagandhavarṇavantaḥ pudgalāḥ</s>
-					<s n="24" xml:id="adhyaya-5-p-5-s-223">śabdabandhasaukṣmyasthaulyasaṃsthānabhedatamaschāyātapoddyotavantaś ca</s>
-					<s n="25" xml:id="adhyaya-5-p-5-s-224">aṇavaḥ skandhāś ca</s>
-					<s n="26" xml:id="adhyaya-5-p-5-s-225">saṃghātabhedebhya utpadyante</s>
-					<s n="27" xml:id="adhyaya-5-p-5-s-226">bhedād aṇuḥ</s>
-					<s n="28" xml:id="adhyaya-5-p-5-s-227">bheda saṃghātābhyāṃ cākṣuṣāḥ</s>
-					<s n="29" xml:id="adhyaya-5-p-5-s-228">sad dravyalakṣaṇam</s>
-					<s n="30" xml:id="adhyaya-5-p-5-s-229">utpādavyayadhrauvyayuktaṃ sat</s>
-					<s n="31" xml:id="adhyaya-5-p-5-s-230">tadbhāvāvyayaṃ nityam</s>
-					<s n="32" xml:id="adhyaya-5-p-5-s-231">arpitānarpitasiddheḥ</s>
-					<s n="33" xml:id="adhyaya-5-p-5-s-232">snigdharūkṣatvād bandhaḥ</s>
-					<s n="34" xml:id="adhyaya-5-p-5-s-233">na jaghanyaguṇānām</s>
-					<s n="35" xml:id="adhyaya-5-p-5-s-234">guṇasāmye sadr̥śānām</s>
-					<s n="36" xml:id="adhyaya-5-p-5-s-235">dvyadhikādiguṇānāṃ tu</s>
-					<s n="37" xml:id="adhyaya-5-p-5-s-236">bandhe samādhikau pāriṇāmikau<note xml:id="adhyaya-5-p-5-s-236-note-35" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
-					</s>
-					<s n="37a" xml:id="adhyaya-5-p-5-s-237">bandhe'dhikau pāriṇāmikau ca</s>
-					<s n="38" xml:id="adhyaya-5-p-5-s-238">guṇaparyāyavad dravyam</s>
-					<s n="39" xml:id="adhyaya-5-p-5-s-239">kālaś cetyeke</s>
-					<s n="39a" xml:id="adhyaya-5-p-5-s-240">kalaś ca</s>
-					<s n="40" xml:id="adhyaya-5-p-5-s-241">so'nantasamayaḥ</s>
-					<s n="41" xml:id="adhyaya-5-p-5-s-242">dravyāśrayā nirguṇā guṇāḥ</s>
-					<s n="42" xml:id="adhyaya-5-p-5-s-243">tadbhāvaḥ pariṇāmaḥ</s>
-					<s n="43" xml:id="adhyaya-5-p-5-s-244">anādir ādimāṃś ca</s>
-					<s n="44" xml:id="adhyaya-5-p-5-s-245">rūpiṣv ādimān</s>
-					<s n="45" xml:id="adhyaya-5-p-5-s-246">yogopayogau jīveṣu</s>
-				</p>
-			</div>
-			<div n="6" xml:id="adhyaya-6" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-6-p-6">
-					<s n="1" xml:id="adhyaya-6-p-6-s-247">kāyavāṇmanaḥkarma yogaḥ</s>
-					<s n="2" xml:id="adhyaya-6-p-6-s-248">sa āśravaḥ</s>
-					<s n="3" xml:id="adhyaya-6-p-6-s-249">śubhaḥ puṇyasya</s>
-					<s n="4" xml:id="adhyaya-6-p-6-s-250">aśubhaḥ pāpasya</s>
-					<s n="5" xml:id="adhyaya-6-p-6-s-251">sakaṣāyākaṣāyayoḥsāmparāyike ryāpathayoḥ</s>
-					<s n="6" xml:id="adhyaya-6-p-6-s-252">avrata kaṣāyendriya kriyāḥ pañca catuḥ pañca pañcaviṃśati saṃkhyāḥ pūrvasya bhedāḥ</s>
-					<s n="7" xml:id="adhyaya-6-p-6-s-253">tīvra manda jñātājñātabhāvavīryādhikaraṇaviśeṣebhyas tadviśeṣaḥ</s>
-					<s n="8" xml:id="adhyaya-6-p-6-s-254">adhikaraṇaṃ jīvājīvāḥ</s>
-					<s n="9" xml:id="adhyaya-6-p-6-s-255">ādyaṃ saṃrambha samārambhārambha yoga kr̥ta kāritānumata kaṣāyaviśeṣais tris triścatuścaikaśaḥ</s>
-					<s n="10" xml:id="adhyaya-6-p-6-s-256">nirvartanānikṣepa saṃyoga nisargā dvi catur dvi tribedhāḥ param</s>
-					<s n="11" xml:id="adhyaya-6-p-6-s-257">tatpradoṣa-nihnava-mātsaryāntarāyāsādanopaghātājñānadarśanāvaraṇayoḥ</s>
-					<s n="12" xml:id="adhyaya-6-p-6-s-258">duḥkhaśokatāpākrandanavadhaparidevanānyātmaparobhayasthānāny asadvedyasya</s>
-					<s n="13" xml:id="adhyaya-6-p-6-s-259">bhūtavratyanukampādānaṃ sarāgasaṃyamādi yogaḥ kṣāntiḥ śaucam iti sadvedasyasya</s>
-					<s n="14" xml:id="adhyaya-6-p-6-s-260">kevaliśrutasaṅghadharmadevāvarṇavādo darśanamohasya</s>
-					<s n="15" xml:id="adhyaya-6-p-6-s-261">kaṣāyodayāt tīvrātmapariṇāmaś cāritramohasya</s>
-					<s n="16" xml:id="adhyaya-6-p-6-s-262">bahvārambhaparigrahatvaṃ ca nārakasyāyuṣaḥ</s>
-					<s n="17" xml:id="adhyaya-6-p-6-s-263">māyā tairyagyonasya</s>
-					<s n="18" xml:id="adhyaya-6-p-6-s-264">alpārambha parigrahatvaṃ svabhāvamārdavārjavaṃ ca mānuṣasya</s>
-					<s n="18a" xml:id="adhyaya-6-p-6-s-265">alpārambha parigrahatvaṃ mānuṣasya</s>
-					<s n="18.2" xml:id="adhyaya-6-p-6-s-266">svabhāvamārdavārjavaṃ ca</s>
-					<s n="19" xml:id="adhyaya-6-p-6-s-267">niḥśīla vratatvaṃ ca sarveṣām</s>
-					<s n="20" xml:id="adhyaya-6-p-6-s-268">sarāgasaṃyama-saṃyamāsaṃyamākāmanirjarā bālatapāṃsi daivasya</s>
-					<s n="21" xml:id="adhyaya-6-p-6-s-269">samyaktavaṃ ca</s>
-					<s n="22" xml:id="adhyaya-6-p-6-s-270">yogavakratā visaṃvādanaṃ cāśubhasya nāmnaḥ</s>
-					<s n="23" xml:id="adhyaya-6-p-6-s-271">viparītaṃ śubhasya</s>
-					<s n="24" xml:id="adhyaya-6-p-6-s-272">darśanaviśuddhir vinayasampannatā śīlavrateṣu anaticāro'bhīkṣṇaṃ jñānopayoga saṃvegau śaktitas tyāga tapasī saṅgha sādhu samādhi vaiyāvr̥ttyakaraṇam arhad ācarya bahuśruta pravacanabhaktir āvaśyakāparihāṇir mārgaprabhāvanā pravacanavatsalatvam iti tīrthakr̥ttvasya</s>
-					<s n="25" xml:id="adhyaya-6-p-6-s-273">parātmanindāpraśaṃse sadasadguṇācchādanodbhāvane ca nīcairgotrasya</s>
-					<s n="26" xml:id="adhyaya-6-p-6-s-274">tadviparyayo nīcairvr̥ttyanutsekau cottarasya</s>
-					<s n="27" xml:id="adhyaya-6-p-6-s-275">vighnakaraṇam antarāyasya</s>
-				</p>
-			</div>
-			<div n="7" xml:id="adhyaya-7" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-7-p-7">
-					<s n="1" xml:id="adhyaya-7-p-7-s-276">himṣānr̥tasteyābrahmaparigrahebhyo viratir vratam</s>
-					<s n="2" xml:id="adhyaya-7-p-7-s-277">deśasarvato'ṇumahatī</s>
-					<s n="3" xml:id="adhyaya-7-p-7-s-278">tatsthairyārthaṃ bhāvanāḥ pañca pañca</s>
-					<s n="4" xml:id="adhyaya-7-p-7-s-279">vāṅ-manoguptīryādānanikṣepaṇasamity ālokitapānabhojanāni pañca</s>
-					<s n="5" xml:id="adhyaya-7-p-7-s-280">krodhalobhabhīrutvahāsyapratyākhyānāny anuvīcībhāṣaṇaṃ ca pañca</s>
-					<s n="6" xml:id="adhyaya-7-p-7-s-281">śūnyāgāravimocitāvāsaparoparodhākaraṇabhaikṣaśuddhisadharmāvisaṃvādāḥ pañca</s>
-					<s n="7" xml:id="adhyaya-7-p-7-s-282">strīrāgakathāśravaṇatanmanoharāṅganirīkṣaṇapūrvaratānusmaraṇavr̥ṣyeṣṭarasasvaśarīrasaṃskāratyāgāḥ pañca</s>
-					<s n="8" xml:id="adhyaya-7-p-7-s-283">manojñāmanojñendriyaviṣayarāgadveṣavarjanāni pañca</s>
-					<s n="9" xml:id="adhyaya-7-p-7-s-284">hiṃsādiṣv ihāmutra cāpāyāvadyadarśanam</s>
-					<s n="10" xml:id="adhyaya-7-p-7-s-285">duḥkham eva vā</s>
-					<s n="11" xml:id="adhyaya-7-p-7-s-286">maitrī pramoda kāruṇya mādhyasthyāni ca sattva guṇādhika kliśyamānāvineyeṣu</s>
-					<s n="12" xml:id="adhyaya-7-p-7-s-287">jagat kāyasvabhāvau vā saṃvega vairāgyārtham</s>
-					<s n="13" xml:id="adhyaya-7-p-7-s-288">pramattayogāt prāṇavyaparopaṇaṃ hiṃsā</s>
-					<s n="14" xml:id="adhyaya-7-p-7-s-289">asadabhidhānam anr̥taṃ</s>
-					<s n="15" xml:id="adhyaya-7-p-7-s-290">adattādānaṃ steyam</s>
-					<s n="16" xml:id="adhyaya-7-p-7-s-291">maithunam abrahma</s>
-					<s n="17" xml:id="adhyaya-7-p-7-s-292">mūrchhā parigrahaḥ</s>
-					<s n="18" xml:id="adhyaya-7-p-7-s-293">niḥśalyo vratī</s>
-					<s n="19" xml:id="adhyaya-7-p-7-s-294">agāry anagāraś ca</s>
-					<s n="20" xml:id="adhyaya-7-p-7-s-295">aṇuvrato'gārī</s>
-					<s n="21" xml:id="adhyaya-7-p-7-s-296">dig-deśā-narthadaṇḍavirati-sāmāyika-pauṣadhopavāsopabhogaparibhogaparimāṇātithisaṃvibhāgavratasampannaś ca</s>
-					<s n="22" xml:id="adhyaya-7-p-7-s-297">māraṇantikīṃ saṃlekhanāṃ joṣitā</s>
-					<s n="23" xml:id="adhyaya-7-p-7-s-298">śaṅkākāṅkṣāvicikitsānyadr̥ṣṭipraśaṃsāsaṃstavāḥ samyagdr̥ṣṭer aticārāḥ</s>
-					<s n="24" xml:id="adhyaya-7-p-7-s-299">vrataśīleṣu pañca pañca yathākramam</s>
-					<s n="25" xml:id="adhyaya-7-p-7-s-300">bandhavadhacchavicchedātibhārāropaṇānnapānanirodhāḥ</s>
-					<s n="26" xml:id="adhyaya-7-p-7-s-301">mithyopadeśarahasyābhyākhyānakūṭalekhakriyānyāsāpahārasākāramantrabhedāḥ</s>
-					<s n="27" xml:id="adhyaya-7-p-7-s-302">stenaprayogatadāhr̥tādānaviruddharājyātikramahīnādhikamānonmānapratirūpakavyavahārāḥ</s>
-					<s n="28" xml:id="adhyaya-7-p-7-s-303">paravivāhakaraṇetvaraparigr̥hītāparigr̥hītāgamanānaṅgakrīḍātīvrakāmābhiniveśāḥ</s>
-					<s n="29" xml:id="adhyaya-7-p-7-s-304">kṣetravāstuhiraṇyasuvarṇadhanadhānyadāsīdāsakupyapramāṇātikramāḥ</s>
-					<s n="30" xml:id="adhyaya-7-p-7-s-305">ūrdhvādhastiryagvyatikrama kṣetravr̥ddhismr̥tyantardhānāni</s>
-					<s n="31" xml:id="adhyaya-7-p-7-s-306">ānayanapreṣyaprayogaśabdarūpānupātapudgalakṣepāḥ</s>
-					<s n="32" xml:id="adhyaya-7-p-7-s-307">kandarpakautkucyamaukharyāsamīkṣyādhikaraṇopabhogādhikatvāni</s>
-					<s n="33" xml:id="adhyaya-7-p-7-s-308">yogaduṣpraṇidhānānādarasmr̥tyanupasthāpanāni</s>
-					<s n="34" xml:id="adhyaya-7-p-7-s-309">apratyavekṣitāpramārjitotsargādānanikṣepasaṃstaropakramaṇānādarasmr̥tyanupasthāpanāni</s>
-					<s n="35" xml:id="adhyaya-7-p-7-s-310">sacittasambaddhasaṃmiśrābhiṣavaduṣpakvāhārāḥ</s>
-					<s n="36" xml:id="adhyaya-7-p-7-s-311">sacittanikṣepapidhānaparavyapadeśamātsaryakālātikramāḥ</s>
-					<s n="37" xml:id="adhyaya-7-p-7-s-312">jīvitamaraṇāśaṃsāmitrānurāgasukhānubandhanidānakaraṇāni</s>
-					<s n="38" xml:id="adhyaya-7-p-7-s-313">anugrahārthaṃ svasyātisargo dānam</s>
-					<s n="39" xml:id="adhyaya-7-p-7-s-314">vidhidravyadātr̥pātraviśeṣāt tadviśeṣaḥ</s>
-				</p>
-			</div>
-			<div n="8" xml:id="adhyaya-8" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-8-p-8">
-					<s n="1" xml:id="adhyaya-8-p-8-s-315">mithyādarśanāviratipramadākaṣāyayogā bandhahetavaḥ</s>
-					<s n="2" xml:id="adhyaya-8-p-8-s-316">sakaṣāyatvāj jīvaḥ karmaṇo yogyān pudgalān adatte</s>
-					<s n="3" xml:id="adhyaya-8-p-8-s-317">sa bandhaḥ</s>
-					<s n="4" xml:id="adhyaya-8-p-8-s-318">prakr̥tisthityanubhāvapradeśās tadvidhayaḥ</s>
-					<s n="5" xml:id="adhyaya-8-p-8-s-319">ādyo jñāna darśanāvāraṇavedanīyamohanīyāyuṣkanāmagotrāntarāyāḥ</s>
-					<s n="6" xml:id="adhyaya-8-p-8-s-320">pañcanavadvyaṣṭāviṃśaticaturdvicatvāriṃśaddvipañcabhedā yathākramam</s>
-					<s n="7" xml:id="adhyaya-8-p-8-s-321">matyādīnām</s>
-					<s n="8" xml:id="adhyaya-8-p-8-s-322">cakṣuracakṣuravadhikevalānāṃ nidrānidrānidrā pracalā pracalāpracalāstyānagr̥ddhivedanīyāni ca</s>
-					<s n="9" xml:id="adhyaya-8-p-8-s-323">sadasadvedye</s>
-					<s n="10" xml:id="adhyaya-8-p-8-s-324">darśanacāritramohanīyakaṣāyanokaṣāyavedanīyākhyās tridviṣoḍaśa navabhedāḥ samyaktva mithyātva tadubhayāni kaṣāyanokaṣāyāv anantānubandhy apratyākhyāna pratyākhyānāvaraṇasaṃjvalanavikalpāś caikaśaḥ krodha māna māyā lobhāhāsya raty aratiśokabhayajugupsā strīpuṃnapuṃsakavedā</s>
-					<s n="11" xml:id="adhyaya-8-p-8-s-325">nāraka tairyagyona mānuṣa daivāni</s>
-					<s n="12" xml:id="adhyaya-8-p-8-s-326">gati jāti śarīrāṅgopāṅga nirmāṇa bandhana saṅghāta saṃsthāna saṃhanana sparśa rasa gandha varṇānupūrvy agurulaghū paghāta parāghātā tapoddyotocchvāsa vihāyogatayaḥ pratyekaśarīra trasa subhaga susvara śubha sūkṣma paryāpta sthirā deya yaśāṃsi setarāṇi tīrthakr̥ttvaṃ ca</s>
-					<s n="13" xml:id="adhyaya-8-p-8-s-327">uccair nīcaiś ca</s>
-					<s n="14" xml:id="adhyaya-8-p-8-s-328">dānādīnām</s>
-					<s n="15" xml:id="adhyaya-8-p-8-s-329">āditas tisr̥ṇām antarāyasya ca triṃśatsāgaropamakoṭīkoṭyaḥ parā sthitiḥ</s>
-					<s n="16" xml:id="adhyaya-8-p-8-s-330">saptair mohanīyasya</s>
-					<s n="17" xml:id="adhyaya-8-p-8-s-331">nāma gotrayor viṃśatiḥ</s>
-					<s n="18" xml:id="adhyaya-8-p-8-s-332">trayastriṃśatsāgaropamānyāyuṣkasya</s>
-					<s n="19" xml:id="adhyaya-8-p-8-s-333">aparāgotrayor aṣṭau</s>
-					<s n="20" xml:id="adhyaya-8-p-8-s-334">nāmagotrayor aṣṭau</s>
-					<s n="21" xml:id="adhyaya-8-p-8-s-335">śeṣāṇām antarmuhūrtam</s>
-					<s n="22" xml:id="adhyaya-8-p-8-s-336">vipāko'nubhāvaḥ</s>
-					<s n="23" xml:id="adhyaya-8-p-8-s-337">sa yathānāma</s>
-					<s n="24" xml:id="adhyaya-8-p-8-s-338">tataś ca nirjarā</s>
-					<s n="25" xml:id="adhyaya-8-p-8-s-339">nāmapratyayāḥ sarvato yogaviśeṣāt sūkṣmaikakṣetrāvagāḍhasthitāḥ sarvātmapradeśeṣv anantānantapradeśāḥ</s>
-					<s n="26" xml:id="adhyaya-8-p-8-s-340">sadvedyasamykatvahāsya rati puruṣa veda śubhāyur nāma gotrāṇi puṇyam</s>
-					<s n="26a" xml:id="adhyaya-8-p-8-s-341">sadvedyaśubhāyurnāmagotrāṇi puṇyam</s>
-					<s n="27" xml:id="adhyaya-8-p-8-s-342">ato'nyat pāpam</s>
-				</p>
-			</div>
-			<div n="9" xml:id="adhyaya-9" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-9-p-9">
-					<s n="1" xml:id="adhyaya-9-p-9-s-343">āśravanirodhaḥ saṃvaraḥ</s>
-					<s n="2" xml:id="adhyaya-9-p-9-s-344">sa gupti samiti dharmā nuprekṣāparīṣahajayacāritraiḥ</s>
-					<s n="3" xml:id="adhyaya-9-p-9-s-345">tapasā nirjarā ca</s>
-					<s n="4" xml:id="adhyaya-9-p-9-s-346">samyag yoganigraho guptiḥ</s>
-					<s n="5" xml:id="adhyaya-9-p-9-s-347">īryābhāṣaiṣaṇādānanikṣepotsargāḥ samitayaḥ</s>
-					<s n="6" xml:id="adhyaya-9-p-9-s-348">uttama kṣamā mārdavārjava śauca satya saṃyama tapas tyāgākiñcanya brahmacaryāṇi dharmaḥ</s>
-					<s n="7" xml:id="adhyaya-9-p-9-s-349">anityāśaraṇasaṃsāraikatvānyatvāśucitvāsravasaṃvaranirjarālokabodhidurlabha dharmasvākhyātatvānucintanam anuprekṣāḥ</s>
-					<s n="8" xml:id="adhyaya-9-p-9-s-350">mārgācyavana nirjarārtha pariṣoḍhavyāḥ parīṣahāḥ</s>
-					<s n="9" xml:id="adhyaya-9-p-9-s-351">kṣut pipāsāśitoṣṇa daṃśamasaka nāgnyārati strī caryā niṣadyāśayyākrośa vadha yācanā lābha roga tr̥ṣṇasparśa mala satkārapuraskāra prajñājñānā darśanāni.</s>
-					<s n="10" xml:id="adhyaya-9-p-9-s-352">sūkṣmasamparāya cchadmasthavītarāgayoś caturdaśa</s>
-					<s n="11" xml:id="adhyaya-9-p-9-s-353">ekādaśa jine</s>
-					<s n="12" xml:id="adhyaya-9-p-9-s-354">bādarasamparāye sarve</s>
-					<s n="13" xml:id="adhyaya-9-p-9-s-355">jñānāvaraṇe prajñājñāne</s>
-					<s n="14" xml:id="adhyaya-9-p-9-s-356">darśanamohāntarāyayor adarśanālabhau</s>
-					<s n="15" xml:id="adhyaya-9-p-9-s-357">cāritramohe nāgnyārati strī niṣadyākrośa yācanā satkārapuraskārāḥ</s>
-					<s n="16" xml:id="adhyaya-9-p-9-s-358">vedanīye śeṣāḥ</s>
-					<s n="17" xml:id="adhyaya-9-p-9-s-359">ekādayo bhājyā yugapad ekonaviṃśateḥ</s>
-					<s n="18" xml:id="adhyaya-9-p-9-s-360">sāmāyikacchedopasthāpya parihāraviśuddhi sūkṣmasamparāya yathākhyātāni cāritram</s>
-					<s n="19" xml:id="adhyaya-9-p-9-s-361">anaśanāvamaudarya vr̥ttiparisaṃkhyāna rasaparityāga viviktaśayyāsana kāyakleśā bāhyaṃ tapaḥ</s>
-					<s n="20" xml:id="adhyaya-9-p-9-s-362">prāyaścitta vinaya vaiyāvr̥ttya svādhyāya vyutsarga dhyānāny uttaram</s>
-					<s n="21" xml:id="adhyaya-9-p-9-s-363">nava catur daśa pañca dvi bhedaṃ yathākramaṃ prāg dhyānāt</s>
-					<s n="22" xml:id="adhyaya-9-p-9-s-364">ālocana pratikramaṇa tadubhaya viveka vyutsarga tapaś cheda parihāropasthāpanāni</s>
-					<s n="23" xml:id="adhyaya-9-p-9-s-365">jñānadarśana cāritropacārāḥ</s>
-					<s n="24" xml:id="adhyaya-9-p-9-s-366">ācāryopādhyāyatapasviśaikṣakaglānagaṇa kula saṅgha sādhu samanojñānām</s>
-					<s n="25" xml:id="adhyaya-9-p-9-s-367">vācanāpracchanānuprekṣāmnāya dharmopadeśāḥ</s>
-					<s n="26" xml:id="adhyaya-9-p-9-s-368">bāhyābhyantaropadhyoḥ</s>
-					<s n="27" xml:id="adhyaya-9-p-9-s-369">uttamasaṃhananasyaikāgra cintānirodho dhyānam</s>
-					<s n="28" xml:id="adhyaya-9-p-9-s-370">ā muhūrtāt</s>
-					<s n="29" xml:id="adhyaya-9-p-9-s-371">ārtaraudradharmaśuklāni</s>
-					<s n="30" xml:id="adhyaya-9-p-9-s-372">pare mokṣahetū</s>
-					<s n="31" xml:id="adhyaya-9-p-9-s-373">ārtam amanojñānāṃ samprayoge tadviprayogāya smr̥tisamanvāhāraḥ</s>
-					<s n="32" xml:id="adhyaya-9-p-9-s-374">vedanāyāś ca</s>
-					<s n="33" xml:id="adhyaya-9-p-9-s-375">viparītaṃ manojñānām</s>
-					<s n="34" xml:id="adhyaya-9-p-9-s-376">nidānaṃ ca</s>
-					<s n="35" xml:id="adhyaya-9-p-9-s-377">tad avirata deśavirata pramattasaṃyatānām</s>
-					<s n="36" xml:id="adhyaya-9-p-9-s-378">hiṃsānr̥tasteyaviṣayasaṃrakṣaṇebhyo raudram avirata deśaviratayoḥ</s>
-					<s n="37" xml:id="adhyaya-9-p-9-s-379">ājñāpāya vipāka saṃsthānavicayāya dharmam apramattasaṃyatasya</s>
-					<s n="37a" xml:id="adhyaya-9-p-9-s-380">ājñāpāya vipāka saṃsthānavicayāya dharmyam</s>
-					<s n="38" xml:id="adhyaya-9-p-9-s-381">upaśānta kṣīṇakaṣāyayoś ca</s>
-					<s n="39" xml:id="adhyaya-9-p-9-s-382">śukle cādye</s>
-					<s n="40" xml:id="adhyaya-9-p-9-s-383">pūrvavidaḥ</s>
-					<s n="41" xml:id="adhyaya-9-p-9-s-384">pare kevalinaḥ</s>
-					<s n="42" xml:id="adhyaya-9-p-9-s-385">pr̥thaktvai katvavitarka sūkṣmakriyāpratipāti vyuparatakriyānivartīni</s>
-					<s n="43" xml:id="adhyaya-9-p-9-s-386">tat trye ka kāyayogāyogānām</s>
-					<s n="44" xml:id="adhyaya-9-p-9-s-387">ekāśraye savitarke pūrve</s>
-					<s n="45" xml:id="adhyaya-9-p-9-s-388">avīcāraṃ dvitīyam</s>
-					<s n="46" xml:id="adhyaya-9-p-9-s-389">vitarkaḥ śrutam</s>
-					<s n="47" xml:id="adhyaya-9-p-9-s-390">vicāro'rtha vyañjana yogasaṃkrāntiḥ</s>
-					<s n="48" xml:id="adhyaya-9-p-9-s-391">samyagḍr̥ṣṭi-śrāvaka-viratānanta-viyojaka-darśanamohakṣapakopaśamakopaśāntamoha-kṣapaka-kṣīṇamohajināḥ kramaśo saṅkhyeyaguṇanirjarāḥ</s>
-					<s n="49" xml:id="adhyaya-9-p-9-s-392">pulāka bakuśa kuśīla nirgrantha snātakā nirgranthāḥ</s>
-					<s n="50" xml:id="adhyaya-9-p-9-s-393">saṃyama śruta pratisevanā tīrtha liṅga leśyopapāta sthānavikalpataḥ sādhyāḥ</s>
-				</p>
-			</div>
-			<div n="10" xml:id="adhyaya-10" type="adhyaya" data-level="1">
-				<p xml:id="adhyaya-10-p-10">
-					<s n="1" xml:id="adhyaya-10-p-10-s-394">mohakṣayāj jñāna darśanāvaraṇāntarāyakṣayāc ca kevalam</s>
-					<s n="2" xml:id="adhyaya-10-p-10-s-395">bandhahetvabhāva nirjarābhyām</s>
-					<s n="3" xml:id="adhyaya-10-p-10-s-396">kr̥tsnakarmakṣayo mokṣaḥ</s>
-					<s n="4" xml:id="adhyaya-10-p-10-s-397">aupaśamikādi bhavyatvābhāvāc cānyatra kevalasamyaktva jñāna darśana siddhatvebhyaḥ</s>
-					<s n="5" xml:id="adhyaya-10-p-10-s-398">tadanantaram ūrdhvaṃ gacchaty ā lokāntāt</s>
-					<s n="6" xml:id="adhyaya-10-p-10-s-399">pūrvaprayogād asaṅgatvād bandhacchedāt tathāgatipariṇāmāc ca tadgatiḥ</s>
-					<s n="7" xml:id="adhyaya-10-p-10-s-400">āviddhakulālcakravad vyapagatalepālābuvad eraṇḍabījavad agniśikhāvac ca</s>
-					<s n="8" xml:id="adhyaya-10-p-10-s-401">dharmāstikāyābhāvād</s>
-					<s n="9" xml:id="adhyaya-10-p-10-s-402">kṣetrakālagatiliṅgatīrthacāritrapratyekabuddhabodhitajñānāvagāhanāntarasaṅkhyālpabahutvataḥ sādhyāḥ</s>
-				</p>
-			</div>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Umasvati, Tattvarthasutra</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2025-04-08">2025-04-08</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of Umasvati, Tattvarthasutra by Unknown (draft version). 2025-04-08. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">unreleased</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Missing metadata</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="san-Latn-x-classic-unacced-tld" ana="primary">Sanskrit</language>
+        <language ident="eng-Latn" ana="meta">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn-x-classic-unacced-tld">
+    <body>
+      <div n="1" xml:id="adhyaya-1" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-1-p-1">
+          <s n="1" xml:id="adhyaya-1-p-1-s-1">samyagdarśana jñāna cāritrāṇi mokṣamārgaḥ</s>
+          <s n="2" xml:id="adhyaya-1-p-1-s-2">tattvārthaśraddhānaṃ samyagdarśanam</s>
+          <s n="3" xml:id="adhyaya-1-p-1-s-3">tan nisargād adhigamād vā</s>
+          <s n="4" xml:id="adhyaya-1-p-1-s-4">jīvājīvāsrava bandha saṃvara nirjarā mokṣāstattvaṃ</s>
+          <s n="5" xml:id="adhyaya-1-p-1-s-5">nāma sthāpanā dravya bhāvatastannyāsaḥ</s>
+          <s n="6" xml:id="adhyaya-1-p-1-s-6">pramāṇanayair adhigamaḥ</s>
+          <s n="7" xml:id="adhyaya-1-p-1-s-7">nirdeśa svāmitva sādhana adhikaraṇa sthiti vidhānataḥ</s>
+          <s n="8" xml:id="adhyaya-1-p-1-s-8">sat saṃkhyā kṣetra sparśana kālāntara bhāvālpa bahuttvaiśca</s>
+          <s n="9" xml:id="adhyaya-1-p-1-s-9">matiśrutāvadhimanaḥ paryaya kevalāni jñānam</s>
+          <s n="10" xml:id="adhyaya-1-p-1-s-10">tat pramāṇe</s>
+          <s n="11" xml:id="adhyaya-1-p-1-s-11">adye parokṣam</s>
+          <s n="12" xml:id="adhyaya-1-p-1-s-12">pratyakṣamanyat</s>
+          <s n="13" xml:id="adhyaya-1-p-1-s-13">matiḥ smr̥ti saṃjñā cintābhinibodha ity ānarthāntaram</s>
+          <s n="14" xml:id="adhyaya-1-p-1-s-14">tad indriyānindriya nimittam</s>
+          <s n="15" xml:id="adhyaya-1-p-1-s-15">avagrahehāvāya dhāraṇāḥ</s>
+          <s n="16" xml:id="adhyaya-1-p-1-s-16">bahu bahuvidha kṣipra niśrita sandigdha dhruvāṇāṃ setarāṇām<note xml:id="adhyaya-1-p-1-s-16-note-1" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="16a" xml:id="adhyaya-1-p-1-s-17">bahu bahuvidha kṣiprā niḥsr̥tānukta dhruvāṇāṃ setarāṇām<note xml:id="adhyaya-1-p-1-s-17-note-2" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
+          </s>
+          <s n="17" xml:id="adhyaya-1-p-1-s-18">arthasya</s>
+          <s n="18" xml:id="adhyaya-1-p-1-s-19">vyañjanasyāvagrahaḥ</s>
+          <s n="19" xml:id="adhyaya-1-p-1-s-20">na cakṣuranindriyābhyām</s>
+          <s n="20" xml:id="adhyaya-1-p-1-s-21">śrutaṃ matipūrvaṃ dvyaneka dvādaśabhedam</s>
+          <s n="21" xml:id="adhyaya-1-p-1-s-22">dvividho'vadhiḥ<note xml:id="adhyaya-1-p-1-s-22-note-3" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="22" xml:id="adhyaya-1-p-1-s-23">bhavapratyayo nārakadevāṇāṃ</s>
+          <s n="23" xml:id="adhyaya-1-p-1-s-24">yathoktanimittaḥ ṣaḍvikalpaḥ śeṣāṇāṃ</s>
+          <s n="24" xml:id="adhyaya-1-p-1-s-25">r̥juvipulamatī manaḥ paryayaḥ</s>
+          <s n="25" xml:id="adhyaya-1-p-1-s-26">viśuddhy apratipātābhyāṃ tadviśeṣaḥ</s>
+          <s n="26" xml:id="adhyaya-1-p-1-s-27">viśuddhi-kṣetra-svāmi-viṣayebhyo'vadhimanaḥ paryayayoḥ</s>
+          <s n="27" xml:id="adhyaya-1-p-1-s-28">matiśrutayor nibandhaḥ sarvadravyeṣv asarvapāryāyeṣu</s>
+          <s n="28" xml:id="adhyaya-1-p-1-s-29">rūpiṣv-avadheḥ</s>
+          <s n="29" xml:id="adhyaya-1-p-1-s-30">tadanantabhāge manaḥ paryasya</s>
+          <s n="30" xml:id="adhyaya-1-p-1-s-31">sarvadravya-paryāyeṣu kevalasya</s>
+          <s n="31" xml:id="adhyaya-1-p-1-s-32">ekādīni bhājyāni yugapad ekasminn ācaturbhyaḥ</s>
+          <s n="32" xml:id="adhyaya-1-p-1-s-33">matiśrutāvadhayo viparyayaśca</s>
+          <s n="33" xml:id="adhyaya-1-p-1-s-34">sadasator aviśeṣād yadr̥cchopalabdher unmattavat</s>
+          <s n="34" xml:id="adhyaya-1-p-1-s-35">naigama saṃgraha vyavahāra rjusūtra śabda samabhirūḍa evaṃbhūtā nayāḥ<note xml:id="adhyaya-1-p-1-s-35-note-4" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="34a" xml:id="adhyaya-1-p-1-s-36">naigama saṃgraha vyavahāra rjusūtra śabda samabhirūḍa evaṃbhūtā nayāḥ<note xml:id="adhyaya-1-p-1-s-36-note-5" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
+          </s>
+          <s n="35" xml:id="adhyaya-1-p-1-s-37">ādya-śabdau dvi tri bhedau<note xml:id="adhyaya-1-p-1-s-37-note-6" xml:lang="eng-Latn">not in sarvārthasiddhi</note> .</s>
+        </p>
+      </div>
+      <div n="2" xml:id="adhyaya-2" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-2-p-2">
+          <s n="1" xml:id="adhyaya-2-p-2-s-38">aupaśamikakṣāyikau bhāvau miśraśca jīvasya svatattvam audayika pāriṇāmiko ca</s>
+          <s n="2" xml:id="adhyaya-2-p-2-s-39">dvi-navāṣṭādaśaikaviṃśātitribhedā yathākramam</s>
+          <s n="3" xml:id="adhyaya-2-p-2-s-40">samyaktva cāritre</s>
+          <s n="4" xml:id="adhyaya-2-p-2-s-41">jñānadarśana dānalābhabhogopabhogavīryāṇi ca</s>
+          <s n="5" xml:id="adhyaya-2-p-2-s-42">jñānājñāna darśana labdhyaścatustritri pañcabhedāḥ samyaktva cāritra saṃyamāsaṃyamāśca</s>
+          <s n="6" xml:id="adhyaya-2-p-2-s-43">gati kaṣāya liṅgaṃ mithyādarśaṇājñānāsaṃyatāsiddha leśyāścatuścatustryekaikaikaikaṣaḍbhedāḥ</s>
+          <s n="7" xml:id="adhyaya-2-p-2-s-44">jīvabhavyābhavyatvāni ca</s>
+          <s n="8" xml:id="adhyaya-2-p-2-s-45">upayogo lakṣaṇam</s>
+          <s n="9" xml:id="adhyaya-2-p-2-s-46">sa dvividho'ṣṭacaturbheda</s>
+          <s n="10" xml:id="adhyaya-2-p-2-s-47">saṃsāriṇo muktāśca</s>
+          <s n="11" xml:id="adhyaya-2-p-2-s-48">samanaskāmanaskāḥ</s>
+          <s n="12" xml:id="adhyaya-2-p-2-s-49">saṃsāriṇastrasasthāvarāḥ</s>
+          <s n="13" xml:id="adhyaya-2-p-2-s-50">pr̥thivyambuvanaspatayaḥ sthāvarāḥ<note xml:id="adhyaya-2-p-2-s-50-note-7" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="13a" xml:id="adhyaya-2-p-2-s-51">pr̥thivyaptejovāyuvanaspatayaḥ sthāvarāḥ</s>
+          <s n="14" xml:id="adhyaya-2-p-2-s-52">tejovāyūdvīndriyādayaś ca trasāḥ<note xml:id="adhyaya-2-p-2-s-52-note-8" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="14a" xml:id="adhyaya-2-p-2-s-53">dvīndriyādayastrasāḥ</s>
+          <s n="15" xml:id="adhyaya-2-p-2-s-54">paṃcedriyāṇi</s>
+          <s n="16" xml:id="adhyaya-2-p-2-s-55">dvididhāni</s>
+          <s n="17" xml:id="adhyaya-2-p-2-s-56">nirvr̥tyupakaraṇe dravyendriyam</s>
+          <s n="18" xml:id="adhyaya-2-p-2-s-57">labdhyupayogau bhāvendriyam</s>
+          <s n="19" xml:id="adhyaya-2-p-2-s-58">upayogaḥ sparśādiṣu 19<note xml:id="adhyaya-2-p-2-s-58-note-9" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="20" xml:id="adhyaya-2-p-2-s-59">sparśanarasana ghrāṇacakṣuḥ śrotrāṇi</s>
+          <s n="21" xml:id="adhyaya-2-p-2-s-60">sparśanarasagāndhavarṇaśabdāstadarthāḥ</s>
+          <s n="22" xml:id="adhyaya-2-p-2-s-61">śrutamanindriyasya</s>
+          <s n="23" xml:id="adhyaya-2-p-2-s-62">vāyvantānām ekam<note xml:id="adhyaya-2-p-2-s-62-note-10" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="23a" xml:id="adhyaya-2-p-2-s-63">vanaspatyantānāmekam</s>
+          <s n="24" xml:id="adhyaya-2-p-2-s-64">kr̥mipipīlikā bhramara manuṣyādīnāmekaika vr̥ddhāni</s>
+          <s n="25" xml:id="adhyaya-2-p-2-s-65">saṃjñinaḥ samanaskāḥ</s>
+          <s n="26" xml:id="adhyaya-2-p-2-s-66">vigrahagatau karmayogaḥ</s>
+          <s n="27" xml:id="adhyaya-2-p-2-s-67">anuśreṇi gatiḥ</s>
+          <s n="28" xml:id="adhyaya-2-p-2-s-68">avigrahā jīvasya</s>
+          <s n="29" xml:id="adhyaya-2-p-2-s-69">vigrahavatī ca saṃsāriṇaḥ prāk caturbhyaḥ</s>
+          <s n="30" xml:id="adhyaya-2-p-2-s-70">eka samayāvigrahā</s>
+          <s n="31" xml:id="adhyaya-2-p-2-s-71">ekaṃ dvau vā nāhārakaḥ 31<note xml:id="adhyaya-2-p-2-s-71-note-11" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="31a" xml:id="adhyaya-2-p-2-s-72">ekaṃ dvai trīnvānāhārakaḥ</s>
+          <s n="32" xml:id="adhyaya-2-p-2-s-73">sammūrcchanagarbhaupapātā janma</s>
+          <s n="33" xml:id="adhyaya-2-p-2-s-74">sacittaśītasaṃvr̥tāḥsetarā miśrāś caikaśas tad yonayaḥ</s>
+          <s n="34" xml:id="adhyaya-2-p-2-s-75">jarāyujāṇḍajapotānāṃ garbhaḥ</s>
+          <s n="35" xml:id="adhyaya-2-p-2-s-76">devanārakāṇāmupapādaḥ</s>
+          <s n="36" xml:id="adhyaya-2-p-2-s-77">śeṣāṇāṃ saṃmabarcchanam</s>
+          <s n="37" xml:id="adhyaya-2-p-2-s-78">audārikavaikriyikāhārakadaijasakārmaṇāni śarīrāṇi</s>
+          <s n="38" xml:id="adhyaya-2-p-2-s-79">paraṃ paraṃ sūkṣman</s>
+          <s n="39" xml:id="adhyaya-2-p-2-s-80">pradeśato'saṃkhyeyaguṇaṃprāk taijasāt</s>
+          <s n="40" xml:id="adhyaya-2-p-2-s-81">anantaguṇe pare</s>
+          <s n="41" xml:id="adhyaya-2-p-2-s-82">apratīghāte</s>
+          <s n="42" xml:id="adhyaya-2-p-2-s-83">anādisaṃbandhe ca</s>
+          <s n="43" xml:id="adhyaya-2-p-2-s-84">sarvasya</s>
+          <s n="44" xml:id="adhyaya-2-p-2-s-85">tadādīni bhājyāni yugapad ekasminnā caturbhyaḥ</s>
+          <s n="45" xml:id="adhyaya-2-p-2-s-86">nirūpabhogamantyam</s>
+          <s n="46" xml:id="adhyaya-2-p-2-s-87">garbhasamabarcchanajamādyam</s>
+          <s n="47" xml:id="adhyaya-2-p-2-s-88">aupapādikaṃ vaigriyikam</s>
+          <s n="48" xml:id="adhyaya-2-p-2-s-89">labdhipratyayaṃ</s>
+          <s n="49" xml:id="adhyaya-2-p-2-s-90">
+            <note xml:id="adhyaya-2-p-2-s-90-note-12" xml:lang="eng-Latn">only in sarvārthasiddhi</note> taijasamapi</s>
+          <s n="50" xml:id="adhyaya-2-p-2-s-91">śubhaṃ viśuddham avyāghāti cāhārakaṃ caturdaśa pūrvadhara eva<note xml:id="adhyaya-2-p-2-s-91-note-13" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="50." xml:id="adhyaya-2-p-2-s-92">1 śubhaṃ viśuddhamavyāghāti cāhārakaṃ pramattasaṃyatasyaiva<note xml:id="adhyaya-2-p-2-s-92-note-14" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
+          </s>
+          <s n="51" xml:id="adhyaya-2-p-2-s-93">nāraka-saṃmūrcchano napuṃsakāni</s>
+          <s n="52" xml:id="adhyaya-2-p-2-s-94">na devāḥ</s>
+          <s n="53" xml:id="adhyaya-2-p-2-s-95">śeṣastrivedāḥ<note xml:id="adhyaya-2-p-2-s-95-note-15" xml:lang="eng-Latn">only in sarvārthasiddhi</note>
+          </s>
+          <s n="54" xml:id="adhyaya-2-p-2-s-96">aupapātika caramadeha uttamapuruṣā'saṅkhyeyavarṣāyurṣo'napavartyāyuṣaḥ<note xml:id="adhyaya-2-p-2-s-96-note-16" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="54a" xml:id="adhyaya-2-p-2-s-97">aupapādika caramottamadehā'saṃkhyeya varṣāyuṣonavartyayuṣaḥ</s>
+        </p>
+      </div>
+      <div n="3" xml:id="adhyaya-3" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-3-p-3">
+          <s n="1" xml:id="adhyaya-3-p-3-s-98">ratnaśarkarābālukāpaṃka dhūmatamomahātamaḥ prabhā bhūmayo ghanāmbuvātākāśa pratiṣṭhāḥ saptādho'dhaḥ</s>
+          <s n="2" xml:id="adhyaya-3-p-3-s-99">tāsu narakāḥ</s>
+          <s n="3" xml:id="adhyaya-3-p-3-s-100">nityāśubhataraleśyāpariṇāma dehavedanāvikriyāḥ</s>
+          <s n="4" xml:id="adhyaya-3-p-3-s-101">parasparodīritaduḥkhāḥ</s>
+          <s n="5" xml:id="adhyaya-3-p-3-s-102">saṃkliṣṭāsurodīritaduḥkhāśca prāk caturthyāḥ</s>
+          <s n="6" xml:id="adhyaya-3-p-3-s-103">teśvekatri sapta daśasaptadaśatdvā viṃśati trayastriṃśat sāgaropamāsattvānāṃ parā sthitaḥ</s>
+          <s n="7" xml:id="adhyaya-3-p-3-s-104">jambudvīpa lavaṇodādayaḥ śubhanāmāno dvīpasamudrā</s>
+          <s n="8" xml:id="adhyaya-3-p-3-s-105">dvirdvirviṣkambhāḥ pūrvapūrvaparikṣepiṇo valayākr̥tayaḥ</s>
+          <s n="9" xml:id="adhyaya-3-p-3-s-106">tanmadhye merunābhirvr̥tto yojanaśatasahasraviṣakambho jambūdvīpaḥ</s>
+          <s n="10" xml:id="adhyaya-3-p-3-s-107">bharatahemavataharivideha ramyaka hairaṇyavatairāvatavarṣāḥ kṣetrāṇi</s>
+          <s n="11" xml:id="adhyaya-3-p-3-s-108">tadvibhājinaḥ pūrvāparāyatā himavanmahāhimavanniṣadhanīlarūkmi śikhariṇo varṣadharaparvatāḥ</s>
+          <s n="12" xml:id="adhyaya-3-p-3-s-109">hemārjunatapanīya vaiḍūrya rajata hemamayāḥ<note xml:id="adhyaya-3-p-3-s-109-note-17" xml:lang="eng-Latn">only in sarvārthasiddhi from 12 to 39</note>
+          </s>
+          <s n="13" xml:id="adhyaya-3-p-3-s-110">maṇivicitraparśvā upari mūle ca tulyavistārāḥ</s>
+          <s n="14" xml:id="adhyaya-3-p-3-s-111">padmamahāpadmatigiñchakesari mahāpuṇḍarīkapuṇjarīkā hr̥dās teṣāmupari</s>
+          <s n="15" xml:id="adhyaya-3-p-3-s-112">prathamo yojanasahasrāyāmas tad ardha viṣakambho hr̥daḥ</s>
+          <s n="16" xml:id="adhyaya-3-p-3-s-113">deśayojanāvagāhaḥ</s>
+          <s n="17" xml:id="adhyaya-3-p-3-s-114">tanmadhye yojanaṃ puṣkaram</s>
+          <s n="18" xml:id="adhyaya-3-p-3-s-115">taddviguṇadviguṇāhradaḥ puṣkarāṇi ca</s>
+          <s n="19" xml:id="adhyaya-3-p-3-s-116">tannivāsinyo devyaḥ śrī hrīdhr̥tikīrtibuddhilakṣmyaḥ palyopamasthitayaḥ sasāmānika pariṣatkāḥ</s>
+          <s n="20" xml:id="adhyaya-3-p-3-s-117">gaṇgāsindhu rohidrohitāsyāhariddharikāntai sītāsītodānārīnarakāntā suvarṇa rūpyakūlā raktāraktodāḥ saritastanmadhyagāḥ</s>
+          <s n="21" xml:id="adhyaya-3-p-3-s-118">dvayordvayoḥ pūrvāḥ pūrvagāḥ</s>
+          <s n="22" xml:id="adhyaya-3-p-3-s-119">śeṣāstvaparagāḥ</s>
+          <s n="23" xml:id="adhyaya-3-p-3-s-120">caturdaśanadīsahasraparivr̥tā gaṃgāsindhvādayo nadyaḥ</s>
+          <s n="24" xml:id="adhyaya-3-p-3-s-121">bharataḥ ṣaḍviṃśatipaṃcayojanaśatavistāraḥ ṣaṭcaikonaviṃśatibhāgāyojanasya</s>
+          <s n="25" xml:id="adhyaya-3-p-3-s-122">taddviguṇadviguṇavistārā varṣadharavarṣā videhāntāḥ</s>
+          <s n="26" xml:id="adhyaya-3-p-3-s-123">uttara dakṣiṇatulyāḥ</s>
+          <s n="27" xml:id="adhyaya-3-p-3-s-124">bharatairāvatayorvr̥ddhihrāsau ṣaṭsamayābhyāmutsarpiṇyavasarpiṇībhyāṃ</s>
+          <s n="28" xml:id="adhyaya-3-p-3-s-125">tābhyāmāpārā bhumayoḍavasthitaḥ</s>
+          <s n="29" xml:id="adhyaya-3-p-3-s-126">eka-dvi-tripalyopāmasthitaya haimavataka-harivārśaka daivākurāvākāha</s>
+          <s n="30" xml:id="adhyaya-3-p-3-s-127">tathottaraḥ</s>
+          <s n="31" xml:id="adhyaya-3-p-3-s-128">videheṣu saṃkhyeyakālāḥ</s>
+          <s n="32" xml:id="adhyaya-3-p-3-s-129">bharatasya viṣkambho jambūdvīpasya navatiśatabhāgaḥ</s>
+          <s n="33" xml:id="adhyaya-3-p-3-s-130">dvirdhātakīkhaṇḍe</s>
+          <s n="34" xml:id="adhyaya-3-p-3-s-131">puṣkārardhe ca</s>
+          <s n="35" xml:id="adhyaya-3-p-3-s-132">prāṅmānuṣottarānmanuṣyāḥ</s>
+          <s n="36" xml:id="adhyaya-3-p-3-s-133">āryā mlecchāśca</s>
+          <s n="37" xml:id="adhyaya-3-p-3-s-134">bharatairāvatavidehāḥ karmabhūmayo'nyatra devakurūttarakurubhyaḥ</s>
+          <s n="38" xml:id="adhyaya-3-p-3-s-135">nr̥sthitīparāvare tripalyopamāntarmuhūrta</s>
+          <s n="39" xml:id="adhyaya-3-p-3-s-136">tiryagyojivānāṃ ca</s>
+        </p>
+      </div>
+      <div n="4" xml:id="adhyaya-4" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-4-p-4">
+          <s n="1" xml:id="adhyaya-4-p-4-s-137">devāścaturṇikāyāḥ</s>
+          <s n="2" xml:id="adhyaya-4-p-4-s-138">tr̥tīyaḥ pītaleśyaḥ<note xml:id="adhyaya-4-p-4-s-138-note-18" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="2a" xml:id="adhyaya-4-p-4-s-139">āditas triṣu pītānalleśyāḥ<note xml:id="adhyaya-4-p-4-s-139-note-19" xml:lang="eng-Latn">variant sarvārthasiddhi</note>
+          </s>
+          <s n="3" xml:id="adhyaya-4-p-4-s-140">daśāṣṭapañcaddvādaśavikalpāḥ kalpopapannaparyantāḥ</s>
+          <s n="4" xml:id="adhyaya-4-p-4-s-141">indrasāmānika trāyastriśapāriṣadātmaraśca lokapālīnāka prakīrṇa kābhiyogya kilbiṣi kaścaikaśāḥ</s>
+          <s n="5" xml:id="adhyaya-4-p-4-s-142">trāyastriṃśalokapālavarjyā vyantarajyotiṣkāḥ</s>
+          <s n="6" xml:id="adhyaya-4-p-4-s-143">pūrvayordvīndrā</s>
+          <s n="7" xml:id="adhyaya-4-p-4-s-144">pītāntaleśyāḥ 7<note xml:id="adhyaya-4-p-4-s-144-note-20" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="8" xml:id="adhyaya-4-p-4-s-145">kāyapravīcārāḥ ā aiśānāt</s>
+          <s n="9" xml:id="adhyaya-4-p-4-s-146">śeṣāḥ sparśa-rūpa-śabda-manaḥ pravīcārā dvayor dvayoḥ</s>
+          <s n="10" xml:id="adhyaya-4-p-4-s-147">pare'pravacīrāḥ</s>
+          <s n="11" xml:id="adhyaya-4-p-4-s-148">bhavanavāsino'suranāgavidyutsuparṇāgnivātastanitoda dhidvīpadikkumārāḥ</s>
+          <s n="12" xml:id="adhyaya-4-p-4-s-149">vyantarāḥ kinnarakiṃpuruṣa mahoraga gandharvayakṣarakṣasabhūtapiśācāḥ</s>
+          <s n="13" xml:id="adhyaya-4-p-4-s-150">jyotiṣkāḥ sūryācandramasau grahanakṣatraprakīrṇakatārakāśca</s>
+          <s n="14" xml:id="adhyaya-4-p-4-s-151">merupradakṣiṇā nityagatayo nr̥loke</s>
+          <s n="15" xml:id="adhyaya-4-p-4-s-152">tatkr̥taḥ kālvibhāgaḥ</s>
+          <s n="16" xml:id="adhyaya-4-p-4-s-153">bahiravasthitāḥ</s>
+          <s n="17" xml:id="adhyaya-4-p-4-s-154">vaimānikāḥ</s>
+          <s n="18" xml:id="adhyaya-4-p-4-s-155">kalpopapannāḥ kalpātātāśca</s>
+          <s n="19" xml:id="adhyaya-4-p-4-s-156">uparyupari</s>
+          <s n="20" xml:id="adhyaya-4-p-4-s-157">saudharmaiśānasānatkumāra māhendra brahmabrahmottara lāntavakāpiṣṭha śukramahāśukraśatārasahasrāreṣv ānataprāṇayor āraṇācyutayor navasugraiveyakeṣu vijaya vaijayanta yayantāparājiteṣu sarvārthasiddhau ca</s>
+          <s n="21" xml:id="adhyaya-4-p-4-s-158">sthiti prabhāvasukhadyutaleśyāviśuddhīndriyā vadhiviṣayato'dhikāḥ</s>
+          <s n="22" xml:id="adhyaya-4-p-4-s-159">gatiśarīraparigrahābhimānato hīnāḥ</s>
+          <s n="23" xml:id="adhyaya-4-p-4-s-160">pītapadmaśuklaleśyā dvitriśeṣeṣu</s>
+          <s n="24" xml:id="adhyaya-4-p-4-s-161">prāggraiveyakebhyaḥ kalpāḥ</s>
+          <s n="25" xml:id="adhyaya-4-p-4-s-162">brahmalokālayā laukāntikāḥ</s>
+          <s n="26" xml:id="adhyaya-4-p-4-s-163">sārasvatāditya vahnyarūṇagardatoyaṣituṣitāvyabādhāriṣṭāśca</s>
+          <s n="27" xml:id="adhyaya-4-p-4-s-164">vijayādiṣu dvicaramāḥ</s>
+          <s n="28" xml:id="adhyaya-4-p-4-s-165">aupapātika-manuṣyebhyaḥ śeṣās tiryag-yonayaḥ</s>
+          <s n="29" xml:id="adhyaya-4-p-4-s-166">sthitiḥ<note xml:id="adhyaya-4-p-4-s-166-note-21" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="30" xml:id="adhyaya-4-p-4-s-167">bhavaneṣu dakṣiṇārdhādhipatīnāṃ palyopamam adhyardham<note xml:id="adhyaya-4-p-4-s-167-note-22" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="31" xml:id="adhyaya-4-p-4-s-168">śeṣāṇāṃ pādone<note xml:id="adhyaya-4-p-4-s-168-note-23" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="32" xml:id="adhyaya-4-p-4-s-169">asurendrayoh sāgaropamam adhikaṃ ca<note xml:id="adhyaya-4-p-4-s-169-note-24" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="32a" xml:id="adhyaya-4-p-4-s-170">sthitir asura nāga suparṇa dvīpa śeṣāṇāṃ sāgaropama tripalyopamārdhahīnamitā<note xml:id="adhyaya-4-p-4-s-170-note-25" xml:lang="eng-Latn">variant for 4.29-4.32</note>
+          </s>
+          <s n="33" xml:id="adhyaya-4-p-4-s-171">saudharmādiṣu yathākramam<note xml:id="adhyaya-4-p-4-s-171-note-26" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="34" xml:id="adhyaya-4-p-4-s-172">sāgaropame<note xml:id="adhyaya-4-p-4-s-172-note-27" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="35" xml:id="adhyaya-4-p-4-s-173">adhike ca<note xml:id="adhyaya-4-p-4-s-173-note-28" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="36" xml:id="adhyaya-4-p-4-s-174">saudharmai-śānayoḥ sāgaropame adhike 37<note xml:id="adhyaya-4-p-4-s-174-note-29" xml:lang="eng-Latn">variant for 4.33-4-35</note>
+          </s>
+          <s n="37" xml:id="adhyaya-4-p-4-s-175">sapta sānatkumāre<note xml:id="adhyaya-4-p-4-s-175-note-30" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="38" xml:id="adhyaya-4-p-4-s-176">viśeṣa tri sapta daśai kādaśa trayodaśa pañcadaśabhir adhikāni ca<note xml:id="adhyaya-4-p-4-s-176-note-31" xml:lang="eng-Latn">idem</note>
+          </s>
+          <s n="38a" xml:id="adhyaya-4-p-4-s-177">sānatkumāra māhendrayoḥ sapta</s>
+          <s n="38a" xml:id="adhyaya-4-p-4-s-178">tri sapta navai kādaśa trayodaśa pañcadaśabhir adhikāni</s>
+          <s n="39" xml:id="adhyaya-4-p-4-s-179">āraṇācyutād ūrdhvam ekaikena navasu graiveyakeṣu vijayādiṣu sarvārthasiddhe ca</s>
+          <s n="40" xml:id="adhyaya-4-p-4-s-180">aparā palyopamaṃ adhikam ca<note xml:id="adhyaya-4-p-4-s-180-note-32" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="41" xml:id="adhyaya-4-p-4-s-181">sagaropame<note xml:id="adhyaya-4-p-4-s-181-note-33" xml:lang="eng-Latn">idem </note>
+          </s>
+          <s n="42" xml:id="adhyaya-4-p-4-s-182">adhike ca</s>
+          <s n="43" xml:id="adhyaya-4-p-4-s-183">parataḥ parataḥ pūrvā pūrvānantarā</s>
+          <s n="43a" xml:id="adhyaya-4-p-4-s-184">aparā palyopamam adhikam</s>
+          <s n="44" xml:id="adhyaya-4-p-4-s-185">nārakāṇāṃ ca dvitīyādiṣu</s>
+          <s n="45" xml:id="adhyaya-4-p-4-s-186">daśavarṣasahasrāṇi prathamāyām</s>
+          <s n="46" xml:id="adhyaya-4-p-4-s-187">bhavaneṣu ca</s>
+          <s n="47" xml:id="adhyaya-4-p-4-s-188">vyantarāṇāṃ ca</s>
+          <s n="48" xml:id="adhyaya-4-p-4-s-189">parā palyopamam</s>
+          <s n="49" xml:id="adhyaya-4-p-4-s-190">jyotiṣkāṇām adhikam</s>
+          <s n="49a" xml:id="adhyaya-4-p-4-s-191">parāpalyopamam adhikam</s>
+          <s n="49a" xml:id="adhyaya-4-p-4-s-192">jyotiṣkāṇāṃ ca</s>
+          <s n="50" xml:id="adhyaya-4-p-4-s-193">grahāṇām ekam</s>
+          <s n="51" xml:id="adhyaya-4-p-4-s-194">nakṣatrāṇām ardham</s>
+          <s n="52" xml:id="adhyaya-4-p-4-s-195">tārakāṇāṃ caturbhāgaḥ</s>
+          <s n="53" xml:id="adhyaya-4-p-4-s-196">jaghanyā tv aṣṭabhāgaḥ</s>
+          <s n="54" xml:id="adhyaya-4-p-4-s-197">caturbhāgaḥ śeṣāṇām</s>
+          <s n="54a" xml:id="adhyaya-4-p-4-s-198">tadaṣṭabhāgo'parā</s>
+          <s n="55" xml:id="adhyaya-4-p-4-s-199">laukāntikānām aṣṭau sāgaropamāṇi sarveṣām</s>
+        </p>
+      </div>
+      <div n="5" xml:id="adhyaya-5" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-5-p-5">
+          <s n="1" xml:id="adhyaya-5-p-5-s-200">ajīvakāyā dharmādharmākāśapudgalāḥ</s>
+          <s n="2" xml:id="adhyaya-5-p-5-s-201">dravyāṇi jīvaś ca<note xml:id="adhyaya-5-p-5-s-201-note-34" xml:lang="eng-Latn">sarvārthasiddhi 2 and 3</note>
+          </s>
+          <s n="3" xml:id="adhyaya-5-p-5-s-202">nityāvai sthitāny arūpāṇi ca</s>
+          <s n="4" xml:id="adhyaya-5-p-5-s-203">rūpiṇaḥ pudgalāḥ</s>
+          <s n="5" xml:id="adhyaya-5-p-5-s-204">ā ākāśād ekadravyāṇi</s>
+          <s n="6" xml:id="adhyaya-5-p-5-s-205">niṣkriyāṇi ca</s>
+          <s n="7" xml:id="adhyaya-5-p-5-s-206">asaṅkhyeyāḥ pradeśā dharmādharmayoḥ</s>
+          <s n="8" xml:id="adhyaya-5-p-5-s-207">jīvasya</s>
+          <s n="9" xml:id="adhyaya-5-p-5-s-208">ākāśasyānantāḥ</s>
+          <s n="10" xml:id="adhyaya-5-p-5-s-209">saṅkhyeyāsaṅkhyeyāś ca pudgalānām</s>
+          <s n="11" xml:id="adhyaya-5-p-5-s-210">nānoḥ</s>
+          <s n="12" xml:id="adhyaya-5-p-5-s-211">lokākāśe'vagāhaḥ</s>
+          <s n="13" xml:id="adhyaya-5-p-5-s-212">dharmādharmayoḥ kr̥tsne</s>
+          <s n="14" xml:id="adhyaya-5-p-5-s-213">ekapradeśādiṣu bhājyaḥ pudgalānām</s>
+          <s n="15" xml:id="adhyaya-5-p-5-s-214">asaṅkhyeyabhāgādiṣu jīvānām</s>
+          <s n="16" xml:id="adhyaya-5-p-5-s-215">pradeśasaṃhāravisargābhyāṃ pradīpavat</s>
+          <s n="17" xml:id="adhyaya-5-p-5-s-216">gatisthityupagraho dharmādharmayor upakāraḥ</s>
+          <s n="18" xml:id="adhyaya-5-p-5-s-217">ākāśasyāvagāhaḥ</s>
+          <s n="19" xml:id="adhyaya-5-p-5-s-218">śarīravāṅmanaḥprāṇāpānāḥ pudgalānām</s>
+          <s n="20" xml:id="adhyaya-5-p-5-s-219">sukhaduḥkhajīvitamaraṇopagrahaś ca</s>
+          <s n="21" xml:id="adhyaya-5-p-5-s-220">parasparopagraho jīvānām</s>
+          <s n="22" xml:id="adhyaya-5-p-5-s-221">vartanā pariṇāmaḥ kriyā paratvāparatve ca kālasya</s>
+          <s n="23" xml:id="adhyaya-5-p-5-s-222">sparśarasagandhavarṇavantaḥ pudgalāḥ</s>
+          <s n="24" xml:id="adhyaya-5-p-5-s-223">śabdabandhasaukṣmyasthaulyasaṃsthānabhedatamaschāyātapoddyotavantaś ca</s>
+          <s n="25" xml:id="adhyaya-5-p-5-s-224">aṇavaḥ skandhāś ca</s>
+          <s n="26" xml:id="adhyaya-5-p-5-s-225">saṃghātabhedebhya utpadyante</s>
+          <s n="27" xml:id="adhyaya-5-p-5-s-226">bhedād aṇuḥ</s>
+          <s n="28" xml:id="adhyaya-5-p-5-s-227">bheda saṃghātābhyāṃ cākṣuṣāḥ</s>
+          <s n="29" xml:id="adhyaya-5-p-5-s-228">sad dravyalakṣaṇam</s>
+          <s n="30" xml:id="adhyaya-5-p-5-s-229">utpādavyayadhrauvyayuktaṃ sat</s>
+          <s n="31" xml:id="adhyaya-5-p-5-s-230">tadbhāvāvyayaṃ nityam</s>
+          <s n="32" xml:id="adhyaya-5-p-5-s-231">arpitānarpitasiddheḥ</s>
+          <s n="33" xml:id="adhyaya-5-p-5-s-232">snigdharūkṣatvād bandhaḥ</s>
+          <s n="34" xml:id="adhyaya-5-p-5-s-233">na jaghanyaguṇānām</s>
+          <s n="35" xml:id="adhyaya-5-p-5-s-234">guṇasāmye sadr̥śānām</s>
+          <s n="36" xml:id="adhyaya-5-p-5-s-235">dvyadhikādiguṇānāṃ tu</s>
+          <s n="37" xml:id="adhyaya-5-p-5-s-236">bandhe samādhikau pāriṇāmikau<note xml:id="adhyaya-5-p-5-s-236-note-35" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
+          </s>
+          <s n="37a" xml:id="adhyaya-5-p-5-s-237">bandhe'dhikau pāriṇāmikau ca</s>
+          <s n="38" xml:id="adhyaya-5-p-5-s-238">guṇaparyāyavad dravyam</s>
+          <s n="39" xml:id="adhyaya-5-p-5-s-239">kālaś cetyeke</s>
+          <s n="39a" xml:id="adhyaya-5-p-5-s-240">kalaś ca</s>
+          <s n="40" xml:id="adhyaya-5-p-5-s-241">so'nantasamayaḥ</s>
+          <s n="41" xml:id="adhyaya-5-p-5-s-242">dravyāśrayā nirguṇā guṇāḥ</s>
+          <s n="42" xml:id="adhyaya-5-p-5-s-243">tadbhāvaḥ pariṇāmaḥ</s>
+          <s n="43" xml:id="adhyaya-5-p-5-s-244">anādir ādimāṃś ca</s>
+          <s n="44" xml:id="adhyaya-5-p-5-s-245">rūpiṣv ādimān</s>
+          <s n="45" xml:id="adhyaya-5-p-5-s-246">yogopayogau jīveṣu</s>
+        </p>
+      </div>
+      <div n="6" xml:id="adhyaya-6" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-6-p-6">
+          <s n="1" xml:id="adhyaya-6-p-6-s-247">kāyavāṇmanaḥkarma yogaḥ</s>
+          <s n="2" xml:id="adhyaya-6-p-6-s-248">sa āśravaḥ</s>
+          <s n="3" xml:id="adhyaya-6-p-6-s-249">śubhaḥ puṇyasya</s>
+          <s n="4" xml:id="adhyaya-6-p-6-s-250">aśubhaḥ pāpasya</s>
+          <s n="5" xml:id="adhyaya-6-p-6-s-251">sakaṣāyākaṣāyayoḥsāmparāyike ryāpathayoḥ</s>
+          <s n="6" xml:id="adhyaya-6-p-6-s-252">avrata kaṣāyendriya kriyāḥ pañca catuḥ pañca pañcaviṃśati saṃkhyāḥ pūrvasya bhedāḥ</s>
+          <s n="7" xml:id="adhyaya-6-p-6-s-253">tīvra manda jñātājñātabhāvavīryādhikaraṇaviśeṣebhyas tadviśeṣaḥ</s>
+          <s n="8" xml:id="adhyaya-6-p-6-s-254">adhikaraṇaṃ jīvājīvāḥ</s>
+          <s n="9" xml:id="adhyaya-6-p-6-s-255">ādyaṃ saṃrambha samārambhārambha yoga kr̥ta kāritānumata kaṣāyaviśeṣais tris triścatuścaikaśaḥ</s>
+          <s n="10" xml:id="adhyaya-6-p-6-s-256">nirvartanānikṣepa saṃyoga nisargā dvi catur dvi tribedhāḥ param</s>
+          <s n="11" xml:id="adhyaya-6-p-6-s-257">tatpradoṣa-nihnava-mātsaryāntarāyāsādanopaghātājñānadarśanāvaraṇayoḥ</s>
+          <s n="12" xml:id="adhyaya-6-p-6-s-258">duḥkhaśokatāpākrandanavadhaparidevanānyātmaparobhayasthānāny asadvedyasya</s>
+          <s n="13" xml:id="adhyaya-6-p-6-s-259">bhūtavratyanukampādānaṃ sarāgasaṃyamādi yogaḥ kṣāntiḥ śaucam iti sadvedasyasya</s>
+          <s n="14" xml:id="adhyaya-6-p-6-s-260">kevaliśrutasaṅghadharmadevāvarṇavādo darśanamohasya</s>
+          <s n="15" xml:id="adhyaya-6-p-6-s-261">kaṣāyodayāt tīvrātmapariṇāmaś cāritramohasya</s>
+          <s n="16" xml:id="adhyaya-6-p-6-s-262">bahvārambhaparigrahatvaṃ ca nārakasyāyuṣaḥ</s>
+          <s n="17" xml:id="adhyaya-6-p-6-s-263">māyā tairyagyonasya</s>
+          <s n="18" xml:id="adhyaya-6-p-6-s-264">alpārambha parigrahatvaṃ svabhāvamārdavārjavaṃ ca mānuṣasya</s>
+          <s n="18a" xml:id="adhyaya-6-p-6-s-265">alpārambha parigrahatvaṃ mānuṣasya</s>
+          <s n="18.2" xml:id="adhyaya-6-p-6-s-266">svabhāvamārdavārjavaṃ ca</s>
+          <s n="19" xml:id="adhyaya-6-p-6-s-267">niḥśīla vratatvaṃ ca sarveṣām</s>
+          <s n="20" xml:id="adhyaya-6-p-6-s-268">sarāgasaṃyama-saṃyamāsaṃyamākāmanirjarā bālatapāṃsi daivasya</s>
+          <s n="21" xml:id="adhyaya-6-p-6-s-269">samyaktavaṃ ca</s>
+          <s n="22" xml:id="adhyaya-6-p-6-s-270">yogavakratā visaṃvādanaṃ cāśubhasya nāmnaḥ</s>
+          <s n="23" xml:id="adhyaya-6-p-6-s-271">viparītaṃ śubhasya</s>
+          <s n="24" xml:id="adhyaya-6-p-6-s-272">darśanaviśuddhir vinayasampannatā śīlavrateṣu anaticāro'bhīkṣṇaṃ jñānopayoga saṃvegau śaktitas tyāga tapasī saṅgha sādhu samādhi vaiyāvr̥ttyakaraṇam arhad ācarya bahuśruta pravacanabhaktir āvaśyakāparihāṇir mārgaprabhāvanā pravacanavatsalatvam iti tīrthakr̥ttvasya</s>
+          <s n="25" xml:id="adhyaya-6-p-6-s-273">parātmanindāpraśaṃse sadasadguṇācchādanodbhāvane ca nīcairgotrasya</s>
+          <s n="26" xml:id="adhyaya-6-p-6-s-274">tadviparyayo nīcairvr̥ttyanutsekau cottarasya</s>
+          <s n="27" xml:id="adhyaya-6-p-6-s-275">vighnakaraṇam antarāyasya</s>
+        </p>
+      </div>
+      <div n="7" xml:id="adhyaya-7" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-7-p-7">
+          <s n="1" xml:id="adhyaya-7-p-7-s-276">himṣānr̥tasteyābrahmaparigrahebhyo viratir vratam</s>
+          <s n="2" xml:id="adhyaya-7-p-7-s-277">deśasarvato'ṇumahatī</s>
+          <s n="3" xml:id="adhyaya-7-p-7-s-278">tatsthairyārthaṃ bhāvanāḥ pañca pañca</s>
+          <s n="4" xml:id="adhyaya-7-p-7-s-279">vāṅ-manoguptīryādānanikṣepaṇasamity ālokitapānabhojanāni pañca</s>
+          <s n="5" xml:id="adhyaya-7-p-7-s-280">krodhalobhabhīrutvahāsyapratyākhyānāny anuvīcībhāṣaṇaṃ ca pañca</s>
+          <s n="6" xml:id="adhyaya-7-p-7-s-281">śūnyāgāravimocitāvāsaparoparodhākaraṇabhaikṣaśuddhisadharmāvisaṃvādāḥ pañca</s>
+          <s n="7" xml:id="adhyaya-7-p-7-s-282">strīrāgakathāśravaṇatanmanoharāṅganirīkṣaṇapūrvaratānusmaraṇavr̥ṣyeṣṭarasasvaśarīrasaṃskāratyāgāḥ pañca</s>
+          <s n="8" xml:id="adhyaya-7-p-7-s-283">manojñāmanojñendriyaviṣayarāgadveṣavarjanāni pañca</s>
+          <s n="9" xml:id="adhyaya-7-p-7-s-284">hiṃsādiṣv ihāmutra cāpāyāvadyadarśanam</s>
+          <s n="10" xml:id="adhyaya-7-p-7-s-285">duḥkham eva vā</s>
+          <s n="11" xml:id="adhyaya-7-p-7-s-286">maitrī pramoda kāruṇya mādhyasthyāni ca sattva guṇādhika kliśyamānāvineyeṣu</s>
+          <s n="12" xml:id="adhyaya-7-p-7-s-287">jagat kāyasvabhāvau vā saṃvega vairāgyārtham</s>
+          <s n="13" xml:id="adhyaya-7-p-7-s-288">pramattayogāt prāṇavyaparopaṇaṃ hiṃsā</s>
+          <s n="14" xml:id="adhyaya-7-p-7-s-289">asadabhidhānam anr̥taṃ</s>
+          <s n="15" xml:id="adhyaya-7-p-7-s-290">adattādānaṃ steyam</s>
+          <s n="16" xml:id="adhyaya-7-p-7-s-291">maithunam abrahma</s>
+          <s n="17" xml:id="adhyaya-7-p-7-s-292">mūrchhā parigrahaḥ</s>
+          <s n="18" xml:id="adhyaya-7-p-7-s-293">niḥśalyo vratī</s>
+          <s n="19" xml:id="adhyaya-7-p-7-s-294">agāry anagāraś ca</s>
+          <s n="20" xml:id="adhyaya-7-p-7-s-295">aṇuvrato'gārī</s>
+          <s n="21" xml:id="adhyaya-7-p-7-s-296">dig-deśā-narthadaṇḍavirati-sāmāyika-pauṣadhopavāsopabhogaparibhogaparimāṇātithisaṃvibhāgavratasampannaś ca</s>
+          <s n="22" xml:id="adhyaya-7-p-7-s-297">māraṇantikīṃ saṃlekhanāṃ joṣitā</s>
+          <s n="23" xml:id="adhyaya-7-p-7-s-298">śaṅkākāṅkṣāvicikitsānyadr̥ṣṭipraśaṃsāsaṃstavāḥ samyagdr̥ṣṭer aticārāḥ</s>
+          <s n="24" xml:id="adhyaya-7-p-7-s-299">vrataśīleṣu pañca pañca yathākramam</s>
+          <s n="25" xml:id="adhyaya-7-p-7-s-300">bandhavadhacchavicchedātibhārāropaṇānnapānanirodhāḥ</s>
+          <s n="26" xml:id="adhyaya-7-p-7-s-301">mithyopadeśarahasyābhyākhyānakūṭalekhakriyānyāsāpahārasākāramantrabhedāḥ</s>
+          <s n="27" xml:id="adhyaya-7-p-7-s-302">stenaprayogatadāhr̥tādānaviruddharājyātikramahīnādhikamānonmānapratirūpakavyavahārāḥ</s>
+          <s n="28" xml:id="adhyaya-7-p-7-s-303">paravivāhakaraṇetvaraparigr̥hītāparigr̥hītāgamanānaṅgakrīḍātīvrakāmābhiniveśāḥ</s>
+          <s n="29" xml:id="adhyaya-7-p-7-s-304">kṣetravāstuhiraṇyasuvarṇadhanadhānyadāsīdāsakupyapramāṇātikramāḥ</s>
+          <s n="30" xml:id="adhyaya-7-p-7-s-305">ūrdhvādhastiryagvyatikrama kṣetravr̥ddhismr̥tyantardhānāni</s>
+          <s n="31" xml:id="adhyaya-7-p-7-s-306">ānayanapreṣyaprayogaśabdarūpānupātapudgalakṣepāḥ</s>
+          <s n="32" xml:id="adhyaya-7-p-7-s-307">kandarpakautkucyamaukharyāsamīkṣyādhikaraṇopabhogādhikatvāni</s>
+          <s n="33" xml:id="adhyaya-7-p-7-s-308">yogaduṣpraṇidhānānādarasmr̥tyanupasthāpanāni</s>
+          <s n="34" xml:id="adhyaya-7-p-7-s-309">apratyavekṣitāpramārjitotsargādānanikṣepasaṃstaropakramaṇānādarasmr̥tyanupasthāpanāni</s>
+          <s n="35" xml:id="adhyaya-7-p-7-s-310">sacittasambaddhasaṃmiśrābhiṣavaduṣpakvāhārāḥ</s>
+          <s n="36" xml:id="adhyaya-7-p-7-s-311">sacittanikṣepapidhānaparavyapadeśamātsaryakālātikramāḥ</s>
+          <s n="37" xml:id="adhyaya-7-p-7-s-312">jīvitamaraṇāśaṃsāmitrānurāgasukhānubandhanidānakaraṇāni</s>
+          <s n="38" xml:id="adhyaya-7-p-7-s-313">anugrahārthaṃ svasyātisargo dānam</s>
+          <s n="39" xml:id="adhyaya-7-p-7-s-314">vidhidravyadātr̥pātraviśeṣāt tadviśeṣaḥ</s>
+        </p>
+      </div>
+      <div n="8" xml:id="adhyaya-8" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-8-p-8">
+          <s n="1" xml:id="adhyaya-8-p-8-s-315">mithyādarśanāviratipramadākaṣāyayogā bandhahetavaḥ</s>
+          <s n="2" xml:id="adhyaya-8-p-8-s-316">sakaṣāyatvāj jīvaḥ karmaṇo yogyān pudgalān adatte</s>
+          <s n="3" xml:id="adhyaya-8-p-8-s-317">sa bandhaḥ</s>
+          <s n="4" xml:id="adhyaya-8-p-8-s-318">prakr̥tisthityanubhāvapradeśās tadvidhayaḥ</s>
+          <s n="5" xml:id="adhyaya-8-p-8-s-319">ādyo jñāna darśanāvāraṇavedanīyamohanīyāyuṣkanāmagotrāntarāyāḥ</s>
+          <s n="6" xml:id="adhyaya-8-p-8-s-320">pañcanavadvyaṣṭāviṃśaticaturdvicatvāriṃśaddvipañcabhedā yathākramam</s>
+          <s n="7" xml:id="adhyaya-8-p-8-s-321">matyādīnām</s>
+          <s n="8" xml:id="adhyaya-8-p-8-s-322">cakṣuracakṣuravadhikevalānāṃ nidrānidrānidrā pracalā pracalāpracalāstyānagr̥ddhivedanīyāni ca</s>
+          <s n="9" xml:id="adhyaya-8-p-8-s-323">sadasadvedye</s>
+          <s n="10" xml:id="adhyaya-8-p-8-s-324">darśanacāritramohanīyakaṣāyanokaṣāyavedanīyākhyās tridviṣoḍaśa navabhedāḥ samyaktva mithyātva tadubhayāni kaṣāyanokaṣāyāv anantānubandhy apratyākhyāna pratyākhyānāvaraṇasaṃjvalanavikalpāś caikaśaḥ krodha māna māyā lobhāhāsya raty aratiśokabhayajugupsā strīpuṃnapuṃsakavedā</s>
+          <s n="11" xml:id="adhyaya-8-p-8-s-325">nāraka tairyagyona mānuṣa daivāni</s>
+          <s n="12" xml:id="adhyaya-8-p-8-s-326">gati jāti śarīrāṅgopāṅga nirmāṇa bandhana saṅghāta saṃsthāna saṃhanana sparśa rasa gandha varṇānupūrvy agurulaghū paghāta parāghātā tapoddyotocchvāsa vihāyogatayaḥ pratyekaśarīra trasa subhaga susvara śubha sūkṣma paryāpta sthirā deya yaśāṃsi setarāṇi tīrthakr̥ttvaṃ ca</s>
+          <s n="13" xml:id="adhyaya-8-p-8-s-327">uccair nīcaiś ca</s>
+          <s n="14" xml:id="adhyaya-8-p-8-s-328">dānādīnām</s>
+          <s n="15" xml:id="adhyaya-8-p-8-s-329">āditas tisr̥ṇām antarāyasya ca triṃśatsāgaropamakoṭīkoṭyaḥ parā sthitiḥ</s>
+          <s n="16" xml:id="adhyaya-8-p-8-s-330">saptair mohanīyasya</s>
+          <s n="17" xml:id="adhyaya-8-p-8-s-331">nāma gotrayor viṃśatiḥ</s>
+          <s n="18" xml:id="adhyaya-8-p-8-s-332">trayastriṃśatsāgaropamānyāyuṣkasya</s>
+          <s n="19" xml:id="adhyaya-8-p-8-s-333">aparāgotrayor aṣṭau</s>
+          <s n="20" xml:id="adhyaya-8-p-8-s-334">nāmagotrayor aṣṭau</s>
+          <s n="21" xml:id="adhyaya-8-p-8-s-335">śeṣāṇām antarmuhūrtam</s>
+          <s n="22" xml:id="adhyaya-8-p-8-s-336">vipāko'nubhāvaḥ</s>
+          <s n="23" xml:id="adhyaya-8-p-8-s-337">sa yathānāma</s>
+          <s n="24" xml:id="adhyaya-8-p-8-s-338">tataś ca nirjarā</s>
+          <s n="25" xml:id="adhyaya-8-p-8-s-339">nāmapratyayāḥ sarvato yogaviśeṣāt sūkṣmaikakṣetrāvagāḍhasthitāḥ sarvātmapradeśeṣv anantānantapradeśāḥ</s>
+          <s n="26" xml:id="adhyaya-8-p-8-s-340">sadvedyasamykatvahāsya rati puruṣa veda śubhāyur nāma gotrāṇi puṇyam</s>
+          <s n="26a" xml:id="adhyaya-8-p-8-s-341">sadvedyaśubhāyurnāmagotrāṇi puṇyam</s>
+          <s n="27" xml:id="adhyaya-8-p-8-s-342">ato'nyat pāpam</s>
+        </p>
+      </div>
+      <div n="9" xml:id="adhyaya-9" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-9-p-9">
+          <s n="1" xml:id="adhyaya-9-p-9-s-343">āśravanirodhaḥ saṃvaraḥ</s>
+          <s n="2" xml:id="adhyaya-9-p-9-s-344">sa gupti samiti dharmā nuprekṣāparīṣahajayacāritraiḥ</s>
+          <s n="3" xml:id="adhyaya-9-p-9-s-345">tapasā nirjarā ca</s>
+          <s n="4" xml:id="adhyaya-9-p-9-s-346">samyag yoganigraho guptiḥ</s>
+          <s n="5" xml:id="adhyaya-9-p-9-s-347">īryābhāṣaiṣaṇādānanikṣepotsargāḥ samitayaḥ</s>
+          <s n="6" xml:id="adhyaya-9-p-9-s-348">uttama kṣamā mārdavārjava śauca satya saṃyama tapas tyāgākiñcanya brahmacaryāṇi dharmaḥ</s>
+          <s n="7" xml:id="adhyaya-9-p-9-s-349">anityāśaraṇasaṃsāraikatvānyatvāśucitvāsravasaṃvaranirjarālokabodhidurlabha dharmasvākhyātatvānucintanam anuprekṣāḥ</s>
+          <s n="8" xml:id="adhyaya-9-p-9-s-350">mārgācyavana nirjarārtha pariṣoḍhavyāḥ parīṣahāḥ</s>
+          <s n="9" xml:id="adhyaya-9-p-9-s-351">kṣut pipāsāśitoṣṇa daṃśamasaka nāgnyārati strī caryā niṣadyāśayyākrośa vadha yācanā lābha roga tr̥ṣṇasparśa mala satkārapuraskāra prajñājñānā darśanāni.</s>
+          <s n="10" xml:id="adhyaya-9-p-9-s-352">sūkṣmasamparāya cchadmasthavītarāgayoś caturdaśa</s>
+          <s n="11" xml:id="adhyaya-9-p-9-s-353">ekādaśa jine</s>
+          <s n="12" xml:id="adhyaya-9-p-9-s-354">bādarasamparāye sarve</s>
+          <s n="13" xml:id="adhyaya-9-p-9-s-355">jñānāvaraṇe prajñājñāne</s>
+          <s n="14" xml:id="adhyaya-9-p-9-s-356">darśanamohāntarāyayor adarśanālabhau</s>
+          <s n="15" xml:id="adhyaya-9-p-9-s-357">cāritramohe nāgnyārati strī niṣadyākrośa yācanā satkārapuraskārāḥ</s>
+          <s n="16" xml:id="adhyaya-9-p-9-s-358">vedanīye śeṣāḥ</s>
+          <s n="17" xml:id="adhyaya-9-p-9-s-359">ekādayo bhājyā yugapad ekonaviṃśateḥ</s>
+          <s n="18" xml:id="adhyaya-9-p-9-s-360">sāmāyikacchedopasthāpya parihāraviśuddhi sūkṣmasamparāya yathākhyātāni cāritram</s>
+          <s n="19" xml:id="adhyaya-9-p-9-s-361">anaśanāvamaudarya vr̥ttiparisaṃkhyāna rasaparityāga viviktaśayyāsana kāyakleśā bāhyaṃ tapaḥ</s>
+          <s n="20" xml:id="adhyaya-9-p-9-s-362">prāyaścitta vinaya vaiyāvr̥ttya svādhyāya vyutsarga dhyānāny uttaram</s>
+          <s n="21" xml:id="adhyaya-9-p-9-s-363">nava catur daśa pañca dvi bhedaṃ yathākramaṃ prāg dhyānāt</s>
+          <s n="22" xml:id="adhyaya-9-p-9-s-364">ālocana pratikramaṇa tadubhaya viveka vyutsarga tapaś cheda parihāropasthāpanāni</s>
+          <s n="23" xml:id="adhyaya-9-p-9-s-365">jñānadarśana cāritropacārāḥ</s>
+          <s n="24" xml:id="adhyaya-9-p-9-s-366">ācāryopādhyāyatapasviśaikṣakaglānagaṇa kula saṅgha sādhu samanojñānām</s>
+          <s n="25" xml:id="adhyaya-9-p-9-s-367">vācanāpracchanānuprekṣāmnāya dharmopadeśāḥ</s>
+          <s n="26" xml:id="adhyaya-9-p-9-s-368">bāhyābhyantaropadhyoḥ</s>
+          <s n="27" xml:id="adhyaya-9-p-9-s-369">uttamasaṃhananasyaikāgra cintānirodho dhyānam</s>
+          <s n="28" xml:id="adhyaya-9-p-9-s-370">ā muhūrtāt</s>
+          <s n="29" xml:id="adhyaya-9-p-9-s-371">ārtaraudradharmaśuklāni</s>
+          <s n="30" xml:id="adhyaya-9-p-9-s-372">pare mokṣahetū</s>
+          <s n="31" xml:id="adhyaya-9-p-9-s-373">ārtam amanojñānāṃ samprayoge tadviprayogāya smr̥tisamanvāhāraḥ</s>
+          <s n="32" xml:id="adhyaya-9-p-9-s-374">vedanāyāś ca</s>
+          <s n="33" xml:id="adhyaya-9-p-9-s-375">viparītaṃ manojñānām</s>
+          <s n="34" xml:id="adhyaya-9-p-9-s-376">nidānaṃ ca</s>
+          <s n="35" xml:id="adhyaya-9-p-9-s-377">tad avirata deśavirata pramattasaṃyatānām</s>
+          <s n="36" xml:id="adhyaya-9-p-9-s-378">hiṃsānr̥tasteyaviṣayasaṃrakṣaṇebhyo raudram avirata deśaviratayoḥ</s>
+          <s n="37" xml:id="adhyaya-9-p-9-s-379">ājñāpāya vipāka saṃsthānavicayāya dharmam apramattasaṃyatasya</s>
+          <s n="37a" xml:id="adhyaya-9-p-9-s-380">ājñāpāya vipāka saṃsthānavicayāya dharmyam</s>
+          <s n="38" xml:id="adhyaya-9-p-9-s-381">upaśānta kṣīṇakaṣāyayoś ca</s>
+          <s n="39" xml:id="adhyaya-9-p-9-s-382">śukle cādye</s>
+          <s n="40" xml:id="adhyaya-9-p-9-s-383">pūrvavidaḥ</s>
+          <s n="41" xml:id="adhyaya-9-p-9-s-384">pare kevalinaḥ</s>
+          <s n="42" xml:id="adhyaya-9-p-9-s-385">pr̥thaktvai katvavitarka sūkṣmakriyāpratipāti vyuparatakriyānivartīni</s>
+          <s n="43" xml:id="adhyaya-9-p-9-s-386">tat trye ka kāyayogāyogānām</s>
+          <s n="44" xml:id="adhyaya-9-p-9-s-387">ekāśraye savitarke pūrve</s>
+          <s n="45" xml:id="adhyaya-9-p-9-s-388">avīcāraṃ dvitīyam</s>
+          <s n="46" xml:id="adhyaya-9-p-9-s-389">vitarkaḥ śrutam</s>
+          <s n="47" xml:id="adhyaya-9-p-9-s-390">vicāro'rtha vyañjana yogasaṃkrāntiḥ</s>
+          <s n="48" xml:id="adhyaya-9-p-9-s-391">samyagḍr̥ṣṭi-śrāvaka-viratānanta-viyojaka-darśanamohakṣapakopaśamakopaśāntamoha-kṣapaka-kṣīṇamohajināḥ kramaśo saṅkhyeyaguṇanirjarāḥ</s>
+          <s n="49" xml:id="adhyaya-9-p-9-s-392">pulāka bakuśa kuśīla nirgrantha snātakā nirgranthāḥ</s>
+          <s n="50" xml:id="adhyaya-9-p-9-s-393">saṃyama śruta pratisevanā tīrtha liṅga leśyopapāta sthānavikalpataḥ sādhyāḥ</s>
+        </p>
+      </div>
+      <div n="10" xml:id="adhyaya-10" type="adhyaya" data-level="1">
+        <p xml:id="adhyaya-10-p-10">
+          <s n="1" xml:id="adhyaya-10-p-10-s-394">mohakṣayāj jñāna darśanāvaraṇāntarāyakṣayāc ca kevalam</s>
+          <s n="2" xml:id="adhyaya-10-p-10-s-395">bandhahetvabhāva nirjarābhyām</s>
+          <s n="3" xml:id="adhyaya-10-p-10-s-396">kr̥tsnakarmakṣayo mokṣaḥ</s>
+          <s n="4" xml:id="adhyaya-10-p-10-s-397">aupaśamikādi bhavyatvābhāvāc cānyatra kevalasamyaktva jñāna darśana siddhatvebhyaḥ</s>
+          <s n="5" xml:id="adhyaya-10-p-10-s-398">tadanantaram ūrdhvaṃ gacchaty ā lokāntāt</s>
+          <s n="6" xml:id="adhyaya-10-p-10-s-399">pūrvaprayogād asaṅgatvād bandhacchedāt tathāgatipariṇāmāc ca tadgatiḥ</s>
+          <s n="7" xml:id="adhyaya-10-p-10-s-400">āviddhakulālcakravad vyapagatalepālābuvad eraṇḍabījavad agniśikhāvac ca</s>
+          <s n="8" xml:id="adhyaya-10-p-10-s-401">dharmāstikāyābhāvād</s>
+          <s n="9" xml:id="adhyaya-10-p-10-s-402">kṣetrakālagatiliṅgatīrthacāritrapratyekabuddhabodhitajñānāvagāhanāntarasaṅkhyālpabahutvataḥ sādhyāḥ</s>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

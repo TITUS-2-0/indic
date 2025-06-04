@@ -1,9 +1,8 @@
 text:
 - body:
-  - pariśiṣṭa[n=0]:
-    - section[n=0]:
-      - ab[n=0,type=verse]: śrīgaṇeśāya namaḥ || oṃ namo 'tʰarvātmane vāmadevāya śivāya
-          || śrīsarasvatyai namaḥ ||
+  - preface:
+    - ab[type=verse]: śrīgaṇeśāya namaḥ || oṃ namo 'tʰarvātmane vāmadevāya śivāya
+        || śrīsarasvatyai namaḥ ||
   - pariśiṣṭa[n=1]:
     - head:
       - foreign[lg=san-Latn-x-vedic-prose-accented-tld]: nakṣatrakalpaḥ
@@ -228,62 +227,62 @@ text:
           ekādaśadvādaśe
       - ab[n=2,type=verse]:
         - etāny evāsmai
-        - foreign[lg=deu-Latn]: = 1,12.2.
+        - foreign[lg=und-Latn-x-general]: = 1,12.2.
       - ab[n=3,type=verse]:
         - atʰa yam
-        - foreign[lg=deu-Latn]: = 1,12.3.
+        - foreign[lg=und-Latn-x-general]: = 1,12.3.
       - ab[n=4,type=verse]:
         - prāñcam idʰmam
-        - foreign[lg=deu-Latn]: = 1,12.4.
+        - foreign[lg=und-Latn-x-general]: = 1,12.4.
       - ab[n=5,type=verse]:
         - evam
-        - foreign[lg=deu-Latn]: = 1,12.5.
+        - foreign[lg=und-Latn-x-general]: = 1,12.5.
     - section[n=14]:
       - ab[n=1,type=verse]: uttarāṣāḍʰābʰijic cʰravaṇaḥ śraviṣṭʰā śatabʰiṣak proṣṭʰapadau
           revaty aśvayujau bʰaraṇyas tad daśamam ... paurṇamāsyamāvāsye dvādaśatrayodaśe
       - ab[n=2,type=verse]:
         - etāny evāsmai
-        - foreign[lg=deu-Latn]: = 1,12.2.
+        - foreign[lg=und-Latn-x-general]: = 1,12.2.
       - ab[n=3,type=verse]:
         - atʰa yam
-        - foreign[lg=deu-Latn]: = 1,12.3.
+        - foreign[lg=und-Latn-x-general]: = 1,12.3.
       - ab[n=4,type=verse]:
         - prāñcam idʰmam
-        - foreign[lg=deu-Latn]: = 1,12.4.
+        - foreign[lg=und-Latn-x-general]: = 1,12.4.
       - ab[n=5,type=verse]:
         - evam
-        - foreign[lg=deu-Latn]: = 1,12.5.
+        - foreign[lg=und-Latn-x-general]: = 1,12.5.
     - section[n=15]:
       - ab[n=1,type=verse]: r̥gvedo yajurvedaḥ sāmavedo brahmavedaḥ śikṣā kalpo vyākaraṇaṃ
           niruktaṃ cʰando jyotiṣam itihāsapurāṇaṃ vākovākya{m} idāvatsaraḥ parivatsaraḥ
           saṃvatsaro daśamaṃ śītoṣṇe ekādaśadvādaśe
       - ab[n=2,type=verse]:
         - etāny evāsmai
-        - foreign[lg=deu-Latn]: = 1,12.2.
+        - foreign[lg=und-Latn-x-general]: = 1,12.2.
       - ab[n=3,type=verse]:
         - atʰa yam
-        - foreign[lg=deu-Latn]: = 1,12.3.
+        - foreign[lg=und-Latn-x-general]: = 1,12.3.
       - ab[n=4,type=verse]:
         - prāñcam idʰmam
-        - foreign[lg=deu-Latn]: = 1,12.4.
+        - foreign[lg=und-Latn-x-general]: = 1,12.4.
       - ab[n=5,type=verse]:
         - evam
-        - foreign[lg=deu-Latn]: = 1,12.5.
+        - foreign[lg=und-Latn-x-general]: = 1,12.5.
     - section[n=16]:
       - ab[n=1,type=verse]: prāṇo apāno vyānaḥ samāna udānaś cakṣuḥ śrotraṃ vāṅ manas
           tan navamam ... daśamaṃ nāmarūpe ekādaśadvādaśe
       - ab[n=2,type=verse]:
         - etāny evāsmai
-        - foreign[lg=deu-Latn]: = 1,12.2.
+        - foreign[lg=und-Latn-x-general]: = 1,12.2.
       - ab[n=3,type=verse]:
         - atʰa yam
-        - foreign[lg=deu-Latn]: = 1,12.3.
+        - foreign[lg=und-Latn-x-general]: = 1,12.3.
       - ab[n=4,type=verse]:
         - prāñcam idʰmam
-        - foreign[lg=deu-Latn]: = 1,12.4.
+        - foreign[lg=und-Latn-x-general]: = 1,12.4.
       - ab[n=5,type=verse]:
         - evam
-        - foreign[lg=deu-Latn]: = 1,12.5.
+        - foreign[lg=und-Latn-x-general]: = 1,12.5.
     - section[n=17]:
       - ab[n=1,type=verse]: ajany ajanir yaśo ajanir varco ajanis tejo ajaniḥ saho
           ajanir maho ajanir brahmā ajanir brāhmaṇavarcasam ajaniḥ sarveṣāṃ lokānāṃ
@@ -294,7 +293,7 @@ text:
           iti tasmād etasmin nakṣatra evaṃvidvān kuryāt ||
       - ab[n=3,type=verse]:
         - prāñcam idʰmam
-        - foreign[lg=deu-Latn]: = 1,12.4.
+        - foreign[lg=und-Latn-x-general]: = 1,12.4.
       - ab[n=4,type=verse]: evaṃ ced asmai karoti sarveṣāṃ lokānāṃ sarveṣāṃ devānāṃ
           sarveṣāṃ vedānāṃ sarveṣāṃ bʰūtānāṃ sarvāsāṃ sravantīnāṃ janitādʰipatir ajanir
           bʰavati ||
