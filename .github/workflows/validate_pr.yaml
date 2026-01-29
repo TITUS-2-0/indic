@@ -62,7 +62,8 @@ jobs:
         run: |
           echo "🔎 Checking version and changelog consistency..."
 
-          for version_file in $(git diff --name-only origin/staging..HEAD | grep 'VERSION.yaml$'); do
+          # Use --diff-filter=AM to only check Added and Modified files, ignoring Deleted ones.
+          for version_file in $(git diff --name-only --diff-filter=AM origin/staging..HEAD | grep 'VERSION.yaml$'); do
             version=$(grep '^version:' "$version_file" | awk '{print $2}')
             if [[ "$version" != "unreleased" && ! "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
               echo "❌ Invalid version format in $version_file: $version"

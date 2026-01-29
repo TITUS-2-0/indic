@@ -1,4 +1,4 @@
-name: Validate data on main
+name: TEI validation
 
 on:
   push:
