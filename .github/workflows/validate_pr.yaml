@@ -3,7 +3,7 @@ name: Validate pull requests
 on:
   pull_request:
     branches:
-      - staging
+      - main
 
 jobs:
   test:
@@ -39,8 +39,8 @@ jobs:
           RESOLVER=tools/xmlresolver.jar
           JING=tools/jing.jar
 
-          git fetch origin staging
-          CHANGED=$(git diff --name-only origin/staging..HEAD | grep 'output.xml$' || true)
+          git fetch origin main
+          CHANGED=$(git diff --name-only origin/main..HEAD | grep 'output.xml$' || true)
 
           if [ -z "$CHANGED" ]; then
             echo "✅ No changed output.xml files to validate."
@@ -63,7 +63,7 @@ jobs:
           echo "🔎 Checking version and changelog consistency..."
 
           # Use --diff-filter=AM to only check Added and Modified files, ignoring Deleted ones.
-          for version_file in $(git diff --name-only --diff-filter=AM origin/staging..HEAD | grep 'VERSION.yaml$'); do
+          for version_file in $(git diff --name-only --diff-filter=AM origin/main..HEAD | grep 'VERSION.yaml$'); do
             version=$(grep '^version:' "$version_file" | awk '{print $2}')
             if [[ "$version" != "unreleased" && ! "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
               echo "❌ Invalid version format in $version_file: $version"
