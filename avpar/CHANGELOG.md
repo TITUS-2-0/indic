@@ -11,9 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2025-04-23
 
 ### Changed
-- initial creation (2025-01-08)
-- drafts (2025-01-08)
-- german titles (2025-02-17)
-- xml:lang (2025-03-05)
-- replaced daṇḍa placeholders with pipes (2025-03-24)
 - language update (2025-04-04)
+- replaced daṇḍa placeholders with pipes (2025-03-24)
+- xml:lang (2025-03-05)
+- german titles (2025-02-17)
+- initial creation (2025-01-08)
