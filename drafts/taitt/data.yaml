@@ -22,8 +22,8 @@ text:
           - s[n=n]: tadvaktāramavatu /
           - s[n=o]: avatu mām /
           - s[n=p]: avatu vaktāram /
-          - s[n=q]: āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//
-          - s[n=r]: iti pratʰamo 'nuvākaḥ //
+          - s@colophon[n=q]: āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//
+          - s@colophon[n=r]: iti pratʰamo 'nuvākaḥ //
     - paragraph[n=2]:
       - verse[n=1]:
         - p:
@@ -32,7 +32,7 @@ text:
           - s[n=c]: mātrā balam /
           - s[n=d]: sāma santānaḥ /
           - s[n=e]: ityuktaḥ śīkṣādʰyāyaḥ // 1//
-          - s[n=f]: iti dvitīyo 'nuvākaḥ //
+          - s@colophon[n=f]: iti dvitīyo 'nuvākaḥ //
     - paragraph[n=3]:
       - verse[n=1]:
         - p:
@@ -82,7 +82,7 @@ text:
           - s[n=h]: ya evametā mahāsam̐hitā vyākʰyātā veda /
           - s[n=i]: sandʰīyate prajayā paśubʰiḥ /
           - s[n=j]: brahmavarcasenānnādyena suvargyeṇa lokena // 4//
-          - s[n=k]: iti tr̥tīyo 'nuvākaḥ //
+          - s@colophon[n=k]: iti tr̥tīyo 'nuvākaḥ //
     - paragraph[n=4]:
       - verse[n=1]:
         - p:
@@ -119,7 +119,7 @@ text:
           - s[n=g]: evaṃ māṃ brahmacāriṇaḥ /
           - s[n=h]: dʰātarāyantu sarvataḥ svāhā /
           - s[n=i]: prativeśo 'si pra mā bʰāhi pra mā padyasva // 3//
-          - s[n=j]: iti caturtʰo 'nuvākaḥ //
+          - s@colophon[n=j]: iti caturtʰo 'nuvākaḥ //
     - paragraph[n=5]:
       - verse[n=1]:
         - p:
@@ -160,7 +160,7 @@ text:
           - s[n=j]: tā yo veda /
           - s[n=k]: sa veda brahma /
           - s[n=l]: sarve 'smai devā balimāvahanti // 3//
-          - s[n=m]: iti pañcamo 'nuvākaḥ //
+          - s@colophon[n=m]: iti pañcamo 'nuvākaḥ //
     - paragraph[n=6]:
       - verse[n=1]:
         - p:
@@ -187,7 +187,7 @@ text:
           - s[n=i]: satyātma prāṇārāmaṃ mana ānandam /
           - s[n=j]: śānti samr̥ddʰamamr̥tam /
           - s[n=k]: iti prācīnayogyopāssva // 2//
-          - s[n=l]: iti ṣaṣṭʰo 'nuvākaḥ //
+          - s@colophon[n=l]: iti ṣaṣṭʰo 'nuvākaḥ //
     - paragraph[n=7]:
       - verse[n=1]:
         - p:
@@ -202,7 +202,7 @@ text:
           - s[n=i]: etadadʰividʰāya r̥ṣiravocat /
           - s[n=j]: pāṅktaṃ vā idam̐ sarvam /
           - s[n=k]: pāṅktenaiva pāṅktam̐ spr̥ṇotīti // 1//
-          - s[n=l]: iti saptamo 'nuvākaḥ //
+          - s@colophon[n=l]: iti saptamo 'nuvākaḥ //
     - paragraph[n=8]:
       - verse[n=1]:
         - p:
@@ -216,7 +216,7 @@ text:
           - s[n=h]: omityagnihotramanujānāti /
           - s[n=i]: omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti /
           - s[n=j]: brahmaivopāpnoti // 1//
-          - s[n=k]: ityaṣṭamo 'nuvākaḥ //
+          - s@colophon[n=k]: ityaṣṭamo 'nuvākaḥ //
     - paragraph[n=9]:
       - verse[n=1]:
         - p:
@@ -236,7 +236,7 @@ text:
           - s[n=n]: tapa iti taponityaḥ pauruśiṣṭiḥ /
           - s[n=o]: svādʰyāyapravacane eveti nāko maudagalyaḥ /
           - s[n=p]: taddʰi tapastaddʰi tapaḥ // 1//
-          - s[n=q]: iti navamo 'nuvākaḥ //
+          - s@colophon[n=q]: iti navamo 'nuvākaḥ //
     - paragraph[n=10]:
       - verse[n=1]:
         - p:
@@ -246,7 +246,7 @@ text:
           - s[n=d]: draviṇam̐ savarcasam /
           - s[n=e]: sumedʰa amr̥tokṣitaḥ /
           - s[n=f]: iti triśaṅkorvedānuvacanam // 1//
-          - s[n=g]: iti daśamo 'nuvākaḥ //
+          - s@colophon[n=g]: iti daśamo 'nuvākaḥ //
     - paragraph[n=11]:
       - verse[n=1]:
         - p:
@@ -303,7 +303,7 @@ text:
           - s[n=o]: etadanuśāsanam /
           - s[n=p]: evamupāsitavyam /
           - s[n=q]: evamu caitadupāsyam // 4//
-          - s[n=r]: ityekādaśa 'nuvākaḥ //
+          - s@colophon[n=r]: ityekādaśa 'nuvākaḥ //
     - paragraph[n=12]:
       - verse[n=1]:
         - p:
@@ -322,8 +322,8 @@ text:
           - s[n=m]: āvīnmām /
           - s[n=n]: āvīt vaktāram /
           - s[n=o]: āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//
-          - s[n=p]: iti dvādaśo 'nuvākaḥ //
-          - s[n=q]: iti śīkṣāvallī samāptā //
+          - s@colophon[n=p]: iti dvādaśo 'nuvākaḥ //
+          - s@colophon[n=q]: iti śīkṣāvallī samāptā //
   - chapter[n=2]:
     - paragraph[n=1]:
       - verse[n=1]:
@@ -354,7 +354,7 @@ text:
           - s[n=x]: ayamātmā /
           - s[n=y]: idaṃ puccʰaṃ pratiṣṭʰā /
           - s[n=z]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=aa]: iti pratʰamo 'nuvākaḥ //
+          - s@colophon[n=aa]: iti pratʰamo 'nuvākaḥ //
     - paragraph[n=2]:
       - verse[n=1]:
         - p:
@@ -384,7 +384,7 @@ text:
           - s[n=x]: ākāśa ātmā /
           - s[n=y]: pr̥tʰivī puccʰaṃ pratiṣṭʰā /
           - s[n=z]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=aa]: iti dvitīyo 'nuvākaḥ //
+          - s@colophon[n=aa]: iti dvitīyo 'nuvākaḥ //
     - paragraph[n=3]:
       - verse[n=1]:
         - p:
@@ -410,7 +410,7 @@ text:
           - s[n=t]: ādeśa ātmā /
           - s[n=u]: atʰarvāṅgirasaḥ puccʰaṃ pratiṣṭʰā /
           - s[n=v]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=w]: iti tr̥tīyo 'nuvākaḥ //
+          - s@colophon[n=w]: iti tr̥tīyo 'nuvākaḥ //
     - paragraph[n=4]:
       - verse[n=1]:
         - p:
@@ -432,7 +432,7 @@ text:
           - s[n=p]: yoga ātmā /
           - s[n=q]: mahaḥ puccʰaṃ pratiṣṭʰā /
           - s[n=r]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=s]: iti caturtʰo 'nuvākaḥ //
+          - s@colophon[n=s]: iti caturtʰo 'nuvākaḥ //
     - paragraph[n=5]:
       - verse[n=1]:
         - p:
@@ -458,7 +458,7 @@ text:
           - s[n=t]: ānanda ātmā /
           - s[n=u]: brahma puccʰaṃ pratiṣṭʰā /
           - s[n=v]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=w]: iti pañcamo 'nuvākaḥ //
+          - s@colophon[n=w]: iti pañcamo 'nuvākaḥ //
     - paragraph[n=6]:
       - verse[n=1]:
         - p:
@@ -489,7 +489,7 @@ text:
           - s[n=y]: yadidaṃ kiñca /
           - s[n=z]: tatsatyamityācakṣate /
           - s[n=aa]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=ab]: iti ṣaṣṭʰo 'nuvākaḥ //
+          - s@colophon[n=ab]: iti ṣaṣṭʰo 'nuvākaḥ //
     - paragraph[n=7]:
       - verse[n=1]:
         - p:
@@ -511,7 +511,7 @@ text:
           - s[n=p]: atʰa tasya bʰayaṃ bʰavati /
           - s[n=q]: tatveva bʰayaṃ viduṣo 'manvānasya /
           - s[n=r]: tadapyeṣa śloko bʰavati // 1//
-          - s[n=s]: iti saptamo 'nuvākaḥ //
+          - s@colophon[n=s]: iti saptamo 'nuvākaḥ //
     - paragraph[n=8]:
       - verse[n=1]:
         - p:
@@ -574,7 +574,7 @@ text:
           - s[n=i]: etaṃ vijñānamayamātmānamupasaṅkrāmati /
           - s[n=j]: etamānandamayamātmānamupasaṅkrāmati /
           - s[n=k]: tadapyeṣa śloko bʰavati // 5//
-          - s[n=l]: ityaṣṭamo 'nuvākaḥ //
+          - s@colophon[n=l]: ityaṣṭamo 'nuvākaḥ //
     - paragraph[n=9]:
       - verse[n=1]:
         - p:
@@ -589,8 +589,8 @@ text:
           - s[n=i]: ubʰe hyevaiṣa ete ātmānam̐ spr̥ṇute /
           - s[n=j]: ya evaṃ veda /
           - s[n=k]: ityupaniṣat // 1//
-          - s[n=l]: iti navamo 'nuvākaḥ //
-          - s[n=m]: iti brahmānandavallī samāptā //
+          - s@colophon[n=l]: iti navamo 'nuvākaḥ //
+          - s@colophon[n=m]: iti brahmānandavallī samāptā //
   - chapter[n=3]:
     - paragraph[n=1]:
       - verse[n=1]:
@@ -613,7 +613,7 @@ text:
           - s[n=p]: tadbrahmeti /
           - s[n=q]: sa tapo 'tapyata /
           - s[n=r]: sa tapastaptvā // 1//
-          - s[n=s]: iti pratʰamo 'nuvākaḥ //
+          - s@colophon[n=s]: iti pratʰamo 'nuvākaḥ //
     - paragraph[n=2]:
       - verse[n=1]:
         - p:
@@ -630,7 +630,7 @@ text:
           - s[n=k]: tapo brahmeti /
           - s[n=l]: sa tapo 'tapyata /
           - s[n=m]: sa tapastaptvā // 1//
-          - s[n=n]: iti dvitīyo 'nuvākaḥ //
+          - s@colophon[n=n]: iti dvitīyo 'nuvākaḥ //
     - paragraph[n=3]:
       - verse[n=1]:
         - p:
@@ -646,7 +646,7 @@ text:
           - s[n=j]: tapo brahmeti /
           - s[n=k]: sa tapo 'tapyata /
           - s[n=l]: sa tapastaptvā // 1//
-          - s[n=m]: iti tr̥tīyo 'nuvākaḥ //
+          - s@colophon[n=m]: iti tr̥tīyo 'nuvākaḥ //
     - paragraph[n=4]:
       - verse[n=1]:
         - p:
@@ -663,7 +663,7 @@ text:
           - s[n=k]: tapo brahmeti /
           - s[n=l]: sa tapo 'tapyata /
           - s[n=m]: sa tapastaptvā // 1//
-          - s[n=n]: iti caturtʰo 'nuvākaḥ //
+          - s@colophon[n=n]: iti caturtʰo 'nuvākaḥ //
     - paragraph[n=5]:
       - verse[n=1]:
         - p:
@@ -679,7 +679,7 @@ text:
           - s[n=j]: tapo brahmeti /
           - s[n=k]: sa tapo 'tapyata /
           - s[n=l]: sa tapastaptvā // 1//
-          - s[n=m]: iti pañcamo 'nuvākaḥ //
+          - s@colophon[n=m]: iti pañcamo 'nuvākaḥ //
     - paragraph[n=6]:
       - verse[n=1]:
         - p:
@@ -693,7 +693,7 @@ text:
           - s[n=h]: annavānannādo bʰavati /
           - s[n=i]: mahānbʰavati prajayā paśubʰirbrahmavarcasena /
           - s[n=j]: mahān kīrtyā // 1//
-          - s[n=k]: iti ṣaṣtʰo 'nuvākaḥ //
+          - s@colophon[n=k]: iti ṣaṣtʰo 'nuvākaḥ //
     - paragraph[n=7]:
       - verse[n=1]:
         - p:
@@ -709,7 +709,7 @@ text:
           - s[n=j]: mahānbʰavati prajayā
           - s[n=k]: paśubʰirbrahmavarcasena /
           - s[n=l]: mahān kīrtyā // 1//
-          - s[n=m]: iti saptamo 'nuvākaḥ //
+          - s@colophon[n=m]: iti saptamo 'nuvākaḥ //
     - paragraph[n=8]:
       - verse[n=1]:
         - p:
@@ -725,7 +725,7 @@ text:
           - s[n=j]: mahānbʰavati prajayā
           - s[n=k]: paśubʰirbrahmavarcasena /
           - s[n=l]: mahān kīrtyā // 1//
-          - s[n=m]: ityaṣṭamo 'nuvākaḥ //
+          - s@colophon[n=m]: ityaṣṭamo 'nuvākaḥ //
     - paragraph[n=9]:
       - verse[n=1]:
         - p:
@@ -741,7 +741,7 @@ text:
           - s[n=j]: mahānbʰavati prajayā
           - s[n=k]: paśubʰirbrahmavarcasena /
           - s[n=l]: mahānkīrtyā // 1//
-          - s[n=m]: iti navamo 'nuvākaḥ //
+          - s@colophon[n=m]: iti navamo 'nuvākaḥ //
     - paragraph[n=10]:
       - verse[n=1]:
         - p:
@@ -816,11 +816,11 @@ text:
           - s[n=i]: suvarna jyotiḥ /
           - s[n=j]: ya evaṃ veda /
           - s[n=k]: ityupaniṣat // 6//
-          - s[n=l]: iti daśamo 'nuvākaḥ //
-          - s[n=m]: // iti bʰr̥guvallī samāptā //
+          - s@colophon[n=l]: iti daśamo 'nuvākaḥ //
+          - s@colophon[n=m]: // iti bʰr̥guvallī samāptā //
           - s[n=n]: āūṃ saha nāvavatu /
           - s[n=o]: saha nau bʰunaktu /
           - s[n=p]: saha vīryaṃ karavāvahai /
           - s[n=q]: tejasvi nāvadʰītamastu mā vidviṣāvahai /
-          - s[n=r]: // āūṃ śāntiḥ śāntiḥ śāntiḥ //
-          - s[n=s]: // hariḥ āūṃ //
+          - s@colophon[n=r]: // āūṃ śāntiḥ śāntiḥ śāntiḥ //
+          - s@colophon[n=s]: // hariḥ āūṃ //

@@ -79,8 +79,8 @@
               <s n="n" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-14">tadvaktāramavatu /</s>
               <s n="o" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-15">avatu mām /</s>
               <s n="p" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-16">avatu vaktāram /</s>
-              <s n="q" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-17">āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//</s>
-              <s n="r" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-18">iti pratʰamo 'nuvākaḥ //</s>
+              <s n="q" type="colophon" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-17">āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//</s>
+              <s n="r" type="colophon" xml:id="chapter-1-paragraph-1-verse-1-p-2-s-18">iti pratʰamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -92,7 +92,7 @@
               <s n="c" xml:id="chapter-1-paragraph-2-verse-2-p-3-s-21">mātrā balam /</s>
               <s n="d" xml:id="chapter-1-paragraph-2-verse-2-p-3-s-22">sāma santānaḥ /</s>
               <s n="e" xml:id="chapter-1-paragraph-2-verse-2-p-3-s-23">ityuktaḥ śīkṣādʰyāyaḥ // 1//</s>
-              <s n="f" xml:id="chapter-1-paragraph-2-verse-2-p-3-s-24">iti dvitīyo 'nuvākaḥ //</s>
+              <s n="f" type="colophon" xml:id="chapter-1-paragraph-2-verse-2-p-3-s-24">iti dvitīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -151,7 +151,7 @@
               <s n="h" xml:id="chapter-1-paragraph-3-verse-6-p-7-s-62">ya evametā mahāsam̐hitā vyākʰyātā veda /</s>
               <s n="i" xml:id="chapter-1-paragraph-3-verse-6-p-7-s-63">sandʰīyate prajayā paśubʰiḥ /</s>
               <s n="j" xml:id="chapter-1-paragraph-3-verse-6-p-7-s-64">brahmavarcasenānnādyena suvargyeṇa lokena // 4//</s>
-              <s n="k" xml:id="chapter-1-paragraph-3-verse-6-p-7-s-65">iti tr̥tīyo 'nuvākaḥ //</s>
+              <s n="k" type="colophon" xml:id="chapter-1-paragraph-3-verse-6-p-7-s-65">iti tr̥tīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -195,7 +195,7 @@
               <s n="g" xml:id="chapter-1-paragraph-4-verse-9-p-10-s-92">evaṃ māṃ brahmacāriṇaḥ /</s>
               <s n="h" xml:id="chapter-1-paragraph-4-verse-9-p-10-s-93">dʰātarāyantu sarvataḥ svāhā /</s>
               <s n="i" xml:id="chapter-1-paragraph-4-verse-9-p-10-s-94">prativeśo 'si pra mā bʰāhi pra mā padyasva // 3//</s>
-              <s n="j" xml:id="chapter-1-paragraph-4-verse-9-p-10-s-95">iti caturtʰo 'nuvākaḥ //</s>
+              <s n="j" type="colophon" xml:id="chapter-1-paragraph-4-verse-9-p-10-s-95">iti caturtʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -243,7 +243,7 @@
               <s n="j" xml:id="chapter-1-paragraph-5-verse-12-p-13-s-126">tā yo veda /</s>
               <s n="k" xml:id="chapter-1-paragraph-5-verse-12-p-13-s-127">sa veda brahma /</s>
               <s n="l" xml:id="chapter-1-paragraph-5-verse-12-p-13-s-128">sarve 'smai devā balimāvahanti // 3//</s>
-              <s n="m" xml:id="chapter-1-paragraph-5-verse-12-p-13-s-129">iti pañcamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-1-paragraph-5-verse-12-p-13-s-129">iti pañcamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -275,7 +275,7 @@
               <s n="i" xml:id="chapter-1-paragraph-6-verse-14-p-15-s-148">satyātma prāṇārāmaṃ mana ānandam /</s>
               <s n="j" xml:id="chapter-1-paragraph-6-verse-14-p-15-s-149">śānti samr̥ddʰamamr̥tam /</s>
               <s n="k" xml:id="chapter-1-paragraph-6-verse-14-p-15-s-150">iti prācīnayogyopāssva // 2//</s>
-              <s n="l" xml:id="chapter-1-paragraph-6-verse-14-p-15-s-151">iti ṣaṣṭʰo 'nuvākaḥ //</s>
+              <s n="l" type="colophon" xml:id="chapter-1-paragraph-6-verse-14-p-15-s-151">iti ṣaṣṭʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -293,7 +293,7 @@
               <s n="i" xml:id="chapter-1-paragraph-7-verse-15-p-16-s-160">etadadʰividʰāya r̥ṣiravocat /</s>
               <s n="j" xml:id="chapter-1-paragraph-7-verse-15-p-16-s-161">pāṅktaṃ vā idam̐ sarvam /</s>
               <s n="k" xml:id="chapter-1-paragraph-7-verse-15-p-16-s-162">pāṅktenaiva pāṅktam̐ spr̥ṇotīti // 1//</s>
-              <s n="l" xml:id="chapter-1-paragraph-7-verse-15-p-16-s-163">iti saptamo 'nuvākaḥ //</s>
+              <s n="l" type="colophon" xml:id="chapter-1-paragraph-7-verse-15-p-16-s-163">iti saptamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -310,7 +310,7 @@
               <s n="h" xml:id="chapter-1-paragraph-8-verse-16-p-17-s-171">omityagnihotramanujānāti /</s>
               <s n="i" xml:id="chapter-1-paragraph-8-verse-16-p-17-s-172">omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti /</s>
               <s n="j" xml:id="chapter-1-paragraph-8-verse-16-p-17-s-173">brahmaivopāpnoti // 1//</s>
-              <s n="k" xml:id="chapter-1-paragraph-8-verse-16-p-17-s-174">ityaṣṭamo 'nuvākaḥ //</s>
+              <s n="k" type="colophon" xml:id="chapter-1-paragraph-8-verse-16-p-17-s-174">ityaṣṭamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -333,7 +333,7 @@
               <s n="n" xml:id="chapter-1-paragraph-9-verse-17-p-18-s-188">tapa iti taponityaḥ pauruśiṣṭiḥ /</s>
               <s n="o" xml:id="chapter-1-paragraph-9-verse-17-p-18-s-189">svādʰyāyapravacane eveti nāko maudagalyaḥ /</s>
               <s n="p" xml:id="chapter-1-paragraph-9-verse-17-p-18-s-190">taddʰi tapastaddʰi tapaḥ // 1//</s>
-              <s n="q" xml:id="chapter-1-paragraph-9-verse-17-p-18-s-191">iti navamo 'nuvākaḥ //</s>
+              <s n="q" type="colophon" xml:id="chapter-1-paragraph-9-verse-17-p-18-s-191">iti navamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -346,7 +346,7 @@
               <s n="d" xml:id="chapter-1-paragraph-10-verse-18-p-19-s-195">draviṇam̐ savarcasam /</s>
               <s n="e" xml:id="chapter-1-paragraph-10-verse-18-p-19-s-196">sumedʰa amr̥tokṣitaḥ /</s>
               <s n="f" xml:id="chapter-1-paragraph-10-verse-18-p-19-s-197">iti triśaṅkorvedānuvacanam // 1//</s>
-              <s n="g" xml:id="chapter-1-paragraph-10-verse-18-p-19-s-198">iti daśamo 'nuvākaḥ //</s>
+              <s n="g" type="colophon" xml:id="chapter-1-paragraph-10-verse-18-p-19-s-198">iti daśamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -412,7 +412,7 @@
               <s n="o" xml:id="chapter-1-paragraph-11-verse-22-p-23-s-243">etadanuśāsanam /</s>
               <s n="p" xml:id="chapter-1-paragraph-11-verse-22-p-23-s-244">evamupāsitavyam /</s>
               <s n="q" xml:id="chapter-1-paragraph-11-verse-22-p-23-s-245">evamu caitadupāsyam // 4//</s>
-              <s n="r" xml:id="chapter-1-paragraph-11-verse-22-p-23-s-246">ityekādaśa 'nuvākaḥ //</s>
+              <s n="r" type="colophon" xml:id="chapter-1-paragraph-11-verse-22-p-23-s-246">ityekādaśa 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -434,8 +434,8 @@
               <s n="m" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-259">āvīnmām /</s>
               <s n="n" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-260">āvīt vaktāram /</s>
               <s n="o" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-261">āūṃ śāntiḥ śāntiḥ śāntiḥ // 1//</s>
-              <s n="p" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-262">iti dvādaśo 'nuvākaḥ //</s>
-              <s n="q" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-263">iti śīkṣāvallī samāptā //</s>
+              <s n="p" type="colophon" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-262">iti dvādaśo 'nuvākaḥ //</s>
+              <s n="q" type="colophon" xml:id="chapter-1-paragraph-12-verse-23-p-24-s-263">iti śīkṣāvallī samāptā //</s>
             </p>
           </div>
         </div>
@@ -470,7 +470,7 @@
               <s n="x" xml:id="chapter-2-paragraph-13-verse-24-p-25-s-287">ayamātmā /</s>
               <s n="y" xml:id="chapter-2-paragraph-13-verse-24-p-25-s-288">idaṃ puccʰaṃ pratiṣṭʰā /</s>
               <s n="z" xml:id="chapter-2-paragraph-13-verse-24-p-25-s-289">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="aa" xml:id="chapter-2-paragraph-13-verse-24-p-25-s-290">iti pratʰamo 'nuvākaḥ //</s>
+              <s n="aa" type="colophon" xml:id="chapter-2-paragraph-13-verse-24-p-25-s-290">iti pratʰamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -503,7 +503,7 @@
               <s n="x" xml:id="chapter-2-paragraph-14-verse-25-p-26-s-314">ākāśa ātmā /</s>
               <s n="y" xml:id="chapter-2-paragraph-14-verse-25-p-26-s-315">pr̥tʰivī puccʰaṃ pratiṣṭʰā /</s>
               <s n="z" xml:id="chapter-2-paragraph-14-verse-25-p-26-s-316">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="aa" xml:id="chapter-2-paragraph-14-verse-25-p-26-s-317">iti dvitīyo 'nuvākaḥ //</s>
+              <s n="aa" type="colophon" xml:id="chapter-2-paragraph-14-verse-25-p-26-s-317">iti dvitīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -532,7 +532,7 @@
               <s n="t" xml:id="chapter-2-paragraph-15-verse-26-p-27-s-337">ādeśa ātmā /</s>
               <s n="u" xml:id="chapter-2-paragraph-15-verse-26-p-27-s-338">atʰarvāṅgirasaḥ puccʰaṃ pratiṣṭʰā /</s>
               <s n="v" xml:id="chapter-2-paragraph-15-verse-26-p-27-s-339">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="w" xml:id="chapter-2-paragraph-15-verse-26-p-27-s-340">iti tr̥tīyo 'nuvākaḥ //</s>
+              <s n="w" type="colophon" xml:id="chapter-2-paragraph-15-verse-26-p-27-s-340">iti tr̥tīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -557,7 +557,7 @@
               <s n="p" xml:id="chapter-2-paragraph-16-verse-27-p-28-s-356">yoga ātmā /</s>
               <s n="q" xml:id="chapter-2-paragraph-16-verse-27-p-28-s-357">mahaḥ puccʰaṃ pratiṣṭʰā /</s>
               <s n="r" xml:id="chapter-2-paragraph-16-verse-27-p-28-s-358">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="s" xml:id="chapter-2-paragraph-16-verse-27-p-28-s-359">iti caturtʰo 'nuvākaḥ //</s>
+              <s n="s" type="colophon" xml:id="chapter-2-paragraph-16-verse-27-p-28-s-359">iti caturtʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -586,7 +586,7 @@
               <s n="t" xml:id="chapter-2-paragraph-17-verse-28-p-29-s-379">ānanda ātmā /</s>
               <s n="u" xml:id="chapter-2-paragraph-17-verse-28-p-29-s-380">brahma puccʰaṃ pratiṣṭʰā /</s>
               <s n="v" xml:id="chapter-2-paragraph-17-verse-28-p-29-s-381">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="w" xml:id="chapter-2-paragraph-17-verse-28-p-29-s-382">iti pañcamo 'nuvākaḥ //</s>
+              <s n="w" type="colophon" xml:id="chapter-2-paragraph-17-verse-28-p-29-s-382">iti pañcamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -620,7 +620,7 @@
               <s n="y" xml:id="chapter-2-paragraph-18-verse-29-p-30-s-407">yadidaṃ kiñca /</s>
               <s n="z" xml:id="chapter-2-paragraph-18-verse-29-p-30-s-408">tatsatyamityācakṣate /</s>
               <s n="aa" xml:id="chapter-2-paragraph-18-verse-29-p-30-s-409">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="ab" xml:id="chapter-2-paragraph-18-verse-29-p-30-s-410">iti ṣaṣṭʰo 'nuvākaḥ //</s>
+              <s n="ab" type="colophon" xml:id="chapter-2-paragraph-18-verse-29-p-30-s-410">iti ṣaṣṭʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -645,7 +645,7 @@
               <s n="p" xml:id="chapter-2-paragraph-19-verse-30-p-31-s-426">atʰa tasya bʰayaṃ bʰavati /</s>
               <s n="q" xml:id="chapter-2-paragraph-19-verse-30-p-31-s-427">tatveva bʰayaṃ viduṣo 'manvānasya /</s>
               <s n="r" xml:id="chapter-2-paragraph-19-verse-30-p-31-s-428">tadapyeṣa śloko bʰavati // 1//</s>
-              <s n="s" xml:id="chapter-2-paragraph-19-verse-30-p-31-s-429">iti saptamo 'nuvākaḥ //</s>
+              <s n="s" type="colophon" xml:id="chapter-2-paragraph-19-verse-30-p-31-s-429">iti saptamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -719,7 +719,7 @@
               <s n="i" xml:id="chapter-2-paragraph-20-verse-35-p-36-s-478">etaṃ vijñānamayamātmānamupasaṅkrāmati /</s>
               <s n="j" xml:id="chapter-2-paragraph-20-verse-35-p-36-s-479">etamānandamayamātmānamupasaṅkrāmati /</s>
               <s n="k" xml:id="chapter-2-paragraph-20-verse-35-p-36-s-480">tadapyeṣa śloko bʰavati // 5//</s>
-              <s n="l" xml:id="chapter-2-paragraph-20-verse-35-p-36-s-481">ityaṣṭamo 'nuvākaḥ //</s>
+              <s n="l" type="colophon" xml:id="chapter-2-paragraph-20-verse-35-p-36-s-481">ityaṣṭamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -737,8 +737,8 @@
               <s n="i" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-490">ubʰe hyevaiṣa ete ātmānam̐ spr̥ṇute /</s>
               <s n="j" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-491">ya evaṃ veda /</s>
               <s n="k" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-492">ityupaniṣat // 1//</s>
-              <s n="l" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-493">iti navamo 'nuvākaḥ //</s>
-              <s n="m" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-494">iti brahmānandavallī samāptā //</s>
+              <s n="l" type="colophon" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-493">iti navamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-2-paragraph-21-verse-36-p-37-s-494">iti brahmānandavallī samāptā //</s>
             </p>
           </div>
         </div>
@@ -765,7 +765,7 @@
               <s n="p" xml:id="chapter-3-paragraph-22-verse-37-p-38-s-510">tadbrahmeti /</s>
               <s n="q" xml:id="chapter-3-paragraph-22-verse-37-p-38-s-511">sa tapo 'tapyata /</s>
               <s n="r" xml:id="chapter-3-paragraph-22-verse-37-p-38-s-512">sa tapastaptvā // 1//</s>
-              <s n="s" xml:id="chapter-3-paragraph-22-verse-37-p-38-s-513">iti pratʰamo 'nuvākaḥ //</s>
+              <s n="s" type="colophon" xml:id="chapter-3-paragraph-22-verse-37-p-38-s-513">iti pratʰamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -785,7 +785,7 @@
               <s n="k" xml:id="chapter-3-paragraph-23-verse-38-p-39-s-524">tapo brahmeti /</s>
               <s n="l" xml:id="chapter-3-paragraph-23-verse-38-p-39-s-525">sa tapo 'tapyata /</s>
               <s n="m" xml:id="chapter-3-paragraph-23-verse-38-p-39-s-526">sa tapastaptvā // 1//</s>
-              <s n="n" xml:id="chapter-3-paragraph-23-verse-38-p-39-s-527">iti dvitīyo 'nuvākaḥ //</s>
+              <s n="n" type="colophon" xml:id="chapter-3-paragraph-23-verse-38-p-39-s-527">iti dvitīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -804,7 +804,7 @@
               <s n="j" xml:id="chapter-3-paragraph-24-verse-39-p-40-s-537">tapo brahmeti /</s>
               <s n="k" xml:id="chapter-3-paragraph-24-verse-39-p-40-s-538">sa tapo 'tapyata /</s>
               <s n="l" xml:id="chapter-3-paragraph-24-verse-39-p-40-s-539">sa tapastaptvā // 1//</s>
-              <s n="m" xml:id="chapter-3-paragraph-24-verse-39-p-40-s-540">iti tr̥tīyo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-24-verse-39-p-40-s-540">iti tr̥tīyo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -824,7 +824,7 @@
               <s n="k" xml:id="chapter-3-paragraph-25-verse-40-p-41-s-551">tapo brahmeti /</s>
               <s n="l" xml:id="chapter-3-paragraph-25-verse-40-p-41-s-552">sa tapo 'tapyata /</s>
               <s n="m" xml:id="chapter-3-paragraph-25-verse-40-p-41-s-553">sa tapastaptvā // 1//</s>
-              <s n="n" xml:id="chapter-3-paragraph-25-verse-40-p-41-s-554">iti caturtʰo 'nuvākaḥ //</s>
+              <s n="n" type="colophon" xml:id="chapter-3-paragraph-25-verse-40-p-41-s-554">iti caturtʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -843,7 +843,7 @@
               <s n="j" xml:id="chapter-3-paragraph-26-verse-41-p-42-s-564">tapo brahmeti /</s>
               <s n="k" xml:id="chapter-3-paragraph-26-verse-41-p-42-s-565">sa tapo 'tapyata /</s>
               <s n="l" xml:id="chapter-3-paragraph-26-verse-41-p-42-s-566">sa tapastaptvā // 1//</s>
-              <s n="m" xml:id="chapter-3-paragraph-26-verse-41-p-42-s-567">iti pañcamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-26-verse-41-p-42-s-567">iti pañcamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -860,7 +860,7 @@
               <s n="h" xml:id="chapter-3-paragraph-27-verse-42-p-43-s-575">annavānannādo bʰavati /</s>
               <s n="i" xml:id="chapter-3-paragraph-27-verse-42-p-43-s-576">mahānbʰavati prajayā paśubʰirbrahmavarcasena /</s>
               <s n="j" xml:id="chapter-3-paragraph-27-verse-42-p-43-s-577">mahān kīrtyā // 1//</s>
-              <s n="k" xml:id="chapter-3-paragraph-27-verse-42-p-43-s-578">iti ṣaṣtʰo 'nuvākaḥ //</s>
+              <s n="k" type="colophon" xml:id="chapter-3-paragraph-27-verse-42-p-43-s-578">iti ṣaṣtʰo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -879,7 +879,7 @@
               <s n="j" xml:id="chapter-3-paragraph-28-verse-43-p-44-s-588">mahānbʰavati prajayā</s>
               <s n="k" xml:id="chapter-3-paragraph-28-verse-43-p-44-s-589">paśubʰirbrahmavarcasena /</s>
               <s n="l" xml:id="chapter-3-paragraph-28-verse-43-p-44-s-590">mahān kīrtyā // 1//</s>
-              <s n="m" xml:id="chapter-3-paragraph-28-verse-43-p-44-s-591">iti saptamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-28-verse-43-p-44-s-591">iti saptamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -898,7 +898,7 @@
               <s n="j" xml:id="chapter-3-paragraph-29-verse-44-p-45-s-601">mahānbʰavati prajayā</s>
               <s n="k" xml:id="chapter-3-paragraph-29-verse-44-p-45-s-602">paśubʰirbrahmavarcasena /</s>
               <s n="l" xml:id="chapter-3-paragraph-29-verse-44-p-45-s-603">mahān kīrtyā // 1//</s>
-              <s n="m" xml:id="chapter-3-paragraph-29-verse-44-p-45-s-604">ityaṣṭamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-29-verse-44-p-45-s-604">ityaṣṭamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -917,7 +917,7 @@
               <s n="j" xml:id="chapter-3-paragraph-30-verse-45-p-46-s-614">mahānbʰavati prajayā</s>
               <s n="k" xml:id="chapter-3-paragraph-30-verse-45-p-46-s-615">paśubʰirbrahmavarcasena /</s>
               <s n="l" xml:id="chapter-3-paragraph-30-verse-45-p-46-s-616">mahānkīrtyā // 1//</s>
-              <s n="m" xml:id="chapter-3-paragraph-30-verse-45-p-46-s-617">iti navamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-30-verse-45-p-46-s-617">iti navamo 'nuvākaḥ //</s>
             </p>
           </div>
         </div>
@@ -1005,14 +1005,14 @@
               <s n="i" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-676">suvarna jyotiḥ /</s>
               <s n="j" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-677">ya evaṃ veda /</s>
               <s n="k" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-678">ityupaniṣat // 6//</s>
-              <s n="l" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-679">iti daśamo 'nuvākaḥ //</s>
-              <s n="m" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-680">// iti bʰr̥guvallī samāptā //</s>
+              <s n="l" type="colophon" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-679">iti daśamo 'nuvākaḥ //</s>
+              <s n="m" type="colophon" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-680">// iti bʰr̥guvallī samāptā //</s>
               <s n="n" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-681">āūṃ saha nāvavatu /</s>
               <s n="o" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-682">saha nau bʰunaktu /</s>
               <s n="p" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-683">saha vīryaṃ karavāvahai /</s>
               <s n="q" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-684">tejasvi nāvadʰītamastu mā vidviṣāvahai /</s>
-              <s n="r" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-685">// āūṃ śāntiḥ śāntiḥ śāntiḥ //</s>
-              <s n="s" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-686">// hariḥ āūṃ //</s>
+              <s n="r" type="colophon" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-685">// āūṃ śāntiḥ śāntiḥ śāntiḥ //</s>
+              <s n="s" type="colophon" xml:id="chapter-3-paragraph-31-verse-51-p-52-s-686">// hariḥ āūṃ //</s>
             </p>
           </div>
         </div>
