@@ -26,10 +26,10 @@
         <date when="2026-06-06">2026-06-06</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Black Yajur-Veda: Śvetāśvatara-Upaniṣad (v0.0.1.draft). 2026-06-06. By: Jost Gippert, Florian Matter, Thomas Oberlies, Oskar von Hinüber. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Black Yajur-Veda: Śvetāśvatara-Upaniṣad (v0.1.0). 2026-06-06. By: Jost Gippert, Florian Matter, Thomas Oberlies, Oskar von Hinüber. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">0.0.1.draft</idno>
+        <idno type="version">0.1.0</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="svetu-1">
