@@ -40,7 +40,7 @@ jobs:
           JING=tools/jing.jar
 
           git fetch origin main
-          CHANGED=$(git diff --name-only origin/main..HEAD | grep 'output.xml$' || true)
+          CHANGED=$(git diff --name-only --diff-filter=AMR origin/main..HEAD | grep 'output.xml$' || true)
 
           if [ -z "$CHANGED" ]; then
             echo "✅ No changed output.xml files to validate."
