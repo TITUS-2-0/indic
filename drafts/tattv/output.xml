@@ -8,13 +8,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-04-08">2025-04-08</date>
+        <date when="2026-11-13">2026-11-13</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Umasvati, Tattvarthasutra by Unknown (draft version). 2025-04-08. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Umasvati, Tattvarthasutra by Unknown (v0.0.1.draft). 2026-11-13. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <p>Missing metadata</p>
@@ -22,14 +22,14 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="san-Latn-x-classic-unacced-tld" ana="primary">Sanskrit</language>
-        <language ident="eng-Latn" ana="meta">English</language>
+        <language ana="primary" ident="san-Latn-x-classic-unacced-tld">Sanskrit</language>
+        <language ana="meta" ident="eng-Latn">English</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="san-Latn-x-classic-unacced-tld">
     <body>
-      <div n="1" xml:id="adhyaya-1" type="adhyaya" data-level="1">
+      <div data-level="1" n="1" type="adhyaya" xml:id="adhyaya-1">
         <p xml:id="adhyaya-1-p-1">
           <s n="1" xml:id="adhyaya-1-p-1-s-1">samyagdarśana jñāna cāritrāṇi mokṣamārgaḥ</s>
           <s n="2" xml:id="adhyaya-1-p-1-s-2">tattvārthaśraddhānaṃ samyagdarśanam</s>
@@ -75,7 +75,7 @@
           <s n="35" xml:id="adhyaya-1-p-1-s-37">ādya-śabdau dvi tri bhedau<note xml:id="adhyaya-1-p-1-s-37-note-6" xml:lang="eng-Latn">not in sarvārthasiddhi</note> .</s>
         </p>
       </div>
-      <div n="2" xml:id="adhyaya-2" type="adhyaya" data-level="1">
+      <div data-level="1" n="2" type="adhyaya" xml:id="adhyaya-2">
         <p xml:id="adhyaya-2-p-2">
           <s n="1" xml:id="adhyaya-2-p-2-s-38">aupaśamikakṣāyikau bhāvau miśraśca jīvasya svatattvam audayika pāriṇāmiko ca</s>
           <s n="2" xml:id="adhyaya-2-p-2-s-39">dvi-navāṣṭādaśaikaviṃśātitribhedā yathākramam</s>
@@ -149,7 +149,7 @@
           <s n="54a" xml:id="adhyaya-2-p-2-s-97">aupapādika caramottamadehā'saṃkhyeya varṣāyuṣonavartyayuṣaḥ</s>
         </p>
       </div>
-      <div n="3" xml:id="adhyaya-3" type="adhyaya" data-level="1">
+      <div data-level="1" n="3" type="adhyaya" xml:id="adhyaya-3">
         <p xml:id="adhyaya-3-p-3">
           <s n="1" xml:id="adhyaya-3-p-3-s-98">ratnaśarkarābālukāpaṃka dhūmatamomahātamaḥ prabhā bhūmayo ghanāmbuvātākāśa pratiṣṭhāḥ saptādho'dhaḥ</s>
           <s n="2" xml:id="adhyaya-3-p-3-s-99">tāsu narakāḥ</s>
@@ -193,7 +193,7 @@
           <s n="39" xml:id="adhyaya-3-p-3-s-136">tiryagyojivānāṃ ca</s>
         </p>
       </div>
-      <div n="4" xml:id="adhyaya-4" type="adhyaya" data-level="1">
+      <div data-level="1" n="4" type="adhyaya" xml:id="adhyaya-4">
         <p xml:id="adhyaya-4-p-4">
           <s n="1" xml:id="adhyaya-4-p-4-s-137">devāścaturṇikāyāḥ</s>
           <s n="2" xml:id="adhyaya-4-p-4-s-138">tr̥tīyaḥ pītaleśyaḥ<note xml:id="adhyaya-4-p-4-s-138-note-18" xml:lang="eng-Latn">not in sarvārthasiddhi</note>
@@ -276,7 +276,7 @@
           <s n="55" xml:id="adhyaya-4-p-4-s-199">laukāntikānām aṣṭau sāgaropamāṇi sarveṣām</s>
         </p>
       </div>
-      <div n="5" xml:id="adhyaya-5" type="adhyaya" data-level="1">
+      <div data-level="1" n="5" type="adhyaya" xml:id="adhyaya-5">
         <p xml:id="adhyaya-5-p-5">
           <s n="1" xml:id="adhyaya-5-p-5-s-200">ajīvakāyā dharmādharmākāśapudgalāḥ</s>
           <s n="2" xml:id="adhyaya-5-p-5-s-201">dravyāṇi jīvaś ca<note xml:id="adhyaya-5-p-5-s-201-note-34" xml:lang="eng-Latn">sarvārthasiddhi 2 and 3</note>
@@ -329,7 +329,7 @@
           <s n="45" xml:id="adhyaya-5-p-5-s-246">yogopayogau jīveṣu</s>
         </p>
       </div>
-      <div n="6" xml:id="adhyaya-6" type="adhyaya" data-level="1">
+      <div data-level="1" n="6" type="adhyaya" xml:id="adhyaya-6">
         <p xml:id="adhyaya-6-p-6">
           <s n="1" xml:id="adhyaya-6-p-6-s-247">kāyavāṇmanaḥkarma yogaḥ</s>
           <s n="2" xml:id="adhyaya-6-p-6-s-248">sa āśravaḥ</s>
@@ -362,7 +362,7 @@
           <s n="27" xml:id="adhyaya-6-p-6-s-275">vighnakaraṇam antarāyasya</s>
         </p>
       </div>
-      <div n="7" xml:id="adhyaya-7" type="adhyaya" data-level="1">
+      <div data-level="1" n="7" type="adhyaya" xml:id="adhyaya-7">
         <p xml:id="adhyaya-7-p-7">
           <s n="1" xml:id="adhyaya-7-p-7-s-276">himṣānr̥tasteyābrahmaparigrahebhyo viratir vratam</s>
           <s n="2" xml:id="adhyaya-7-p-7-s-277">deśasarvato'ṇumahatī</s>
@@ -405,7 +405,7 @@
           <s n="39" xml:id="adhyaya-7-p-7-s-314">vidhidravyadātr̥pātraviśeṣāt tadviśeṣaḥ</s>
         </p>
       </div>
-      <div n="8" xml:id="adhyaya-8" type="adhyaya" data-level="1">
+      <div data-level="1" n="8" type="adhyaya" xml:id="adhyaya-8">
         <p xml:id="adhyaya-8-p-8">
           <s n="1" xml:id="adhyaya-8-p-8-s-315">mithyādarśanāviratipramadākaṣāyayogā bandhahetavaḥ</s>
           <s n="2" xml:id="adhyaya-8-p-8-s-316">sakaṣāyatvāj jīvaḥ karmaṇo yogyān pudgalān adatte</s>
@@ -437,7 +437,7 @@
           <s n="27" xml:id="adhyaya-8-p-8-s-342">ato'nyat pāpam</s>
         </p>
       </div>
-      <div n="9" xml:id="adhyaya-9" type="adhyaya" data-level="1">
+      <div data-level="1" n="9" type="adhyaya" xml:id="adhyaya-9">
         <p xml:id="adhyaya-9-p-9">
           <s n="1" xml:id="adhyaya-9-p-9-s-343">āśravanirodhaḥ saṃvaraḥ</s>
           <s n="2" xml:id="adhyaya-9-p-9-s-344">sa gupti samiti dharmā nuprekṣāparīṣahajayacāritraiḥ</s>
@@ -492,7 +492,7 @@
           <s n="50" xml:id="adhyaya-9-p-9-s-393">saṃyama śruta pratisevanā tīrtha liṅga leśyopapāta sthānavikalpataḥ sādhyāḥ</s>
         </p>
       </div>
-      <div n="10" xml:id="adhyaya-10" type="adhyaya" data-level="1">
+      <div data-level="1" n="10" type="adhyaya" xml:id="adhyaya-10">
         <p xml:id="adhyaya-10-p-10">
           <s n="1" xml:id="adhyaya-10-p-10-s-394">mohakṣayāj jñāna darśanāvaraṇāntarāyakṣayāc ca kevalam</s>
           <s n="2" xml:id="adhyaya-10-p-10-s-395">bandhahetvabhāva nirjarābhyām</s>
